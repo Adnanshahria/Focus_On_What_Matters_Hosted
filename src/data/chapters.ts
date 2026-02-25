@@ -3894,92 +3894,92 @@ export const chapters: Chapter[] = [
     "id": 41,
     "sectionTitle": {
       "en": "The Inner World",
-      "bn": "The Inner World"
+      "bn": "অভ্যন্তরীণ জগৎ"
     },
     "chapterTitle": {
       "en": "Internal Fortification",
-      "bn": "Internal Fortification"
+      "bn": "অভ্যন্তরীণ দুর্গ রক্ষা"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Each day acquire something that will fortify you against poverty, against death, indeed against other misfortunes as well.",
-          "bn": "Each day acquire something that will fortify you against poverty, against death, indeed against other misfortunes as well."
+          "bn": "প্রতিদিন এমন কিছু অর্জন করুন যা আপনাকে দারিদ্র্য, মৃত্যু এবং অন্যান্য যাবতীয় দুর্ভাগ্যের বিরুদ্ধে মানসিকভাবে শক্তিশালী ও সুরক্ষিত রাখবে।"
         },
         "author": {
           "en": "Seneca",
-          "bn": "Seneca"
+          "bn": "সেনেকা"
         }
       },
       {
         "quote": {
           "en": "The REAL reward you acquire is not the money or status, it’s the energy, pride, and sense of accomplishment.",
-          "bn": "The REAL reward you acquire is not the money or status, it’s the energy, pride, and sense of accomplishment."
+          "bn": "আপনি জীবনের সংগ্রামের মাধ্যমে যে প্রকৃত পুরষ্কার লাভ করেন তা টাকা বা পদমর্যাদা নয় বরং তা হলো আপনার ভেতরের প্রাণশক্তি, আত্মসম্মান এবং সার্থকতা অর্জনের গভীর অনুভূতি।"
         },
         "author": {
           "en": "Seneca",
-          "bn": "Seneca"
+          "bn": "সেনেকা"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "বাহ্যিক বনাম অভ্যন্তরীণ পুরস্কার",
-          "bn": "বাহ্যিক বনাম অভ্যন্তরীণ পুরস্কার"
+          "en": "Intrinsic vs. Extrinsic Rewards",
+          "bn": "অভ্যন্তরীণ বনাম বাহ্যিক পুরস্কার"
         },
         "content": {
-          "en": "টাকা বা স্ট্যাটাস হলো কাজের উপজাত (By-product)। আসল পুরস্কার হলো কাজ শেষ করার আত্মতৃপ্তি।",
-          "bn": "টাকা বা স্ট্যাটাস হলো কাজের উপজাত (By-product)। আসল পুরস্কার হলো কাজ শেষ করার আত্মতৃপ্তি।"
+          "en": "Money and status are mere by-products of meaningful work. The primary reward is the internal satisfaction of a job well done.",
+          "bn": "টাকা বা সামাজিক মর্যাদা হলো ভালো কাজের একটি আনুসাঙ্গিক উপজাত (By-product) মাত্র। কাজের আসল পুরস্কার হলো তা সুন্দরভাবে শেষ করার পর মনের গভীর আত্মতৃপ্তি।"
         }
       },
       {
         "title": {
-          "en": "প্রতিদিনের সুরক্ষা",
-          "bn": "প্রতিদিনের সুরক্ষা"
+          "en": "Daily Incremental Defense",
+          "bn": "প্রতিদিনের মানসিক সুরক্ষাকবচ"
         },
         "content": {
-          "en": "প্রতিদিন এমন একটি চিন্তা বা দক্ষতা অর্জন করুন যা আপনাকে ভবিষ্যতের দারিদ্র্য বা মৃত্যুভয় থেকে রক্ষা করবে।",
-          "bn": "প্রতিদিন এমন একটি চিন্তা বা দক্ষতা অর্জন করুন যা আপনাকে ভবিষ্যতের দারিদ্র্য বা মৃত্যুভয় থেকে রক্ষা করবে।"
+          "en": "Acquire one new thought or skill daily to build a mental fortress against future economic or existential crises.",
+          "bn": "প্রতিদিন অন্তত একটি নতুন চিন্তা বা দক্ষতা অর্জন করুন যা ভবিষ্যতের যেকোনো অর্থনৈতিক বা অস্তিত্বগত সঙ্কটের সময় আপনার মানসিক দুর্গ হিসেবে কাজ করবে।"
         }
       },
       {
         "title": {
-          "en": "তুলনার ফাঁদ",
-          "bn": "তুলনার ফাঁদ"
+          "en": "The Comparison Trap",
+          "bn": "তুলনার বিষাক্ত ফাঁদ"
         },
         "content": {
-          "en": "অন্যের ফলোয়ার বা সম্পদ দেখে নিজের উন্নতি মাপা বোকামি। নিজের গতকালের সাথে আজকের তুলনা করুন।",
-          "bn": "অন্যের ফলোয়ার বা সম্পদ দেখে নিজের উন্নতি মাপা বোকামি। নিজের গতকালের সাথে আজকের তুলনা করুন।"
+          "en": "Measuring progress against others is futile. The only valid benchmark is comparing who you are today with who you were yesterday.",
+          "bn": "অন্যের সম্পদ বা খ্যাতির সাথে নিজের উন্নতির তুলনা করা একটি বড় ভুল। প্রগতির সত্যিকারের মাপকাঠি হলো—আপনি আপনার গতকালের চেয়ে আজ কতটা উন্নত হয়েছেন।"
         }
       },
       {
         "title": {
-          "en": "দক্ষতা অর্জন",
-          "bn": "দক্ষতা অর্জন"
+          "en": "Competence as Insurance",
+          "bn": "বীমা হিসেবে দক্ষতা"
         },
         "content": {
-          "en": "আপনি যদি বিখ্যাত নাও হন, তবুও দক্ষতা অর্জন করলে আপনি জীবনের যেকোনো ঝড় মোকাবেলা করতে পারবেন।",
-          "bn": "আপনি যদি বিখ্যাত নাও হন, তবুও দক্ষতা অর্জন করলে আপনি জীবনের যেকোনো ঝড় মোকাবেলা করতে পারবেন।"
+          "en": "Fame is fickle, but competence is durable. Mastering a craft provides security that no market crash can strip away.",
+          "bn": "খ্যাতি বা পরিচিতি ক্ষণস্থায়ী হতে পারে, কিন্তু দক্ষতা দীর্ঘস্থায়ী। কোনো কাজে দক্ষ হয়ে উঠলে আপনি এমন এক নিরাপত্তা অর্জন করবেন যা বাজারের চরম ধসও কেড়ে নিতে পারবে না।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "দিনের শুরুতে ঠিক করুন আজ কোন একটি নির্দিষ্ট বিষয়ে আপনি গতকালের চেয়ে ভালো করবেন। দিন শেষে নিজেকে প্রশ্ন করুন: \"আজ আমি এমন কী শিখেছি বা করেছি যা আমাকে মানসিকভাবে শক্তিশালী করেছে?\"",
-      "bn": "দিনের শুরুতে ঠিক করুন আজ কোন একটি নির্দিষ্ট বিষয়ে আপনি গতকালের চেয়ে ভালো করবেন। দিন শেষে নিজেকে প্রশ্ন করুন: \"আজ আমি এমন কী শিখেছি বা করেছি যা আমাকে মানসিকভাবে শক্তিশালী করেছে?\""
+      "en": "At the start of your day, decide on one specific action to perform better than yesterday. Ask yourself tonight: 'What did I learn or do today that made me more resilient?'",
+      "bn": "আজ দিনের শুরুতেই ঠিক করুন যে কোনো একটি সুনির্দিষ্ট কাজে আপনি গতকালের চেয়ে সামান্য হলেও ভালো করবেন। দিন শেষে নিজেকে প্রশ্ন করুন: \"আজ আমি এমন কী শিখেছি বা করেছি যা আমাকে মানসিকভাবে আগের চেয়ে বেশি শক্তিশালী করেছে?\""
     },
     "criticalReflection": {
-      "en": "সেনেকার দারিদ্র্যের বিরুদ্ধে সুরক্ষার পরামর্শটি রোমের অন্যতম ধনী ব্যক্তির কাছ থেকে আসাটা পরিহাসমূলক। যদিও মানসিক শক্তি দারিদ্র্য সহ্য করতে সাহায্য করে, এটি দারিদ্র্য দূর করে না। \"শক্তিশালী\" হওয়ার পথে যে কাঠামোগত বাধাগুলো (যেমন শিক্ষার সুযোগের অভাব) থাকে, তা এই ব্যক্তিকেন্দ্রিক কাঠামোতে উপেক্ষা করা হয়।",
-      "bn": "সেনেকার দারিদ্র্যের বিরুদ্ধে সুরক্ষার পরামর্শটি রোমের অন্যতম ধনী ব্যক্তির কাছ থেকে আসাটা পরিহাসমূলক। যদিও মানসিক শক্তি দারিদ্র্য সহ্য করতে সাহায্য করে, এটি দারিদ্র্য দূর করে না। \"শক্তিশালী\" হওয়ার পথে যে কাঠামোগত বাধাগুলো (যেমন শিক্ষার সুযোগের অভাব) থাকে, তা এই ব্যক্তিকেন্দ্রিক কাঠামোতে উপেক্ষা করা হয়।"
+      "en": "Seneca’s advice on fortifying against poverty is ironic coming from one of Rome’s wealthiest men. While mental resilience helps endure hardship, it doesn't solve systemic poverty. We must be careful not to use stoicism as a justification to ignore the structural inequalities that prevent people from acquiring such 'fortification.'",
+      "bn": "দারিদ্র্যের বিরুদ্ধে মানসিক শক্তি অর্জনের বিষয়ে সেনেকার এই পরামর্শটি কিছুটা পরিহাসমূলক, কারণ তিনি স্বয়ং প্রাচীন রোমের অন্যতম শ্রেষ্ঠ ধনী ব্যক্তি ছিলেন। যদিও মানসিক সহনশীলতা কষ্ট সহ্য করতে সাহায্য করে, এটি কিন্তু কাঠামোগত দারিদ্র্য দূর করে না। আমাদের সতর্ক থাকতে হবে যেন স্টোয়িক দর্শনকে ব্যবহার করে আমরা সেই সামাজিক বৈষম্যগুলোকে এড়িয়ে না যাই, যা অনেক মানুষকে এই 'সুরক্ষাকবচ' অর্জনে বাধা দেয়।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "বাহ্যিক অনুমোদনের (লাইক/ভিউ) ওপর নির্ভরতা হ্রাস।",
-        "bn": "বাহ্যিক অনুমোদনের (লাইক/ভিউ) ওপর নির্ভরতা হ্রাস।"
+        "en": "Drastic reduction in dependency on external validation (likes/views).",
+        "bn": "বাহ্যিক স্বীকৃতি (যেমন সোশ্যাল মিডিয়া লাইক বা ভিউ)-এর ওপর আপনার মানসিক নির্ভরতা উল্লেখযোগ্যভাবে হ্রাস পাওয়া।"
       },
       "social": {
-        "en": "আরও স্থিতিস্থাপক ব্যক্তি যারা সহজে প্রভাবিত বা ম্যানিপুলেটেড হন না।",
-        "bn": "আরও স্থিতিস্থাপক ব্যক্তি যারা সহজে প্রভাবিত বা ম্যানিপুলেটেড হন না।"
+        "en": "A community of resilient individuals who are difficult to manipulate through fear or scarcity.",
+        "bn": "সমাজে এমন একদল দৃঢ়চেতা মানুষের সংখ্যা বৃদ্ধি পাওয়া যাদের ভয় বা সঙ্কটের দোহাই দিয়ে সহজে ম্যানিপুলেট করা সম্ভব নয়।"
       }
     }
   },
@@ -3987,92 +3987,92 @@ export const chapters: Chapter[] = [
     "id": 42,
     "sectionTitle": {
       "en": "The Inner World",
-      "bn": "The Inner World"
+      "bn": "অভ্যন্তরীণ জগৎ"
     },
     "chapterTitle": {
       "en": "The Grace of Self-Forgiveness",
-      "bn": "The Grace of Self-Forgiveness"
+      "bn": "আত্ম-ক্ষমার প্রশান্তি"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "When you blame yourself for your negative feelings, you are making progress.",
-          "bn": "When you blame yourself for your negative feelings, you are making progress."
+          "bn": "যখন আপনি নিজের নেতিবাচক অনুভূতির জন্য নিজেকে দায়ী করতে শিখবেন (অন্য কাউকে নয়), জানবেন আপনি প্রকৃত উন্নতির পথে হাঁটছেন।"
         },
         "author": {
           "en": "Epictetus",
-          "bn": "Epictetus"
+          "bn": "এপিক্টেটাস"
         }
       },
       {
         "quote": {
           "en": "It’s always foolish to blame yourself for things that happen in life.",
-          "bn": "It’s always foolish to blame yourself for things that happen in life."
+          "bn": "জীবনের ঘাত-প্রতিঘাত বা পরিস্থিতির জন্য নিজেকে অহেতুক দোষারোপ করা বোকামি ছাড়া আর কিছুই নয়।"
         },
         "author": {
           "en": "Epictetus",
-          "bn": "Epictetus"
+          "bn": "এপিক্টেটাস"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "দায়িত্ব বনাম দোষ",
-          "bn": "দায়িত্ব বনাম দোষ"
+          "en": "Responsibility vs. Guilt",
+          "bn": "দায়িত্ব বনাম অপরাধবোধ"
         },
         "content": {
-          "en": "নিজের অনুভূতির দায়িত্ব নেওয়া আর নিজেকে দোষী ভাবা এক নয়। দায়িত্ব নিলে ক্ষমতা বাড়ে, দোষ দিলে গ্লানি বাড়ে।",
-          "bn": "নিজের অনুভূতির দায়িত্ব নেওয়া আর নিজেকে দোষী ভাবা এক নয়। দায়িত্ব নিলে ক্ষমতা বাড়ে, দোষ দিলে গ্লানি বাড়ে।"
+          "en": "Taking responsibility for your feelings is empowering; blaming yourself with guilt is debilitating. One leads to growth, the other to stagnation.",
+          "bn": "নিজের অনুভূতির দায়িত্ব গ্রহণ করা আপনাকে শক্তিশালী করে, কিন্তু অপরাধবোধে ভুগে নিজেকে দোষারোপ করা আপনাকে দুর্বল করে দেয়। প্রথমটি প্রগতি আনে, দ্বিতীয়টি স্থবিরতা।"
         }
       },
       {
         "title": {
-          "en": "অতীত অপরিবর্তনীয়",
-          "bn": "অতীত অপরিবর্তনীয়"
+          "en": "The Unchangeable Past",
+          "bn": "অপরিবর্তনীয় অতীত"
         },
         "content": {
-          "en": "টাইম মেশিন নেই, তাই \"আমি কেন এটা করলাম না\" ভেবে সময় নষ্ট করা অর্থহীন।",
-          "bn": "টাইম মেশিন নেই, তাই \"আমি কেন এটা করলাম না\" ভেবে সময় নষ্ট করা অর্থহীন।"
+          "en": "Since time travel is impossible, ruminating on past errors serves no purpose. Correct the course now instead of mourning the wreck.",
+          "bn": "যেহেতু সময় ট্রাভেল করা অসম্ভব, তাই অতীত নিয়ে অহেতুক ভেবে সময় নষ্ট করা অর্থহীন। যা ধ্বংস হয়ে গেছে তা নিয়ে শোক না করে বর্তমানের পথ সুগম করার দিকে নজর দিন।"
         }
       },
       {
         "title": {
-          "en": "স্বাস্থ্যের অগ্রাধিকার",
-          "bn": "স্বাস্থ্যের অগ্রাধিকার"
+          "en": "Health Over Ambition",
+          "bn": "উচ্চাকাঙ্ক্ষার চেয়ে স্বাস্থ্য আগে"
         },
         "content": {
-          "en": "বার্সেলোনা ট্যুরের উদাহরণ দিয়ে লেখক বলেছেন, উচ্চাকাঙ্ক্ষার চেয়ে শরীর ও মনের সুস্থতা সবসময় আগে।",
-          "bn": "বার্সেলোনা ট্যুরের উদাহরণ দিয়ে লেখক বলেছেন, উচ্চাকাঙ্ক্ষার চেয়ে শরীর ও মনের সুস্থতা সবসময় আগে।"
+          "en": "Sacrificing physical or mental health for worldly goals is a bad trade. No success is worth the cost of a broken mind or body.",
+          "bn": "জাগতিক কোনো লক্ষ্য পূরণের জন্য শারীরিক বা মানসিক স্বাস্থ্য বিসর্জন দেওয়া একটি মস্ত বড় ভুল। ভেঙে পড়া শরীর বা মন নিয়ে অর্জিত কোনো সাফল্যই সার্থক নয়।"
         }
       },
       {
         "title": {
-          "en": "ভুল মানুষের ধর্ম",
-          "bn": "ভুল মানুষের ধর্ম"
+          "en": "The Humanity of Error",
+          "bn": "ভুল করা মানুষের ধর্ম"
         },
         "content": {
-          "en": "ভুল করা স্বাভাবিক। নিজের ভুলের প্রতি সদয় হোন এবং সেখান থেকে শিক্ষা নিয়ে এগিয়ে যান।",
-          "bn": "ভুল করা স্বাভাবিক। নিজের ভুলের প্রতি সদয় হোন এবং সেখান থেকে শিক্ষা নিয়ে এগিয়ে যান।"
+          "en": "Error is an inherent part of the human experience. Treat your mistakes with kindness and use them as data points for future wisdom.",
+          "bn": "ভুল করা মানুষের স্বভাবজাত একটি বিষয়। নিজের ভুলগুলোর প্রতি সদয় হোন এবং সেগুলোকে ভবিষ্যতের জ্ঞান অর্জনের উপকরণ হিসেবে ব্যবহার করুন।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "যদি অতীতে কোনো ভুল সিদ্ধান্ত নিয়ে থাকেন, তবে আজ নিজেকে একটি চিঠি লিখুন। লিখুন: \"আমি তোমাকে ক্ষমা করলাম, কারণ সেই সময় তোমার কাছে যে বুদ্ধি ছিল, তা দিয়ে তুমি সেরাটাই করার চেষ্টা করেছ।\"",
-      "bn": "যদি অতীতে কোনো ভুল সিদ্ধান্ত নিয়ে থাকেন, তবে আজ নিজেকে একটি চিঠি লিখুন। লিখুন: \"আমি তোমাকে ক্ষমা করলাম, কারণ সেই সময় তোমার কাছে যে বুদ্ধি ছিল, তা দিয়ে তুমি সেরাটাই করার চেষ্টা করেছ।\""
+      "en": "If you are holding onto a past mistake, write a letter to yourself today. Say: 'I forgive you because you made the best choice possible with the wisdom you had at that moment.'",
+      "bn": "যদি অতীতের কোনো ভুলের ভার আপনি আজও বহন করে চলেন, তবে আজ নিজেকে একটি চিঠি লিখুন। লিখুন: \"আমি তোমাকে ক্ষমা করে দিলাম, কারণ সেই মুহূর্তে তোমার কাছে থাকা জ্ঞান ও বিচারবুদ্ধি অনুযায়ী তুমি সেরাটাই করার চেষ্টা করেছিলে।\""
     },
     "criticalReflection": {
-      "en": "\"নেতিবাচক অনুভূতির জন্য নিজেকে দোষারোপ করা প্রগতি\" (এপিক্টেটাস) একটি জটিল স্টয়িক ধারণা, যার অর্থ আপনিই আপনার কষ্টের উৎস (বিচার), ঘটনা নয়। তবে, ভুলভাবে ব্যাখ্যা করা হলে, এটি নিজেকে গ্যাসলাইটিং করার দিকে নিয়ে যেতে পারে—বিশ্বাস করা যে নির্যাতন বা ট্রমার প্রতি বৈধ প্রতিক্রিয়াগুলো কেবল \"মন খারাপ করার জন্য আমারই দোষ\"।",
-      "bn": "\"নেতিবাচক অনুভূতির জন্য নিজেকে দোষারোপ করা প্রগতি\" (এপিক্টেটাস) একটি জটিল স্টয়িক ধারণা, যার অর্থ আপনিই আপনার কষ্টের উৎস (বিচার), ঘটনা নয়। তবে, ভুলভাবে ব্যাখ্যা করা হলে, এটি নিজেকে গ্যাসলাইটিং করার দিকে নিয়ে যেতে পারে—বিশ্বাস করা যে নির্যাতন বা ট্রমার প্রতি বৈধ প্রতিক্রিয়াগুলো কেবল \"মন খারাপ করার জন্য আমারই দোষ\"।"
+      "en": "Epictetus’s idea that blaming oneself for feelings is 'progress' refers to internalizing the locus of control. However, if misinterpreted, this can lead to self-gaslighting—ignoring that external abuse or trauma are valid reasons to feel bad, regardless of one's 'judgment.'",
+      "bn": "\"নেতিবাচক অনুভূতির জন্য নিজেকে দায়ী করা প্রগতি\"—এপিক্টেটাসের এই ধারণাটির অর্থ হলো নিজের নিয়ন্ত্রণের ওপর গুরুত্ব দেওয়া। তবে ভুল ব্যাখ্যা করা হলে এটি 'সেলফ-গ্যাসলাইটিং' বা নিজেকে বিভ্রান্ত করার দিকে নিয়ে যেতে পারে—যেখানে মানুষ বিশ্বাস করতে শুরু করে যে বাইরের কোনো অন্যায় বা ট্রমার প্রতি তার স্বাভাবিক প্রতিক্রিয়াগুলোও কেবল তার নিজেরই দৃষ্টিভঙ্গির দোষ।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "অতীতের অনুশোচনা থেকে নিরাময় এবং আত্ম-ঘৃণা হ্রাস।",
-        "bn": "অতীতের অনুশোচনা থেকে নিরাময় এবং আত্ম-ঘৃণা হ্রাস।"
+        "en": "Healing from lingering regret and a significant drop in self-loathing.",
+        "bn": "অতীতের দীর্ঘস্থায়ী অনুশোচনা থেকে মুক্তি এবং আত্ম-ঘৃণার পরিমাণ উল্লেখযোগ্যভাবে হ্রাস পাওয়া।"
       },
       "social": {
-        "en": "অন্যের প্রতি আরও ক্ষমাশীল আচরণ, যা আত্ম-ক্ষমারই প্রতিফলন।",
-        "bn": "অন্যের প্রতি আরও ক্ষমাশীল আচরণ, যা আত্ম-ক্ষমারই প্রতিফলন।"
+        "en": "A more compassionate society, as self-forgiveness naturally radiates outward as empathy for others.",
+        "bn": "একটি অধিকতর সহানুভূতিশীল সমাজ গড়ে ওঠা, কারণ যে নিজেকে ক্ষমা করতে জানে, সে অন্যের প্রতিও সহজভাবেই দয়ালু ও সহমর্মী হয়।"
       }
     }
   },
@@ -4080,92 +4080,92 @@ export const chapters: Chapter[] = [
     "id": 43,
     "sectionTitle": {
       "en": "The Inner World",
-      "bn": "The Inner World"
+      "bn": "অভ্যন্তরীণ জগৎ"
     },
     "chapterTitle": {
       "en": "The Loneliness of Growth",
-      "bn": "The Loneliness of Growth"
+      "bn": "উন্নতির দীর্ঘ নির্জন পথ"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "There’ll still be people standing around the bed who will welcome the sad event.",
-          "bn": "There’ll still be people standing around the bed who will welcome the sad event."
+          "bn": "এমনকি আপনার মৃত্যুশয্যার পাশে দাঁড়িয়ে থাকা মানুষের মধ্যেও এমন কিছু মানুষ থাকবে যারা আপনার এই করুণ পরিণতি মনে মনে উদযাপন করবে।"
         },
         "author": {
-          "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "en": "Marcus Aurelius",
+          "bn": "মার্কাস অরেলিয়াস"
         }
       },
       {
         "quote": {
           "en": "The best thing we can do is to never be like the negative people on this planet.",
-          "bn": "The best thing we can do is to never be like the negative people on this planet."
+          "bn": "আমরা জীবনে যে সবচেয়ে সেরা কাজটি করতে পারি তা হলো—কখনও সেইসব নেতিবাচক মানুষের মতো আচরণ না করা যারা আমাদের তিক্ত করে তুলতে চায়।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "ঈর্ষার বাস্তবতা",
-          "bn": "ঈর্ষার বাস্তবতা"
+          "en": "The Reality of Envy",
+          "bn": "ঈর্ষার কঠিন বাস্তবতা"
         },
         "content": {
-          "en": "আপনি যতই ভালো হোন না কেন, কিছু মানুষ আপনার পতন চাইবে বা আপনার মৃত্যুতে খুশি হবে। এটি মেনে নিন।",
-          "bn": "আপনি যতই ভালো হোন না কেন, কিছু মানুষ আপনার পতন চাইবে বা আপনার মৃত্যুতে খুশি হবে। এটি মেনে নিন।"
+          "en": "No matter how virtuous you are, some will resent your success or welcome your downfall. Accepting this malice as a fact of nature prevents disappointment.",
+          "bn": "আপনি যতই ভালো মানুষ হোন না কেন, কিছু মানুষ আপনার সাফল্য দেখে ঈর্ষান্বিত হবে বা আপনার পতন কামনা করবে। এই অপ্রিয় সত্যটিকে প্রকৃতির একটি অবিচ্ছেদ্য অংশ হিসেবে মেনে নিলে আপনি অযথা হতাশ হবেন না।"
         }
       },
       {
         "title": {
-          "en": "বন্ধু পরিবর্তন",
-          "bn": "বন্ধু পরিবর্তন"
+          "en": "Social Pruning",
+          "bn": "সামাজিক কাটছাঁট"
         },
         "content": {
-          "en": "আপনি যখন উন্নতির পথে হাঁটবেন, পুরনো অনেক বন্ধু হারিয়ে যাবে। এটি স্বাভাবিক প্রক্রিয়া।",
-          "bn": "আপনি যখন উন্নতির পথে হাঁটবেন, পুরনো অনেক বন্ধু হারিয়ে যাবে। এটি স্বাভাবিক প্রক্রিয়া।"
+          "en": "As you improve, you will naturally outgrow certain relationships. This 'pruning' is a necessary side-effect of personal evolution.",
+          "bn": "আপনি যত বেশি উন্নত হবেন, পুরনো অনেক সম্পর্ক ও সঙ্গ আপনার কাছে অপ্রাসঙ্গিক হয়ে পড়বে। ব্যক্তিগত বিবর্তনের পথে এই 'সামাজিক কাটছাঁট' একটি অপরিহার্য ধাপ।"
         }
       },
       {
         "title": {
-          "en": "নেতিবাচকতা এড়ানো",
-          "bn": "নেতিবাচকতা এড়ানো"
+          "en": "Avoiding Negative Mirroring",
+          "bn": "নেতিবাচক প্রতিচ্ছবি এড়ানো"
         },
         "content": {
-          "en": "যারা আপনাকে টেনে নিচে নামাতে চায়, তাদের ওপর রাগ না করে তাদের থেকে দূরে থাকুন। তাদের মতো আচরণ করবেন না।",
-          "bn": "যারা আপনাকে টেনে নিচে নামাতে চায়, তাদের ওপর রাগ না করে তাদের থেকে দূরে থাকুন। তাদের মতো আচরণ করবেন না।"
+          "en": "Don't retaliate against those who try to drag you down. If you match their toxicity, you confirm that their low vibrations have conquered you.",
+          "bn": "যারা আপনাকে নিচে টেনে নামাতে চায়, তাদের ওপর পাল্টা আক্রমণ বা প্রতিশোধ নেবেন না। আপনি যদি তাদের মতো তিক্ত ও বিষাক্ত আচরণ শুরু করেন, তবে তারা আপনাকে মানসিকভাবে জয় করে ফেলেছে বলে প্রমাণিত হবে।"
         }
       },
       {
         "title": {
-          "en": "নিজের পথে অটল",
-          "bn": "নিজের পথে অটল"
+          "en": "Unwavering Path",
+          "bn": "অটল লক্ষ্যপথ"
         },
         "content": {
-          "en": "অন্যের সমালোচনায় নিজের ভালো কাজ বা স্বভাব পরিবর্তন করবেন না।",
-          "bn": "অন্যের সমালোচনায় নিজের ভালো কাজ বা স্বভাব পরিবর্তন করবেন না।"
+          "en": "Never alter your virtuous core or healthy habits just to appease the criticism of those who refuse to grow themselves.",
+          "bn": "যারা নিজেরা উন্নত হতে চায় না, তাদের সমালোচনার ভয়ে নিজের নৈতিক আদর্শ বা স্বাস্থ্যকর অভ্যাসগুলো কক্ষনোই বদলে ফেলবেন না।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আপনার সার্কেলে এমন কাউকে চিহ্নিত করুন যে সবসময় আপনার উৎসাহ কমিয়ে দেয়। তার সাথে সময় কাটানো কমিয়ে দিন। পরিবর্তে এমন কারো সাথে মিশুন যে আপনার চেয়ে এক ধাপ এগিয়ে আছে।",
-      "bn": "আপনার সার্কেলে এমন কাউকে চিহ্নিত করুন যে সবসময় আপনার উৎসাহ কমিয়ে দেয়। তার সাথে সময় কাটানো কমিয়ে দিন। পরিবর্তে এমন কারো সাথে মিশুন যে আপনার চেয়ে এক ধাপ এগিয়ে আছে।"
+      "en": "Identify one person in your circle who consistently drains your ambition. Reduce your interaction with them. Seek instead someone who is one step ahead of you in wisdom.",
+      "bn": "আপনার পরিচিত মহলে এমন একজনকে চিহ্নিত করুন যে সবসময় আপনার অনুপ্রেরণা বা উচ্চাকাঙ্ক্ষা কমিয়ে দেয়। তার সাথে মেলামেশা কমিয়ে দিন। পরিবর্তে এমন কারো সঙ্গ খুঁজুন যার প্রজ্ঞা ও মানসিক স্তর আপনার চেয়ে এক ধাপ অন্তত এগিয়ে আছে।"
     },
     "criticalReflection": {
-      "en": "বন্ধুত্ব নষ্ট হওয়াকে কেবল \"ঈর্ষা\" বা \"উন্নতি\"-র ফল ভাবা একটি প্রতিরক্ষা বা ডিফেন্স মেকানিজম হতে পারে, যা নিজের অহংকার বা বন্ধুদের প্রতি অবহেলাকে আড়াল করে। কখনও কখনও মানুষের অগ্রাধিকার পরিবর্তনের কারণেও দূরত্ব তৈরি হয়, বিদ্বেষের কারণে নয়।",
-      "bn": "বন্ধুত্ব নষ্ট হওয়াকে কেবল \"ঈর্ষা\" বা \"উন্নতি\"-র ফল ভাবা একটি প্রতিরক্ষা বা ডিফেন্স মেকানিজম হতে পারে, যা নিজের অহংকার বা বন্ধুদের প্রতি অবহেলাকে আড়াল করে। কখনও কখনও মানুষের অগ্রাধিকার পরিবর্তনের কারণেও দূরত্ব তৈরি হয়, বিদ্বেষের কারণে নয়।"
+      "en": "Attributing lost friendships solely to 'growth' can be a defense mechanism to hide one's own arrogance or neglect of friends. Sometimes people drift apart due to changing priorities, not secret malice or envy.",
+      "bn": "বন্ধুবান্ধব হারানোকে কেবল নিজের 'উন্নতি' বা অন্যের 'ঈর্ষা' বলে মনে করা কখনো কখনো এক ধরনের অহংকার বা বন্ধুদের প্রতি নিজের অবহেলা আড়াল করার মানসিক অজুহাত হতে পারে। সবসময় ঈর্ষার কারণে নয়, বরং জীবনের অগ্রাধিকার পরিবর্তনের কারণেও মানুষের মধ্যে দূরত্ব তৈরি হয়।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "উচ্চ-মূল্যবোধ সম্পন্ন ব্যক্তিদের নিয়ে একটি সাজানো সোশ্যাল সার্কেল।",
-        "bn": "উচ্চ-মূল্যবোধ সম্পন্ন ব্যক্তিদের নিয়ে একটি সাজানো সোশ্যাল সার্কেল।"
+        "en": "A curated social circle of high-value individuals that foster mutual respect.",
+        "bn": "উচ্চ-মূল্যবোধ সম্পন্ন ব্যক্তিদের নিয়ে একটি চমৎকার সোশ্যাল সার্কেল গড়ে তোলা যা পারস্পরিক শ্রদ্ধা ও উন্নতির পরিবেশ নিশ্চিত করবে।"
       },
       "social": {
-        "en": "সামাজিক স্তরবিন্যাস যেখানে \"উন্নতি-মনস্ক\" মানুষরা অন্যদের থেকে বিচ্ছিন্ন হয়ে পড়ে।",
-        "bn": "সামাজিক স্তরবিন্যাস যেখানে \"উন্নতি-মনস্ক\" মানুষরা অন্যদের থেকে বিচ্ছিন্ন হয়ে পড়ে।"
+        "en": "A social dynamic where 'growth-minded' individuals find solace in selective isolation rather than toxic integration.",
+        "bn": "একটি সামাজিক পরিবর্তন যেখানে 'উন্নতি-মনস্ক' মানুষরা বিষাক্ত সম্পর্কের বদলে স্বস্তিদায়ক একাকীত্বকে বেশি গুরুত্ব দেবে।"
       }
     }
   },
@@ -4173,92 +4173,92 @@ export const chapters: Chapter[] = [
     "id": 44,
     "sectionTitle": {
       "en": "The Inner World",
-      "bn": "The Inner World"
+      "bn": "অভ্যন্তরীণ জগৎ"
     },
     "chapterTitle": {
-      "en": "Embracing Discomfort",
-      "bn": "Embracing Discomfort"
+      "en": "Fortitude Through Discomfort",
+      "bn": "অস্বস্তির মাঝে মানসিক দৃঢ়তা"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Hardship is good. Too much pleasure is bad.",
-          "bn": "Hardship is good. Too much pleasure is bad."
+          "bn": "কষ্ট পাওয়া ভালো। কিন্তু অতিরিক্ত ভোগ-বিলাসিতা মানুষের জন্য ক্ষতিকর।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "The soul is strengthened as it is trained for courage by enduring hardships.",
-          "bn": "The soul is strengthened as it is trained for courage by enduring hardships."
+          "bn": "কষ্ট সহ্য করার মাধ্যমে যখন সাহস অর্জনের প্রশিক্ষণ নেওয়া হয়, তখন মানুষের আত্মা ক্রমশ শক্তিশালী হয়ে ওঠে।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "বিরক্তির উপকারিতা",
-          "bn": "বিরক্তির উপকারিতা"
+          "en": "The Benefit of Inconvenience",
+          "bn": "অসুবিধার উপকারিতা"
         },
         "content": {
-          "en": "ছোটখাটো বিরক্তি (যেমন ঠান্ডা আবহাওয়া, লাইনে দাঁড়ানো) আমাদের ধৈর্য পরীক্ষা করে এবং সহনশীলতা বাড়ায়।",
-          "bn": "ছোটখাটো বিরক্তি (যেমন ঠান্ডা আবহাওয়া, লাইনে দাঁড়ানো) আমাদের ধৈর্য পরীক্ষা করে এবং সহনশীলতা বাড়ায়।"
+          "en": "Minor inconveniences (like bad weather or waiting in line) test our patience and build resilience. Embracing them as training makes us harder to disturb.",
+          "bn": "অল্পস্বল্প অসুবিধা (যেমন খারাপ আবহাওয়া বা লাইনে দাঁড়িয়ে থাকা) আমাদের ধৈর্য পরীক্ষা করে এবং সহনশীলতা বাড়ায়। এগুলোকে প্রশিক্ষণ হিসেবে মেনে নিলে কেউ আর সহজে আপনাকে প্রভাবিত করতে পারবে না।"
         }
       },
       {
         "title": {
-          "en": "বিলাসবহুল জীবনের ফাঁদ",
-          "bn": "বিলাসবহুল জীবনের ফাঁদ"
+          "en": "The Luxury Trap",
+          "bn": "বিলাসিতার মরণফাঁদ"
         },
         "content": {
-          "en": "অতিরিক্ত আরাম আমাদের দুর্বল করে দেয়। মাঝে মাঝে সাধারণ জীবনযাপন করা উচিত।",
-          "bn": "অতিরিক্ত আরাম আমাদের দুর্বল করে দেয়। মাঝে মাঝে সাধারণ জীবনযাপন করা উচিত।"
+          "en": "Constant comfort weakens the mind. Occasional voluntary simplicity ensures that you remain the master of your environment, not its slave.",
+          "bn": "অনবরত আরাম মানুষকে মানসিকভাবে দুর্বল করে দেয়। মাঝে মাঝে স্বেচ্ছায় সাদামাটা জীবনযাপন করলে আপনি পরিস্থিতির দাস না হয়ে বরং তার প্রভু হিসেবে টিকে থাকতে পারবেন।"
         }
       },
       {
         "title": {
-          "en": "কন্ট্রাস্ট এফেক্ট",
-          "bn": "কন্ট্রাস্ট এফেক্ট"
+          "en": "The Contrast Effect",
+          "bn": "প্রতিবৈচিত্রের প্রভাব"
         },
         "content": {
-          "en": "যখন আপনি কষ্টের স্বাদ পান, তখন আরামের কদর অনেক বেড়ে যায়। হিটেড ম্যাট্রেসের উদাহরণ দিয়ে লেখক এটি বুঝিয়েছেন।",
-          "bn": "যখন আপনি কষ্টের স্বাদ পান, তখন আরামের কদর অনেক বেড়ে যায়। হিটেড ম্যাট্রেসের উদাহরণ দিয়ে লেখক এটি বুঝিয়েছেন।"
+          "en": "Experiencing hardship increases the appreciation for comfort. Knowing the cold makes the warmth of a simple home feel like a palace.",
+          "bn": "যখন আপনি কষ্টের স্বাদ পান, তখন আরামের সত্যিকারের কদর বুঝতে পারেন। কনকনে শীতের কষ্ট জানলে তবেই একটি সাধারণ ঘরের উষ্ণতাকেও রাজপ্রাসাদের মতো মনে হয়।"
         }
       },
       {
         "title": {
-          "en": "ইচ্ছাকৃত সরলতা",
-          "bn": "ইচ্ছাকৃত সরলতা"
+          "en": "Voluntary Simplicity",
+          "bn": "স্বেচ্ছায় সরলতা"
         },
         "content": {
-          "en": "সামর্থ্য থাকলেও সাদামাটা জীবন বেছে নেওয়া মানসিক স্বাধীনতার লক্ষণ।",
-          "bn": "সামর্থ্য থাকলেও সাদামাটা জীবন বেছে নেওয়া মানসিক স্বাধীনতার লক্ষণ।"
+          "en": "Choosing a simple life despite having the means for luxury is a supreme sign of mental freedom.",
+          "bn": "বিলাসিতা করার সামর্থ্য থাকা সত্ত্বেও সাদামাটা জীবন বেছে নেওয়া হলো মানসিক স্বাধীনতার এক পরম পরিচয়।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "পরবর্তীবার যখন ট্রাফিক জ্যামে পড়বেন বা ইন্টারনেট স্লো হবে, তখন বিরক্ত না হয়ে একে \"ধৈর্য পরীক্ষার সুযোগ\" হিসেবে দেখুন। মনে মনে বলুন, \"এটি আমাকে মানসিকভাবে শক্ত করছে।\"",
-      "bn": "পরবর্তীবার যখন ট্রাফিক জ্যামে পড়বেন বা ইন্টারনেট স্লো হবে, তখন বিরক্ত না হয়ে একে \"ধৈর্য পরীক্ষার সুযোগ\" হিসেবে দেখুন। মনে মনে বলুন, \"এটি আমাকে মানসিকভাবে শক্ত করছে।\""
+      "en": "Next time you face a delay or a minor physical discomfort, don't complain. Tell yourself: 'This is my training. This is making me stronger.'",
+      "bn": "পরবর্তীবার যখন আপনি কোনো বিলম্ব বা সামান্য শারীরিক অস্বস্তির শিকার হবেন, অভিযোগ করবেন না। নিজেকে বলুন: \"এটিই আমার প্রশিক্ষণ। এটিই আমাকে আগের চেয়ে বেশি শক্তিশালী করছে।\""
     },
     "criticalReflection": {
-      "en": "এই অধ্যায়টি কষ্টকে রোমান্টিকাইজ করে। যাদের পুরো জীবনটাই দারিদ্র্য বা অক্ষমতার কারণে \"বিরক্তিকর\", তাদের জন্য আরও অস্বস্তি যোগ করা প্রশিক্ষণ নয়—এটি নির্যাতন। এই স্টয়িক অনুশীলনটি মূলত সুবিধাপ্রাপ্ত মধ্যবিত্ত/উচ্চবিত্ত শ্রেণীর জন্য উপকারী।",
-      "bn": "এই অধ্যায়টি কষ্টকে রোমান্টিকাইজ করে। যাদের পুরো জীবনটাই দারিদ্র্য বা অক্ষমতার কারণে \"বিরক্তিকর\", তাদের জন্য আরও অস্বস্তি যোগ করা প্রশিক্ষণ নয়—এটি নির্যাতন। এই স্টয়িক অনুশীলনটি মূলত সুবিধাপ্রাপ্ত মধ্যবিত্ত/উচ্চবিত্ত শ্রেণীর জন্য উপকারী।"
+      "en": "Romanticizing hardship is a luxury for those who can choose to leave it. For those in systemic poverty, more discomfort isn't training—it's trauma. Stoic endurance must be balanced with the active pursuit of making life easier for those who have no choice in their suffering.",
+      "bn": "কষ্টকে রোমান্টিক করে দেখাটা আসলে তাদের জন্য সহজ যাদের সেই কষ্ট থেকে দূরে সরে যাওয়ার সুযোগ আছে। কিন্তু যারা আজন্ম চরম দারিদ্র্যে বসবাস করছেন, তাদের জন্য অতিরিক্ত কষ্ট পাওয়া কোনো প্রশিক্ষণ নয়—বরং এটি ট্রমা। নিজের সহনশীলতা বাড়ানোর পাশাপাশি অন্যদের কষ্ট লাঘব করার সক্রিয় প্রচেষ্টার মধ্যে একটি ভারসাম্য থাকা জরুরি।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "অসুবিধা এবং হতাশা সহ্য করার উচ্চ ক্ষমতা।",
-        "bn": "অসুবিধা এবং হতাশা সহ্য করার উচ্চ ক্ষমতা।"
+        "en": "Significantly higher threshold for frustration and irritation in daily life.",
+        "bn": "দৈনন্দিন জীবনের হতাশা ও বিরক্তিকর পরিস্থিতির মাঝেও শান্ত থাকার অসাধারণ ক্ষমতা অর্জন।"
       },
       "social": {
-        "en": "জনসেবামূলক পরিস্থিতিতে কম অভিযোগপ্রবণ আচরণ।",
-        "bn": "জনসেবামূলক পরিস্থিতিতে কম অভিযোগপ্রবণ আচরণ।"
+        "en": "A less entitled and more grateful society that values persistence over convenience.",
+        "bn": "এমন একটি সমাজ গড়ে ওঠা যেখানে মানুষ সুবিধাবাদের চেয়ে ধৈর্য ও কৃতজ্ঞতাকে বেশি মূল্য দেবে।"
       }
     }
   },
@@ -4266,162 +4266,82 @@ export const chapters: Chapter[] = [
     "id": 45,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
-      "en": "Navigating Society (Section Intro)",
-      "bn": "Navigating Society (Section Intro)"
+      "en": "Stoic Social Harmony",
+      "bn": "সামাজিক সম্প্রীতি ও স্টয়িক দর্শন"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Happiness is not only being able to live well with yourself... We have to find a way to be comfortable in society as well.",
-          "bn": "Happiness is not only being able to live well with yourself... We have to find a way to be comfortable in society as well."
+          "bn": "সুখ মানে কেবল নিজের সাথে সুখে থাকা নয়... আমাদের সমাজের মাঝেও স্বস্তিতে বেঁচে থাকার একটি পথ খুঁজে নিতে হবে।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "সামাজিক প্রাণী",
+          "en": "The Social Animal",
           "bn": "সামাজিক প্রাণী"
         },
         "content": {
-          "en": "মানুষ একা সুখী হতে পারে না; সমাজের সাথে মানিয়ে চলাও সুখের অংশ।",
-          "bn": "মানুষ একা সুখী হতে পারে না; সমাজের সাথে মানিয়ে চলাও সুখের অংশ।"
+          "en": "Humans are inherently social. Isolation might offer peace, but true wisdom is tested in how we maintain our tranquility amidst the chaos of society.",
+          "bn": "মানুষ প্রকৃতিগতভাবে একটি সামাজিক প্রাণী। নির্জনতা হয়তো শান্তি দিতে পারে, কিন্তু প্রকৃত প্রজ্ঞার পরীক্ষা হয় সমাজের বিশৃঙ্খলার মধ্যেও আপনি আপনার মানসিক স্থিরতা কতটা বজায় রাখতে পারছেন তার ওপর ভিত্তি করে।"
         }
       },
       {
         "title": {
-          "en": "বাস্তবতা",
-          "bn": "বাস্তবতা"
+          "en": "Finding Peace in Chaos",
+          "bn": "বিশৃঙ্খলার মধ্যে শান্তি খোঁজা"
         },
         "content": {
-          "en": "সন্ন্যাসীর মতো পাহাড়ের গুহায় বাস করা সবার জন্য সম্ভব নয়, তাই সমাজের বিশৃঙ্খলার মাঝেই শান্তি খুঁজতে হবে।",
-          "bn": "সন্ন্যাসীর মতো পাহাড়ের গুহায় বাস করা সবার জন্য সম্ভব নয়, তাই সমাজের বিশৃঙ্খলার মাঝেই শান্তি খুঁজতে হবে।"
+          "en": "A hermit’s peace is easy; a leader’s peace is earned. We must learn to build an internal sanctuary that no outside noise can breach.",
+          "bn": "পাহাড়ের চূড়ায় বসে থাকা সন্ন্যাসীর জন্য শান্ত থাকা সহজ; কিন্তু সমাজের কাজের ভিড়ে শান্ত থাকাটাই হলো আসল বিজয়। আমাদের নিজের ভেতরে এমন এক অভয়ারণ্য গড়ে তুলতে হবে যেখানে বাইরের কোনো কোলাহল প্রবেশ করতে পারবে না।"
         }
       },
       {
         "title": {
-          "en": "Chapter 46",
-          "bn": "Chapter 46"
+          "en": "The Balance of Solitude",
+          "bn": "নিভৃতবাসের ভারসাম্য"
         },
         "content": {
-          "en": "Pursuing Worldly Success",
-          "bn": "Pursuing Worldly Success"
+          "en": "Withdraw into yourself regularly to recharge, but then return to the world with more love and patience to serve others.",
+          "bn": "নিজেকে রিচার্জ করার জন্য নিয়মিত নিজের গভীরে তলিয়ে যান, কিন্তু তারপর আরও বেশি ভালোবাসা ও ধৈর্য নিয়ে মানুষের সেবায় নিয়োজিত হওয়ার জন্য ফিরে আসুন।"
         }
       },
       {
         "title": {
-          "en": "1. Chapter Title",
-          "bn": "1. Chapter Title"
+          "en": "Collective Flourishing",
+          "bn": "সম্মিলিত সমৃদ্ধি"
         },
         "content": {
-          "en": "Virtue Over Victory (Intro)",
-          "bn": "Virtue Over Victory (Intro)"
-        }
-      },
-      {
-        "title": {
-          "en": "সফলতার সংজ্ঞা",
-          "bn": "সফলতার সংজ্ঞা"
-        },
-        "content": {
-          "en": "জাগতিক সফলতা (টাকা, ক্ষমতা) সুখের নিশ্চয়তা দেয় না; সদ্গুণ বা 'Virtue' (সততা, ন্যায়পরায়ণতা) দেয়।",
-          "bn": "জাগতিক সফলতা (টাকা, ক্ষমতা) সুখের নিশ্চয়তা দেয় না; সদ্গুণ বা 'Virtue' (সততা, ন্যায়পরায়ণতা) দেয়।"
-        }
-      },
-      {
-        "title": {
-          "en": "হারমনি",
-          "bn": "হারমনি"
-        },
-        "content": {
-          "en": "সদ্গুণ আমাদের জীবনে এক ধরনের ছন্দ বা হারমনি নিয়ে আসে।",
-          "bn": "সদ্গুণ আমাদের জীবনে এক ধরনের ছন্দ বা হারমনি নিয়ে আসে।"
-        }
-      },
-      {
-        "title": {
-          "en": "Chapter 47",
-          "bn": "Chapter 47"
-        },
-        "content": {
-          "en": "Letter 38: On the Price We Pay to Get What We Want",
-          "bn": "Letter 38: On the Price We Pay to Get What We Want"
-        }
-      },
-      {
-        "title": {
-          "en": "1. Chapter Title",
-          "bn": "1. Chapter Title"
-        },
-        "content": {
-          "en": "The Hidden Costs of Ambition",
-          "bn": "The Hidden Costs of Ambition"
-        }
-      },
-      {
-        "title": {
-          "en": "ক্যারিয়ার গেম",
-          "bn": "ক্যারিয়ার গেম"
-        },
-        "content": {
-          "en": "কর্পোরেট জগতে সফল হতে গেলে অনেক সময় তোষামোদ বা রাজনীতি করতে হয়। এটি হলো সেই গেমের \"মূল্য\"।",
-          "bn": "কর্পোরেট জগতে সফল হতে গেলে অনেক সময় তোষামোদ বা রাজনীতি করতে হয়। এটি হলো সেই গেমের \"মূল্য\"।"
-        }
-      },
-      {
-        "title": {
-          "en": "মূল্যবোধের সংঘাত",
-          "bn": "মূল্যবোধের সংঘাত"
-        },
-        "content": {
-          "en": "সাফল্যের জন্য যদি নিজের সততা বা নীতি বিসর্জন দিতে হয়, তবে সেই সাফল্য বিষাক্ত।",
-          "bn": "সাফল্যের জন্য যদি নিজের সততা বা নীতি বিসর্জন দিতে হয়, তবে সেই সাফল্য বিষাক্ত।"
-        }
-      },
-      {
-        "title": {
-          "en": "সরে আসার সাহস",
-          "bn": "সরে আসার সাহস"
-        },
-        "content": {
-          "en": "লেখক ব্যাংকের চাকরি ছেড়ে দিয়েছিলেন কারণ সেখানে গসিপ ও রাজনীতি তার নীতির বিরুদ্ধে যাচ্ছিল।",
-          "bn": "লেখক ব্যাংকের চাকরি ছেড়ে দিয়েছিলেন কারণ সেখানে গসিপ ও রাজনীতি তার নীতির বিরুদ্ধে যাচ্ছিল।"
-        }
-      },
-      {
-        "title": {
-          "en": "নির্বাচন",
-          "bn": "নির্বাচন"
-        },
-        "content": {
-          "en": "আপনি হয় খেলাটি খেলবেন এবং মূল্য দেবেন, অথবা খেলা থেকে সরে আসবেন। মাঝখানের কোনো পথ নেই।",
-          "bn": "আপনি হয় খেলাটি খেলবেন এবং মূল্য দেবেন, অথবা খেলা থেকে সরে আসবেন। মাঝখানের কোনো পথ নেই।"
+          "en": "Individual virtue is incomplete without contribution to the social good. Your growth should be a light for others.",
+          "bn": "সামাজিক কল্যাণে অবদান না রাখলে ব্যক্তিগত উৎকর্ষ অসম্পূর্ণ থেকে যায়। আপনার ব্যক্তিগত উন্নতি যেন অন্যের জন্য আলোর পথপ্রদর্শক হয়।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "",
-      "bn": ""
+      "en": "Schedule 'thinking time' alone today. Reflect on how your recent growth can benefit those around you. Approach your next social interaction with the intention to give rather than take.",
+      "bn": "আজ কিছু সময় একাকী চিন্তার জন্য তুলে রাখুন। ভাবুন আপনার ইদানিংকালের ব্যক্তিগত উন্নতি কীভাবে আপনার চারপাশের মানুষের উপকারে আসতে পারে। পরবর্তী সামাজিক মেলামেশার সময় 'পাওয়া'র চেয়ে 'দেওয়া'র মানসিকতা নিয়ে এগিয়ে যান।"
     },
     "criticalReflection": {
-      "en": "",
-      "bn": ""
+      "en": "The emphasis on 'social harmony' can sometimes be used to justify conformity. One must distinguish between being a productive member of society and blindly following toxic social norms just to 'fit in.' Virtue remains the ultimate compass.",
+      "bn": "'সামাজিক সম্প্রীতি'র ওপর অতিরিক্ত গুরুত্ব দেওয়া অনেক সময় গতানুগতিকতা বা অন্ধ অনুকরণের দিকে নিয়ে যেতে পারে। সমাজে নিজেকে খাপ খাওয়ানোর জন্য বিষাক্ত সামাজিক প্রথা মেনে চলা আর সমাজের গঠনমূলক সদস্য হওয়া—এই দুইয়ের মধ্যে পার্থক্য বুঝতে হবে। সদ্গুণই হোক আপনার চূড়ান্ত দিকনির্দেশক।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "",
-        "bn": ""
+        "en": "Better social integration without losing your unique identity or peace.",
+        "bn": "নিজের স্বকীয়তা বা মানসিক শান্তি না হারিয়েই সমাজের সাথে আরও সুন্দরভাবে মানিয়ে নেওয়া।"
       },
       "social": {
-        "en": "",
-        "bn": ""
+        "en": "A more harmonious community fostered by individuals who prioritize virtue over conflict.",
+        "bn": "এমন এক ঐক্যবদ্ধ সমাজ গড়ে ওঠা যেখানে সংঘাতের চেয়ে সদ্গুণ ও নৈতিকতাকে বেশি গুরুত্ব দেওয়া হয়।"
       }
     }
   },
@@ -4429,122 +4349,72 @@ export const chapters: Chapter[] = [
     "id": 46,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
-      "en": "Virtue Over Victory (Intro)",
-      "bn": "Virtue Over Victory (Intro)"
+      "en": "The True Definition of Success",
+      "bn": "সফলতার প্রকৃত সংজ্ঞা"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "It is in virtue that happiness consists, for virtue is the state of mind which tends to make the whole of life harmonious.",
-          "bn": "It is in virtue that happiness consists, for virtue is the state of mind which tends to make the whole of life harmonious."
+          "bn": "আসল সুখের চাবিকাঠি হলো সদ্গুণে, কারণ সদ্গুণ হলো মনের এমন এক অবস্থা যা পুরো জীবনকে ছন্দময় ও সুন্দর করে তোলে।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "সফলতার সংজ্ঞা",
-          "bn": "সফলতার সংজ্ঞা"
+          "en": "Virtue as the Anchor",
+          "bn": "নোঙর হিসেবে সদ্গুণ"
         },
         "content": {
-          "en": "জাগতিক সফলতা (টাকা, ক্ষমতা) সুখের নিশ্চয়তা দেয় না; সদ্গুণ বা 'Virtue' (সততা, ন্যায়পরায়ণতা) দেয়।",
-          "bn": "জাগতিক সফলতা (টাকা, ক্ষমতা) সুখের নিশ্চয়তা দেয় না; সদ্গুণ বা 'Virtue' (সততা, ন্যায়পরায়ণতা) দেয়।"
+          "en": "Worldly success (money, power) is unstable. Virtue (character, integrity) is the only asset that guarantees a lasting sense of fulfillment.",
+          "bn": "জাগতিক সাফল্য (টাকা বা ক্ষমতা) চরম অস্থির। কিন্তু সদ্গুণ (চরিত্র ও সততা) হলো একমাত্র অমূল্য সম্পদ যা আপনার আত্মতৃপ্তির চিরস্থায়ী নিশ্চয়তা দেয়।"
         }
       },
       {
         "title": {
-          "en": "হারমনি",
-          "bn": "হারমনি"
+          "en": "Life in Harmony",
+          "bn": "ছন্দময় জীবন"
         },
         "content": {
-          "en": "সদ্গুণ আমাদের জীবনে এক ধরনের ছন্দ বা হারমনি নিয়ে আসে।",
-          "bn": "সদ্গুণ আমাদের জীবনে এক ধরনের ছন্দ বা হারমনি নিয়ে আসে।"
+          "en": "Acting virtuously brings your actions in alignment with nature, creating a sense of internal music or 'harmony' even in adversity.",
+          "bn": "নৈতিকভাবে চললে আপনার প্রতিটি কাজ প্রকৃতির সাথে একাত্ম হয়ে যায়, যা এমনকি বিপদেও আপনার ভেতরে এক ধরনের প্রশান্তি বা 'ছন্দ' বজায় রাখে।"
         }
       },
       {
         "title": {
-          "en": "Chapter 47",
-          "bn": "Chapter 47"
+          "en": "Beyond Winning",
+          "bn": "জয়ের ঊর্ধ্বে"
         },
         "content": {
-          "en": "Letter 38: On the Price We Pay to Get What We Want",
-          "bn": "Letter 38: On the Price We Pay to Get What We Want"
-        }
-      },
-      {
-        "title": {
-          "en": "1. Chapter Title",
-          "bn": "1. Chapter Title"
-        },
-        "content": {
-          "en": "The Hidden Costs of Ambition",
-          "bn": "The Hidden Costs of Ambition"
-        }
-      },
-      {
-        "title": {
-          "en": "ক্যারিয়ার গেম",
-          "bn": "ক্যারিয়ার গেম"
-        },
-        "content": {
-          "en": "কর্পোরেট জগতে সফল হতে গেলে অনেক সময় তোষামোদ বা রাজনীতি করতে হয়। এটি হলো সেই গেমের \"মূল্য\"।",
-          "bn": "কর্পোরেট জগতে সফল হতে গেলে অনেক সময় তোষামোদ বা রাজনীতি করতে হয়। এটি হলো সেই গেমের \"মূল্য\"।"
-        }
-      },
-      {
-        "title": {
-          "en": "মূল্যবোধের সংঘাত",
-          "bn": "মূল্যবোধের সংঘাত"
-        },
-        "content": {
-          "en": "সাফল্যের জন্য যদি নিজের সততা বা নীতি বিসর্জন দিতে হয়, তবে সেই সাফল্য বিষাক্ত।",
-          "bn": "সাফল্যের জন্য যদি নিজের সততা বা নীতি বিসর্জন দিতে হয়, তবে সেই সাফল্য বিষাক্ত।"
-        }
-      },
-      {
-        "title": {
-          "en": "সরে আসার সাহস",
-          "bn": "সরে আসার সাহস"
-        },
-        "content": {
-          "en": "লেখক ব্যাংকের চাকরি ছেড়ে দিয়েছিলেন কারণ সেখানে গসিপ ও রাজনীতি তার নীতির বিরুদ্ধে যাচ্ছিল।",
-          "bn": "লেখক ব্যাংকের চাকরি ছেড়ে দিয়েছিলেন কারণ সেখানে গসিপ ও রাজনীতি তার নীতির বিরুদ্ধে যাচ্ছিল।"
-        }
-      },
-      {
-        "title": {
-          "en": "নির্বাচন",
-          "bn": "নির্বাচন"
-        },
-        "content": {
-          "en": "আপনি হয় খেলাটি খেলবেন এবং মূল্য দেবেন, অথবা খেলা থেকে সরে আসবেন। মাঝখানের কোনো পথ নেই।",
-          "bn": "আপনি হয় খেলাটি খেলবেন এবং মূল্য দেবেন, অথবা খেলা থেকে সরে আসবেন। মাঝখানের কোনো পথ নেই।"
+          "en": "Success is not about defeating others but about conquering your own lower impulses. True victory is self-mastery.",
+          "bn": "সাফল্য মানে কেবল অন্যকে হারিয়ে দেওয়া নয়, বরং নিজের ভেতরের দুর্বল প্রবৃত্তিগুলোকে জয় করা। নিজের ওপর নিয়ন্ত্রণ অর্জন করাই হলো প্রকৃত সার্থকতা।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "",
-      "bn": ""
+      "en": "Stop measuring success by your bank balance today. For 24 hours, measure success by how many honest and courageous choices you make.",
+      "bn": "আজ ব্যাংক ব্যালেন্স দিয়ে নিজের সাফল্য মাপা বন্ধ করুন। আগামী ২৪ ঘণ্টা কেবল এটিই খেয়াল করুন যে আপনি কতটা সততা ও সাহসের সাথে সঠিক সিদ্ধান্ত নিতে পারছেন।"
     },
     "criticalReflection": {
-      "en": "",
-      "bn": ""
+      "en": "Identifying happiness 'only' with virtue can lead to neglecting physical suffering. While character is paramount, human well-being often requires a baseline of resources. Striving for virtue shouldn't be an excuse for societal indifference toward poverty.",
+      "bn": "সুখকে কেবল 'সদ্গুণে'র মধ্যে সীমাবদ্ধ রাখলে অনেক সময় বাস্তব শারীরিক বা বস্তুগত কষ্টকে উপেক্ষা করা হয়। চরিত্র গঠন অত্যন্ত গুরুত্বপূর্ণ হলেও, মানুষের বাঁচার জন্য ন্যূনতম সংস্থান প্রয়োজন। সদ্গুণের দোহাই দিয়ে যেন আমরা দরিদ্রদের প্রতি সামাজিক অবহেলা প্রদর্শন না করি।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "",
-        "bn": ""
+        "en": "A deep sense of internal worth unrelated to external status.",
+        "bn": "বাহ্যিক পদমর্যাদার তোয়াক্কা না করে নিজের ভেতরে এক গভীর আত্মসম্মানবোধ জাগ্রত হওয়া।"
       },
       "social": {
-        "en": "",
-        "bn": ""
+        "en": "A cultural shift from 'having more' to 'being better.'",
+        "bn": "বেশি 'থাকা'র চেয়ে বরং আরও 'উন্নত' হওয়ার প্রতি সামাজিক আগ্রহ বৃদ্ধি পাওয়া।"
       }
     }
   },
@@ -4552,92 +4422,92 @@ export const chapters: Chapter[] = [
     "id": 47,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
-      "en": "The Hidden Costs of Ambition",
-      "bn": "The Hidden Costs of Ambition"
+      "en": "The Hidden Price of Ambition",
+      "bn": "উচ্চাকাঙ্ক্ষার লুকানো মূল্য"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "You pay a price to play a game.",
-          "bn": "You pay a price to play a game."
+          "bn": "প্রতিটি খেলায় অংশগ্রহণের জন্য একটি মূল্য দিতে হয়।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "The moment you have to exchange your values for money, you always come to the same conclusion: It’s just not worth it.",
-          "bn": "The moment you have to exchange your values for money, you always come to the same conclusion: It’s just not worth it."
+          "bn": "যখনই আপনাকে টাকার বদলে নিজের আদর্শ বিসর্জন দিতে হবে, জানবেন সেই টাকা বা সাফল্য আপনার জন্য সার্থক নয়।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "ক্যারিয়ার গেম",
-          "bn": "ক্যারিয়ার গেম"
+          "en": "The Corporate Game",
+          "bn": "কর্পোরেট খেলা"
         },
         "content": {
-          "en": "কর্পোরেট জগতে সফল হতে গেলে অনেক সময় তোষামোদ বা রাজনীতি করতে হয়। এটি হলো সেই গেমের \"মূল্য\"।",
-          "bn": "কর্পোরেট জগতে সফল হতে গেলে অনেক সময় তোষামোদ বা রাজনীতি করতে হয়। এটি হলো সেই গেমের \"মূল্য\"।"
+          "en": "Succeeding in a toxic social structure often requires 'taxes' like gossip, politics, or flattery. Realize that this is the currency of that world.",
+          "bn": "একটি বিষাক্ত সামাজিক কাঠামো বা ব্যবস্থায় সফল হওয়ার জন্য অনেক সময় পরচর্চা, রাজনীতি বা তোষামোদের মতো অনৈতিক 'ট্যাক্স' দিতে হয়। মনে রাখবেন, এটিই ওই জগতের বিনিময় মাধ্যম।"
         }
       },
       {
         "title": {
-          "en": "মূল্যবোধের সংঘাত",
+          "en": "Values Collision",
           "bn": "মূল্যবোধের সংঘাত"
         },
         "content": {
-          "en": "সাফল্যের জন্য যদি নিজের সততা বা নীতি বিসর্জন দিতে হয়, তবে সেই সাফল্য বিষাক্ত।",
-          "bn": "সাফল্যের জন্য যদি নিজের সততা বা নীতি বিসর্জন দিতে হয়, তবে সেই সাফল্য বিষাক্ত।"
+          "en": "If external success is purchased with your internal integrity, you haven't won; you've been sold. A poisoned prize is worse than losing.",
+          "bn": "যদি বাহ্যিক সাফল্য আপনার অভ্যন্তরীণ সততার বিনিময়ে অর্জিত হয়, তবে জানবেন আপনি জয়ী হননি বরং নিজেকে সস্তায় বিক্রি করে দিয়েছেন। বিড়ম্বিত জয়ের চেয়ে সসম্মান পরাজয় অনেক ভালো।"
         }
       },
       {
         "title": {
-          "en": "সরে আসার সাহস",
+          "en": "The Courage to Exit",
           "bn": "সরে আসার সাহস"
         },
         "content": {
-          "en": "লেখক ব্যাংকের চাকরি ছেড়ে দিয়েছিলেন কারণ সেখানে গসিপ ও রাজনীতি তার নীতির বিরুদ্ধে যাচ্ছিল।",
-          "bn": "লেখক ব্যাংকের চাকরি ছেড়ে দিয়েছিলেন কারণ সেখানে গসিপ ও রাজনীতি তার নীতির বিরুদ্ধে যাচ্ছিল।"
+          "en": "Choosing to leave a high-status position because it violates your soul is not failure—it’s the ultimate form of success.",
+          "bn": "একটি উচ্চপদস্থ চাকুরি বা অবস্থান কেবল নিজের মর্যাদা রক্ষার জন্য ছেড়ে দেওয়া কোনো ব্যর্থতা নয়—বরং এটিই হলো প্রকৃত সার্থকতা।"
         }
       },
       {
         "title": {
-          "en": "নির্বাচন",
-          "bn": "নির্বাচন"
+          "en": "The Binary Choice",
+          "bn": "চূড়ান্ত সিদ্ধান্ত"
         },
         "content": {
-          "en": "আপনি হয় খেলাটি খেলবেন এবং মূল্য দেবেন, অথবা খেলা থেকে সরে আসবেন। মাঝখানের কোনো পথ নেই।",
-          "bn": "আপনি হয় খেলাটি খেলবেন এবং মূল্য দেবেন, অথবা খেলা থেকে সরে আসবেন। মাঝখানের কোনো পথ নেই।"
+          "en": "You either play the game and pay its price, or you walk away. Trying to do both leads to exhaustion and hypocrisy.",
+          "bn": "হয় আপনি পরিস্থিতির সাথে তাল মিলিয়ে তার মূল্য দেবেন, নয়তো সসম্মানে সরে দাঁড়াবেন। দুটোর মাঝামাঝি কিছু করতে চাইলে আপনি মানসিকভাবে ভেঙে পড়বেন এবং ভণ্ডামিতে অভ্যস্ত হয়ে যাবেন।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আপনার বর্তমান কাজের পরিবেশ মূল্যায়ন করুন। সফল হওয়ার জন্য আপনাকে কি এমন কিছু করতে হচ্ছে যা আপনি ঘৃণা করেন (যেমন মিথ্যা বলা, তেল দেওয়া)? যদি হ্যাঁ হয়, তবে ভাবুন এই \"মূল্য\" আপনি দিতে প্রস্তুত কি না। প্রস্তুত না থাকলে এক্সিট প্ল্যান তৈরি করুন।",
-      "bn": "আপনার বর্তমান কাজের পরিবেশ মূল্যায়ন করুন। সফল হওয়ার জন্য আপনাকে কি এমন কিছু করতে হচ্ছে যা আপনি ঘৃণা করেন (যেমন মিথ্যা বলা, তেল দেওয়া)? যদি হ্যাঁ হয়, তবে ভাবুন এই \"মূল্য\" আপনি দিতে প্রস্তুত কি না। প্রস্তুত না থাকলে এক্সিট প্ল্যান তৈরি করুন।"
+      "en": "Audit your current professional life. Are you being forced to say or do things you despise? If the cost is your soul, start planning your exit today. No salary is worth your peace.",
+      "bn": "আপনার বর্তমান পেশাগত জীবন নিয়ে একটু গভীরভাবে ভাবুন। আপনাকে কি এমন কিছু বলতে বা করতে বাধ্য করা হচ্ছে যা আপনি ঘৃণা করেন? যদি মূল্যটি আপনার নৈতিক অবক্ষয় হয়, তবে আজই সরে আসার পরিকল্পনা করুন। কোনো বেতনই আপনার মানসিক শান্তির চেয়ে বড় নয়।"
     },
     "criticalReflection": {
-      "en": "মূল্যবোধের সাথে আপোষ করতে হয় এমন \"গেম\" থেকে সরে আসা মহৎ, কিন্তু এর জন্য অর্থনৈতিক সুবিধা (সঞ্চয়/নিরাপত্তা জাল) প্রয়োজন। অনেক মানুষকে তাদের পরিবারকে খাওয়ানোর জন্য বিষাক্ত কর্মক্ষেত্রের মূল্য দিতে হয়। এখানের স্টয়িক উপদেশটি এমন এক ধরনের ক্যারিয়ার গতিশীলতা বা মোবিলিটি ধারণা করে যা সবার থাকে না।",
-      "bn": "মূল্যবোধের সাথে আপোষ করতে হয় এমন \"গেম\" থেকে সরে আসা মহৎ, কিন্তু এর জন্য অর্থনৈতিক সুবিধা (সঞ্চয়/নিরাপত্তা জাল) প্রয়োজন। অনেক মানুষকে তাদের পরিবারকে খাওয়ানোর জন্য বিষাক্ত কর্মক্ষেত্রের মূল্য দিতে হয়। এখানের স্টয়িক উপদেশটি এমন এক ধরনের ক্যারিয়ার গতিশীলতা বা মোবিলিটি ধারণা করে যা সবার থাকে না।"
+      "en": "Exiting a toxic system assumes the individual has the financial means to survive. Stating that 'no salary is worth your peace' is easier for someone with savings. We must acknowledge that for many, endurance is a survival necessity, not a choice.",
+      "bn": "একটি বিষাক্ত ব্যবস্থা থেকে বেরিয়ে আসার জন্য অর্থনৈতিক সচ্ছলতা প্রয়োজন। 'কোনো বেতনই প্রশান্তির চেয়ে বড় নয়'—বলাটা তাদের জন্য সহজ যাদের সঞ্চয় আছে। কিন্তু আমাদের মনে রাখা উচিত, অনেকের জন্য পরিস্থিতির সাথে মানিয়ে নেওয়াটা কোনো পছন্দ নয়, বরং বেঁচে থাকার জন্য একটি কঠোর প্রয়োজনীয়তা।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "সততা-চালিত ক্যারিয়ার পছন্দ।",
-        "bn": "সততা-চালিত ক্যারিয়ার পছন্দ।"
+        "en": "Integrity-driven career choices and a guilt-free conscience.",
+        "bn": "সততার ওপর ভিত্তি করে পেশাগত সিদ্ধান্ত নেওয়া এবং কলঙ্কমুক্ত বিবেকের অধিকারি হওয়া।"
       },
       "social": {
-        "en": "স্বল্পমেয়াদে আয়ের সম্ভাব্য ক্ষতি, তবে দীর্ঘমেয়াদী মানসিক শান্তি।",
-        "bn": "স্বল্পমেয়াদে আয়ের সম্ভাব্য ক্ষতি, তবে দীর্ঘমেয়াদী মানসিক শান্তি।"
+        "en": "Workplaces that are forced to become more ethical to retain virtuous talent.",
+        "bn": "এমন কর্মক্ষেত্র গড়ে ওঠা যেখানে মেধাবী ও সৎ ব্যক্তিদের ধরে রাখার জন্য কর্তৃপক্ষ নৈতিক হতে বাধ্য হবে।"
       }
     }
   },
@@ -4645,92 +4515,92 @@ export const chapters: Chapter[] = [
     "id": 48,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Absolute Freedom",
-      "bn": "Absolute Freedom"
+      "bn": "পরম স্বাধীনতা"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "To be free is to not give power to fortune.",
-          "bn": "To be free is to not give power to fortune."
+          "bn": "প্রকৃত স্বাধীনতা হলো ভাগ্যের হাতে নিজের নিয়ন্ত্রণ ছেড়ে না দেওয়া।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "When you have nothing, everything else in life is a bonus.",
-          "bn": "When you have nothing, everything else in life is a bonus."
+          "bn": "যখন আপনার হারানোর কিছু থাকে না, তখন জীবনের প্রতিটি ছোট প্রাপ্তিও এক একটি বোনাস বা আশির্বাদ।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "মুক্তির সংজ্ঞা",
-          "bn": "মুক্তির সংজ্ঞা"
+          "en": "The Definition of Freedom",
+          "bn": "স্বাধীনতার সংজ্ঞা"
         },
         "content": {
-          "en": "প্রকৃত মুক্তি টাকা বা ক্ষমতা নয়; প্রকৃত মুক্তি হলো ভাগ্যের ওপর নির্ভর না করা।",
-          "bn": "প্রকৃত মুক্তি টাকা বা ক্ষমতা নয়; প্রকৃত মুক্তি হলো ভাগ্যের ওপর নির্ভর না করা।"
+          "en": "True freedom is not found in wealth or power, but in the lack of dependence on external fortune. If you don't need it, they can't control you with it.",
+          "bn": "প্রকৃত মুক্তি টাকা বা ক্ষমতায় নেই; বরং ভাগ্যের ওপর নির্ভর না করার মধ্যেই লুকিয়ে আছে আসল স্বাধীনতা। আপনার যখন কোনো কিছুর প্রয়োজন থাকবে না, তখন কেউ আপনাকে তা দিয়ে নিয়ন্ত্রণও করতে পারবে না।"
         }
       },
       {
         "title": {
-          "en": "রুবিন কার্টারের উদাহরণ",
+          "en": "The Example of Rubin Carter",
           "bn": "রুবিন কার্টারের উদাহরণ"
         },
         "content": {
-          "en": "২০ বছর মিথ্যা মামলায় জেলে থেকেও রুবিন কার্টার মানসিকভাবে মুক্ত ছিলেন কারণ তিনি ঘৃণা বা প্রতিশোধের কাছে নতি স্বীকার করেননি।",
-          "bn": "২০ বছর মিথ্যা মামলায় জেলে থেকেও রুবিন কার্টার মানসিকভাবে মুক্ত ছিলেন কারণ তিনি ঘৃণা বা প্রতিশোধের কাছে নতি স্বীকার করেননি।"
+          "en": "Rubin Carter remained mentally free for 20 years in prison because he refused to surrender his soul to hatred or resentment. His mind was a sanctuary no walls could contain.",
+          "bn": "২০ বছর মিথ্যা মামলায় জেলে থেকেও রুবিন কার্টার মানসিকভাবে মুক্ত ছিলেন কারণ তিনি ঘৃণা বা প্রতিশোধের কাছে নতি স্বীকার করেননি। তার মন ছিল এক অভয়ারণ্য যা কোনো দেয়ালই আটকে রাখতে পারেনি।"
         }
       },
       {
         "title": {
-          "en": "চাহিদা বনাম স্বাধীনতা",
-          "bn": "চাহিদা বনাম স্বাধীনতা"
+          "en": "Needs vs. Liberty",
+          "bn": "প্রয়োজন বনাম স্বাধীনতা"
         },
         "content": {
-          "en": "যার চাহিদা যত কম, সে তত বেশি স্বাধীন। \"কিছুই চাই না\"—এই মানসিকতা মানুষকে অজেয় করে তোলে।",
-          "bn": "যার চাহিদা যত কম, সে তত বেশি স্বাধীন। \"কিছুই চাই না\"—এই মানসিকতা মানুষকে অজেয় করে তোলে।"
+          "en": "The fewer your needs, the greater your freedom. The 'I want nothing' mindset makes you invincible to the pressures of the world.",
+          "bn": "যার চাহিদা যত কম, সে তত বেশি স্বাধীন। \"আমার কিছুই চাই না\"—এই মানসিকতা মানুষকে দুনিয়ার সব চাপের কাছে অপরাজেয় করে তোলে।"
         }
       },
       {
         "title": {
-          "en": "বোনাস মানসিকতা",
+          "en": "The Bonus Mindset",
           "bn": "বোনাস মানসিকতা"
         },
         "content": {
-          "en": "জীবনকে শূন্য থেকে শুরু ভাবলে, যা কিছুই পাওয়া যায় তাকেই বোনাস মনে হয় এবং কৃতজ্ঞতা বাড়ে।",
-          "bn": "জীবনকে শূন্য থেকে শুরু ভাবলে, যা কিছুই পাওয়া যায় তাকেই বোনাস মনে হয় এবং কৃতজ্ঞতা বাড়ে।"
+          "en": "When you view life from a baseline of zero, every positive event feels like a gift rather than an entitlement, leading to constant gratitude.",
+          "bn": "জীবনকে শূন্য থেকে শুরু ভাবলে, যা কিছুই পাওয়া যায় তাকেই বোনাস বা উপহার মনে হয় এবং এর ফলে পরম কৃতজ্ঞতাবোধ জন্ম নেয়।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "নিজেকে বলুন, \"আমার সুখ বাইরের কোনো ঘটনার ওপর নির্ভর করে না।\" যদি কাল লটারি জিতেন—ভালো; যদি না জিতেন—তাও ভালো। নিজের মেজাজকে বাইরের ঘটনার দাস হতে দেবেন না।",
-      "bn": "নিজেকে বলুন, \"আমার সুখ বাইরের কোনো ঘটনার ওপর নির্ভর করে না।\" যদি কাল লটারি জিতেন—ভালো; যদি না জিতেন—তাও ভালো। নিজের মেজাজকে বাইরের ঘটনার দাস হতে দেবেন না।"
+      "en": "Tell yourself: 'My happiness does not depend on external events.' Whether you win or lose today, maintain your internal composure. Don't let your mood be a slave to circumstances.",
+      "bn": "নিজেকে বলুন, \"আমার সুখ বাইরের কোনো ঘটনার ওপর নির্ভর করে না।\" আজ আপনার জয় হোক বা পরাজয়—নিজের মানসিক স্থিরতা বজায় রাখুন। নিজের মেজাজকে বাইরের পরিস্থিতির দাস হতে দেবেন না।"
     },
     "criticalReflection": {
-      "en": "রুবিন কার্টারের গল্পটি অনুপ্রেরণাদায়ক কিন্তু এটি মানসিক দৃঢ়তার একটি চরম দৃষ্টান্ত (ভুল কারাদণ্ড থেকে বেঁচে ফেরা)। চরম উদাহরণ ব্যবহার করা কখনও কখনও সাধারণ সংগ্রামের মুখোমুখি হওয়া সাধারণ মানুষদের নিরুৎসাহিত করতে পারে, এবং তাদের মনে হতে পারে যে অতটা স্টয়িক হতে না পারাটা তাদের ব্যর্থতা।",
-      "bn": "রুবিন কার্টারের গল্পটি অনুপ্রেরণাদায়ক কিন্তু এটি মানসিক দৃঢ়তার একটি চরম দৃষ্টান্ত (ভুল কারাদণ্ড থেকে বেঁচে ফেরা)। চরম উদাহরণ ব্যবহার করা কখনও কখনও সাধারণ সংগ্রামের মুখোমুখি হওয়া সাধারণ মানুষদের নিরুৎসাহিত করতে পারে, এবং তাদের মনে হতে পারে যে অতটা স্টয়িক হতে না পারাটা তাদের ব্যর্থতা।"
+      "en": "Rubin Carter's story is a profound example of mental strength, but using extreme cases (wrongful imprisonment) can sometimes make common daily struggles feel trivial. Stoicism should empower, not guilt-trip people for feeling the weight of their own 'lesser' tragedies.",
+      "bn": "রুবিন কার্টারের গল্পটি অনুপ্রেরণাদায়ক কিন্তু এটি মানসিক দৃঢ়তার একটি চরম দৃষ্টান্ত। এমন উদাহরণ ব্যবহার করলে অনেক সময় সাধারণ মানুষের দৈনন্দিন সংগ্রামগুলোকে তুচ্ছ মনে হতে পারে। স্টয়িক দর্শন যেন মানুষকে শক্তিশালী করে তোলে, কেবল বড় ট্র্যাজেডির সাথে তুলনা করে তাদের ছোট দুঃখবোধের জন্য লজ্জিত না করে।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "বাহ্যিক সীমাবদ্ধতা নির্বিশেষে অবিচল অভ্যন্তরীণ শান্তি।",
-        "bn": "বাহ্যিক সীমাবদ্ধতা নির্বিশেষে অবিচল অভ্যন্তরীণ শান্তি।"
+        "en": "Unshakeable internal peace regardless of external constraints.",
+        "bn": "বাহ্যিক সীমাবদ্ধতা নির্বিশেষে অবিচল অভ্যন্তরীণ শান্তি অর্জন।"
       },
       "social": {
-        "en": "এমন ব্যক্তিরা যাদের মানসিকভাবে প্রভাবিত বা দমন করা কঠিন।",
-        "bn": "এমন ব্যক্তিরা যাদের মানসিকভাবে প্রভাবিত বা দমন করা কঠিন।"
+        "en": "A population that is difficult to manipulate or suppress mentally.",
+        "bn": "এমন এক সমাজ গড়ে ওঠা যাদের মানসিকভাবে প্রভাবিত বা দমন করা অত্যন্ত কঠিন কাজ।"
       }
     }
   },
@@ -4738,102 +4608,102 @@ export const chapters: Chapter[] = [
     "id": 49,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
-      "en": "The Trap of \"More\"",
-      "bn": "The Trap of \"More\""
+      "en": "The Trap of 'More'",
+      "bn": "অতিরিক্তের মরণফাঁদ"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Mo money, mo problems.",
-          "bn": "Mo money, mo problems."
+          "bn": "অধিক অর্থ, অধিক অশান্তি।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "How often have you sacrificed your inner peace for some sort of success?",
-          "bn": "How often have you sacrificed your inner peace for some sort of success?"
+          "bn": "আপনি কতবার সস্তায় কোনো সাফল্যের বিনিময়ে নিজের অমূল্য মানসিক শান্তি বিসর্জন দিয়েছেন?"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Success is greedy and exposed to the greed of others.",
-          "bn": "Success is greedy and exposed to the greed of others."
+          "bn": "সাফল্য যেমন মানুষকে লোভী করে তোলে, তেমনি এটি অন্যদের লোভনীয় নজরেও পড়ে যায়।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "সফলতার মূল্য",
+          "en": "The Cost of Success",
           "bn": "সফলতার মূল্য"
         },
         "content": {
-          "en": "প্রতিটি সাফল্যের সাথে নতুন সমস্যা আসে (যেমন আইনি জটিলতা, স্ট্রেস, শত্রুতা)।",
-          "bn": "প্রতিটি সাফল্যের সাথে নতুন সমস্যা আসে (যেমন আইনি জটিলতা, স্ট্রেস, শত্রুতা)।"
+          "en": "Every success comes with a price—stress, competition, and new complications. If we aren't careful, the things we own end up owning us.",
+          "bn": "প্রতিটি সাফল্যের সাথেই আলাদা মূল্য দিতে হয়—চাপ, প্রতিযোগিতা এবং নিত্যনতুন জটিলতা। যদি আমরা সতর্ক না হই, তবে আমাদের অর্জনগুলোই একসময় আমাদের গ্রাস করে ফেলবে।"
         }
       },
       {
         "title": {
-          "en": "\"কিন্তু যদি...\" ফাঁদ",
-          "bn": "\"কিন্তু যদি...\" ফাঁদ"
+          "en": "The 'If Only' Trap",
+          "bn": "মরীচিকার মরণফাঁদ"
         },
         "content": {
-          "en": "আমরা ভাবি \"যদি ১ লাখ টাকা বেতন পাই তবে সুখী হব\"—এটি একটি মরীচিকা। লক্ষ্য পূরণ হলে নতুন অভাববোধ তৈরি হয়।",
-          "bn": "আমরা ভাবি \"যদি ১ লাখ টাকা বেতন পাই তবে সুখী হব\"—এটি একটি মরীচিকা। লক্ষ্য পূরণ হলে নতুন অভাববোধ তৈরি হয়।"
+          "en": "We think 'If only I earn X, I'll be happy.' This is a mirage. Once the goal is reached, the threshold of desire simply shifts higher.",
+          "bn": "আমরা ভাবি \"যদি অমুক জিনিসটা পেতাম তবেই হয়তো সুখী হতাম\"—এটি একটি মরীচিকা। লক্ষ্য পূরণ হওয়ার সাথে সাথেই আমাদের আকাঙ্ক্ষার মাত্রা আরও বেড়ে যায়।"
         }
       },
       {
         "title": {
-          "en": "যাত্রার আনন্দ",
+          "en": "The Joy of the Journey",
           "bn": "যাত্রার আনন্দ"
         },
         "content": {
-          "en": "গন্তব্যে পৌঁছানোর চেয়ে যাত্রাপথ উপভোগ করা বেশি জরুরি। সাধারণ দিনের ছোট ছোট অলৌকিক ঘটনাগুলো খেয়াল করুন।",
-          "bn": "গন্তব্যে পৌঁছানোর চেয়ে যাত্রাপথ উপভোগ করা বেশি জরুরি। সাধারণ দিনের ছোট ছোট অলৌকিক ঘটনাগুলো খেয়াল করুন।"
+          "en": "Focusing too much on the destination makes us miss the small miracles of daily life. True peace is found in the 'now,' not the 'eventually.'",
+          "bn": "গন্তব্যে পৌঁছানোর দিকে অতিরিক্ত নজর দিলে জীবনের ছোট ছোট আনন্দগুলো আমাদের চোখের আড়ালে থেকে যায়। প্রকৃত শান্তি সুদূর ভবিষ্যতে নয়, বরং বর্তমানের মধ্যেই নিহিত।"
         }
       },
       {
         "title": {
-          "en": "লোভের চক্র",
+          "en": "The Cycle of Greed",
           "bn": "লোভের চক্র"
         },
         "content": {
-          "en": "সাফল্য আরও লোভ ডেকে আনে। থামতে না জানলে শান্তি অসম্ভব।",
-          "bn": "সাফল্য আরও লোভ ডেকে আনে। থামতে না জানলে শান্তি অসম্ভব।"
+          "en": "Unchecked success breeds more greed. Without a clear definition of 'enough,' you will spend your life running a race that has no finish line.",
+          "bn": "নিয়ন্ত্রণহীন সাফল্য কেবল লোভই বাড়িয়ে তোলে। আপনার জন্য কতটুকু 'পর্যাপ্ত' তা ঠিক করতে না পারলে আপনি আজীবন এমন এক দৌড়ে শামিল থাকবেন যার কোনো শেষ নেই।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আপনার \"পর্যাপ্ত\" (Enough) এর সংজ্ঞা ঠিক করুন। কত টাকা বা কী পদ পেলে আপনি থামবেন? সেই সীমারেখা না থাকলে আপনি আজীবন দৌড়াবেন। আজই ঠিক করুন, আপনার \"Enough Point\" কোনটি।",
-      "bn": "আপনার \"পর্যাপ্ত\" (Enough) এর সংজ্ঞা ঠিক করুন। কত টাকা বা কী পদ পেলে আপনি থামবেন? সেই সীমারেখা না থাকলে আপনি আজীবন দৌড়াবেন। আজই ঠিক করুন, আপনার \"Enough Point\" কোনটি।"
+      "en": "Define your 'Enough Point.' At what level of income or status will you stop sacrificing your time and peace? Draw that line today to protect your sanity.",
+      "bn": "আপনার 'পর্যাপ্ত' (Enough) এর সীমা ঠিক করুন। ঠিক কতটুকু টাকা বা পদমর্যাদা পেলে আপনি আপনার সময় ও শান্তি বিসর্জন দেওয়া বন্ধ করবেন? নিজের মানসিক ভারসাম্য রক্ষার জন্য আজই সেই সীমারেখাটি টেনে নিন।"
     },
     "criticalReflection": {
-      "en": "\"Mo money, mo problems\" একটি ক্লিশে কথা যা প্রায়শই ধনীরা ব্যবহার করে গরিবদের সম্পদ অর্জন থেকে নিরুৎসাহিত করতে। যদিও সম্পদ নতুন সমস্যা নিয়ে আসে, দারিদ্র্য নিয়ে আসে বেঁচে থাকার সমস্যা। অনাহারে থাকার চাপের চেয়ে সম্পদ ব্যবস্থাপনার চাপ নিঃসন্দেহে ভালো।",
-      "bn": "\"Mo money, mo problems\" একটি ক্লিশে কথা যা প্রায়শই ধনীরা ব্যবহার করে গরিবদের সম্পদ অর্জন থেকে নিরুৎসাহিত করতে। যদিও সম্পদ নতুন সমস্যা নিয়ে আসে, দারিদ্র্য নিয়ে আসে বেঁচে থাকার সমস্যা। অনাহারে থাকার চাপের চেয়ে সম্পদ ব্যবস্থাপনার চাপ নিঃসন্দেহে ভালো।"
+      "en": "While identifying the problems of wealth, we must not romanticize poverty. The stress of managing resources is far manageable than the trauma of having none. Stoic contentment should be a choice for the stable, not a sedative for the oppressed.",
+      "bn": "সম্পদের সমস্যার কথা বলতে গিয়ে যেন আমরা দারিদ্র্যকে রোমান্টিক করে না দেখি। সম্পদ ব্যবস্থাপনার চাপের চেয়ে সম্পদের অভাবে অনাহারে থাকার কষ্ট অনেক বেশি। স্টয়িক তুষ্টি যেন কেবল স্থিতিশীল মানুষের জন্য একটি উন্নত জীবনদর্শন হয়, নিপীড়িতদের কণ্ঠ রুদ্ধ করার অস্ত্র না হয়।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "উন্নত কর্ম-জীবন ভারসাম্য এবং বার্নআউট হ্রাস।",
-        "bn": "উন্নত কর্ম-জীবন ভারসাম্য এবং বার্নআউট হ্রাস।"
+        "en": "Better work-life balance and a drastic reduction in burnout.",
+        "bn": "উন্নত কর্ম-জীবন ভারসাম্য বজায় রাখা এবং মানসিকভাবে ভেঙে পড়ার ঝুঁকি কমানো।"
       },
       "social": {
-        "en": "একটি সংস্কৃতি যা নিরলস প্রবৃদ্ধির চেয়ে তুষ্টিকে মূল্য দেয়।",
-        "bn": "একটি সংস্কৃতি যা নিরলস প্রবৃদ্ধির চেয়ে তুষ্টিকে মূল্য দেয়।"
+        "en": "A shift in culture from relentless growth to intentional satisfaction.",
+        "bn": "অন্ধভাবে এগিয়ে যাওয়ার চেয়ে বরং সন্তুষ্টির সংস্কৃতি গড়ে তোলার দিকে সামাজিক আগ্রহ বৃদ্ধি।"
       }
     }
   },
@@ -4841,92 +4711,92 @@ export const chapters: Chapter[] = [
     "id": 50,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
-      "en": "Action Over Outcome",
-      "bn": "Action Over Outcome"
+      "en": "Process Over Outcome",
+      "bn": "ফলাফলের চেয়ে প্রক্রিয়ায় গুরুত্ব"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "The problem is that we often set bad goals. And when we do that, we actually set ourselves up for failure.",
-          "bn": "The problem is that we often set bad goals. And when we do that, we actually set ourselves up for failure."
+          "bn": "সমস্যা হলো আমরা অনেক সময় ভুল লক্ষ্য নির্ধারণ করি। আর যখন আমরা তা করি, আসলে আমরা নিজেদের ব্যর্থতার দিকেই ঠেলে দেই।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Everything is in your hands now. You don’t depend on anyone for the outcomes.",
-          "bn": "Everything is in your hands now. You don’t depend on anyone for the outcomes."
+          "bn": "এখন সবকিছুই আপনার হাতে। ফলাফলের জন্য আপনাকে আর কারো ওপর নির্ভর করতে হবে না।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "ভুল লক্ষ্য",
+          "en": "The Wrong Goals",
           "bn": "ভুল লক্ষ্য"
         },
         "content": {
-          "en": "\"আমি ১০ কেজি ওজন কমাব\"—এটি ভুল লক্ষ্য কারণ ফলাফল পুরোপুরি আপনার হাতে নেই।",
-          "bn": "\"আমি ১০ কেজি ওজন কমাব\"—এটি ভুল লক্ষ্য কারণ ফলাফল পুরোপুরি আপনার হাতে নেই।"
+          "en": "Setting a goal like 'I will lose 10kg' is dangerous because the biological result is not 100% under your control, leading to anxiety.",
+          "bn": "\"আমি ১০ কেজি ওজন কমাব\"—এমন লক্ষ্য নির্ধারণ করা ঝুঁকিপূর্ণ কারণ শারীরিক ফলাফল পুরোপুরি আপনার হাতে নেই, যা শেষ পর্যন্ত উদ্বেগের জন্ম দেয়।"
         }
       },
       {
         "title": {
-          "en": "সঠিক লক্ষ্য",
+          "en": "The Right Goals",
           "bn": "সঠিক লক্ষ্য"
         },
         "content": {
-          "en": "\"আমি সপ্তাহে ৪ দিন ব্যায়াম করব\"—এটি সঠিক লক্ষ্য কারণ এটি একটি কাজ (Action) যা আপনি নিয়ন্ত্রণ করতে পারেন।",
-          "bn": "\"আমি সপ্তাহে ৪ দিন ব্যায়াম করব\"—এটি সঠিক লক্ষ্য কারণ এটি একটি কাজ (Action) যা আপনি নিয়ন্ত্রণ করতে পারেন।"
+          "en": "Targeting actions instead of results—like 'I will exercise 4 times a week'—gives you total power and guarantees success if you simply show up.",
+          "bn": "ফলাফলের পরিবর্তে কাজের ওপর ভিত্তি করে লক্ষ্য নির্ধারণ করা—যেমন \"আমি সপ্তাহে ৪ দিন ব্যায়াম করব\"—আপনাকে পূর্ণ ক্ষমতা দেয় এবং আপনার চেষ্টার সার্থকতা নিশ্চিত করে।"
         }
       },
       {
         "title": {
-          "en": "প্রক্রিয়ায় ফোকাস",
-          "bn": "প্রক্রিয়ায় ফোকাস"
+          "en": "Focus on the System",
+          "bn": "পদ্ধতিতে মনোযোগ"
         },
         "content": {
-          "en": "ফলাফলের দুশ্চিন্তা বাদ দিয়ে কেবল প্রতিদিনের রুটিন বা কাজের ওপর ফোকাস করলে সাফল্য সহজে আসে।",
-          "bn": "ফলাফলের দুশ্চিন্তা বাদ দিয়ে কেবল প্রতিদিনের রুটিন বা কাজের ওপর ফোকাস করলে সাফল্য সহজে আসে।"
+          "en": "When you detach your happiness from the outcome and attach it to the daily execution of your routine, success becomes an inevitable byproduct.",
+          "bn": "যখন আপনি নিজের সুখকে ফলাফলের থেকে আলাদা করে প্রতিদিনের কাজের রুটিনের সাথে যুক্ত করবেন, তখন সাফল্য আপনার জীবনে একটি অনিবার্য ফল হিসেবেই দেখা দেবে।"
         }
       },
       {
         "title": {
-          "en": "আত্মবিশ্বাস",
-          "bn": "আত্মবিশ্বাস"
+          "en": "Confidence Through Control",
+          "bn": "নিয়ন্ত্রণের মাধ্যমে আত্মবিশ্বাস"
         },
         "content": {
-          "en": "যখন লক্ষ্য কেবল নিজের কাজের ওপর নির্ভরশীল হয়, তখন আত্মবিশ্বাস বাড়ে কারণ এখানে ভাগ্যের ভূমিকা নেই।",
-          "bn": "যখন লক্ষ্য কেবল নিজের কাজের ওপর নির্ভরশীল হয়, তখন আত্মবিশ্বাস বাড়ে কারণ এখানে ভাগ্যের ভূমিকা নেই।"
+          "en": "Confidence grows when you only judge yourself by what is within your power. Luck stops being a factor in your self-esteem.",
+          "bn": "যখন আপনি নিজেকে কেবল আপনার ক্ষমতার মধ্যে থাকা কাজের দ্বারা বিচার করবেন, তখন আপনার আত্মবিশ্বাস বহুগুণ বেড়ে যাবে। কারণ আপনার মর্যাদায় তখন ভাগ্যের কোনো হাত থাকবে না।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আপনার বর্তমান লক্ষ্যগুলো রিভিউ করুন। সেগুলোকে \"ফলাফল\" থেকে \"কাজে\" রূপান্তর করুন।",
-      "bn": "আপনার বর্তমান লক্ষ্যগুলো রিভিউ করুন। সেগুলোকে \"ফলাফল\" থেকে \"কাজে\" রূপান্তর করুন।"
+      "en": "Review your goals. Convert all 'result-based' goals into 'action-based' goals. Instead of 'Getting a promotion,' set the goal as 'Being the most valuable collaborator every day.'",
+      "bn": "আপনার লক্ষ্যগুলো পুনরায় খতিয়ে দেখুন। সব 'ফলাফল-ভিত্তিক' লক্ষ্যকে 'কাজ-ভিত্তিক' লক্ষ্যে রূপান্তর করুন। \"প্রমোশন পাওয়া\"র পরিবর্তে লক্ষ্য ঠিক করুন \"প্রতিদিন সবচেয়ে কার্যকর অবদান রাখা\"।"
     },
     "criticalReflection": {
-      "en": "শুধুমাত্র ইনপুট (কাজ) এর ওপর ফোকাস করলে কার্যকারিতা বা এফেক্টিভনেস উপেক্ষিত হতে পারে। কেউ প্রতিদিন দৌড়াতে পারে (কাজ) কিন্তু ভুল ফর্মে দৌড়ালে আহত হতে পারে। লক্ষ্যগুলোর একটি ফিডব্যাক লুপ থাকা দরকার যেখানে ফলাফলগুলো পর্যায়ক্রমে পরীক্ষা করা হয় প্রক্রিয়াটি সামঞ্জস্য করার জন্য, কেবল অন্ধভাবে কাজ করে যাওয়া নয়।",
-      "bn": "শুধুমাত্র ইনপুট (কাজ) এর ওপর ফোকাস করলে কার্যকারিতা বা এফেক্টিভনেস উপেক্ষিত হতে পারে। কেউ প্রতিদিন দৌড়াতে পারে (কাজ) কিন্তু ভুল ফর্মে দৌড়ালে আহত হতে পারে। লক্ষ্যগুলোর একটি ফিডব্যাক লুপ থাকা দরকার যেখানে ফলাফলগুলো পর্যায়ক্রমে পরীক্ষা করা হয় প্রক্রিয়াটি সামঞ্জস্য করার জন্য, কেবল অন্ধভাবে কাজ করে যাওয়া নয়।"
+      "en": "Focusing solely on input (action) can lead to ignoring effectiveness. You could work hard (action) but in the wrong direction. Goals need a feedback loop where results are checked periodically to adjust the process, rather than blind activity.",
+      "bn": "কেবল কাজের ওপর ফোকাস করলে অনেক সময় কাজের কার্যকারিতা উপেক্ষিত হতে পারে। আপনি হয়তো ভুল পথে কঠোর পরিশ্রম করছেন (কাজ)। তাই অন্ধভাবে কাজ না করে একটি ফিডব্যাক লুপ থাকা দরকার যেখানে ফলাফলগুলো নিয়মিত পরীক্ষা করে কাজের পদ্ধতিকে আরও উন্নত করা যায়।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "উচ্চ ধারাবাহিকতা এবং ব্যর্থতার উদ্বেগ হ্রাস।",
-        "bn": "উচ্চ ধারাবাহিকতা এবং ব্যর্থতার উদ্বেগ হ্রাস।"
+        "en": "High consistency, reduced performance anxiety, and sustainable growth.",
+        "bn": "উচ্চ ধারাবাহিকতা বজায় রাখা, কাজের উদ্বেগ হ্রাস এবং দীর্ঘস্থায়ী উন্নতি।"
       },
       "social": {
-        "en": "আরও সুশৃঙ্খল কর্মী বাহিনী।",
-        "bn": "আরও সুশৃঙ্খল কর্মী বাহিনী।"
+        "en": "A more disciplined and reliable community that values effort over empty results.",
+        "bn": "এমন এক সুশৃঙ্খল ও নির্ভরযোগ্য সমাজ গড়ে ওঠা যারা ফাঁকা ফলাফলের চেয়ে আন্তরিক প্রচেষ্টাকে বেশি মূল্য দেবে।"
       }
     }
   },
@@ -4934,92 +4804,92 @@ export const chapters: Chapter[] = [
     "id": 51,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Overcoming Envy",
-      "bn": "Overcoming Envy"
+      "bn": "ঈর্ষা জয় করা"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "I grow stronger and more triumphant... whenever I realize from your actions and writings how much you have projected yourself beyond yourself.",
-          "bn": "I grow stronger and more triumphant... whenever I realize from your actions and writings how much you have projected yourself beyond yourself."
+          "bn": "আপনার প্রতিটি কথা ও কাজে যখন দেখি আপনি নিজের সীমাবদ্ধতাকে ছাড়িয়ে যাওয়ার লড়াই করছেন, আমি আগের চেয়ে অনেক বেশি শক্তিশালী ও উদ্দীপ্ত বোধ করি।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Jealousy is a prevalent emotion that leads to negativity and unhappiness.",
-          "bn": "Jealousy is a prevalent emotion that leads to negativity and unhappiness."
+          "bn": "হিংসা এমন এক সাধারণ আবেগ যা মানুষকে অন্ধ করে ফেলে এবং শেষ পর্যন্ত তিল তিল করে অসুখী করে তোলে।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "ঈর্ষা বনাম অনুপ্রেরণা",
+          "en": "Envy vs. Inspiration",
           "bn": "ঈর্ষা বনাম অনুপ্রেরণা"
         },
         "content": {
-          "en": "অন্যের সাফল্য দেখে জ্বলে না গিয়ে সেখান থেকে শক্তি ও অনুপ্রেরণা নেওয়া উচিত।",
-          "bn": "অন্যের সাফল্য দেখে জ্বলে না গিয়ে সেখান থেকে শক্তি ও অনুপ্রেরণা নেওয়া উচিত।"
+          "en": "Don't let someone else's success burn you. Instead, use it as fuel and inspiration for your own growth.",
+          "bn": "অন্যের সাফল্য দেখে নিজের ভেতরে হীনম্মন্যতায় না ভুগে, সেখান থেকে বরং শক্তি ও সামনে এগিয়ে যাওয়ার অনুপ্রেরণা গ্রহণ করুন।"
         }
       },
       {
         "title": {
-          "en": "সহযোগিতার শক্তি",
+          "en": "The Power of Cooperation",
           "bn": "সহযোগিতার শক্তি"
         },
         "content": {
-          "en": "লেখকের বস \"আন্দ্রে\" সবাইকে সাহায্য করতেন এবং অন্যের সাফল্যে খুশি হতেন, যা তাকেও সফল করেছিল। অন্যদিকে \"স্যান্ডার\" হিংসুটে হওয়ায় ব্যর্থ হন।",
-          "bn": "লেখকের বস \"আন্দ্রে\" সবাইকে সাহায্য করতেন এবং অন্যের সাফল্যে খুশি হতেন, যা তাকেও সফল করেছিল। অন্যদিকে \"স্যান্ডার\" হিংসুটে হওয়ায় ব্যর্থ হন।"
+          "en": "Successful people like 'Andre' thrive by helping others grow, while those focused on pure envy like 'Sander' eventually fail because they see success as a zero-sum game.",
+          "bn": "প্রকৃত সফল ব্যক্তিরা অন্যের সাফল্যে ঈর্ষান্বিত না হয়ে বরং সবাইকে সাহায্য করেন, যা তাদের নিজের পথকেও মসৃণ করে। অন্যদিকে সংকীর্ণ মানসিকতাই মানুষের ব্যর্থতার মূল কারণ।"
         }
       },
       {
         "title": {
-          "en": "শূন্য মানসিকতা (Zero-sum) ত্যাগ",
-          "bn": "শূন্য মানসিকতা (Zero-sum) ত্যাগ"
+          "en": "Abandon Zero-Sum",
+          "bn": "শূন্য মানসিকতা ত্যাগ"
         },
         "content": {
-          "en": "অন্যের ভালো মানে আমার ক্ষতি নয়। সাফল্যের পিঠা অনেক বড়, সবাই ভাগ পেতে পারে।",
-          "bn": "অন্যের ভালো মানে আমার ক্ষতি নয়। সাফল্যের পিঠা অনেক বড়, সবাই ভাগ পেতে পারে।"
+          "en": "Another's gain is not your loss. The pie of success is infinite; there is plenty for everyone who works for it.",
+          "bn": "অন্যের ভালো মানেই আপনার ক্ষতি নয়। সাফল্যের আকাশে সবার জন্যই জায়গা আছে; আপনাকে কেবল নিজের পাখা মেলার সাহস করতে হবে।"
         }
       },
       {
         "title": {
-          "en": "চিয়ারলিডার হওয়া",
-          "bn": "চিয়ারলিডার হওয়া"
+          "en": "Be a Cheerleader",
+          "bn": "অন্যের জয়ে হাততালি দেওয়া"
         },
         "content": {
-          "en": "অন্যের জয়ে হাততালি দিলে নিজের মানসিকতা বড় হয়।",
-          "bn": "অন্যের জয়ে হাততালি দিলে নিজের মানসিকতা বড় হয়।"
+          "en": "Cheering for someone else's win expands your own mindset and invites positive energy into your life.",
+          "bn": "অন্যের বিজয়ে মন থেকে হাততালি দিলে নিজের মানসিকতা বড় হয় এবং জীবনে ইতিবাচক পরিবর্তনের পথ খুলে যায়।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আজ সোশ্যাল মিডিয়ায় বা বাস্তবে পরিচিত কারো সাফল্যে (প্রমোশন, নতুন বাড়ি) মন থেকে অভিনন্দন জানান। হিংসা লাগলেও জোর করে ভালো কথা বলুন। এটি আপনার মস্তিষ্ককে \"Scarcity Mindset\" থেকে \"Abundance Mindset\"-এ শিফট করবে।",
-      "bn": "আজ সোশ্যাল মিডিয়ায় বা বাস্তবে পরিচিত কারো সাফল্যে (প্রমোশন, নতুন বাড়ি) মন থেকে অভিনন্দন জানান। হিংসা লাগলেও জোর করে ভালো কথা বলুন। এটি আপনার মস্তিষ্ককে \"Scarcity Mindset\" থেকে \"Abundance Mindset\"-এ শিফট করবে।"
+      "en": "Congratulate someone today for their success (a promotion, a new house, or an achievement). Even if you feel a sting of envy, force yourself to say something kind. This shifts your brain from a 'Scarcity' to an 'Abundance' mindset.",
+      "bn": "আজ পরিচিত কারো সাফল্যে (প্রমোশন, নতুন অর্জন বা বড় কোনো সংবাদে) মন থেকে অভিনন্দন জানান। যদি খানিকটা ঈর্ষা অনুভবও করেন, তবুও জোর করে ইতিবাচক কথা বলুন। এটি আপনার মস্তিষ্ককে 'অভাবের হাহাকার' থেকে সরিয়ে 'প্রাচুর্যের প্রশান্তি'তে নিয়ে যাবে।"
     },
     "criticalReflection": {
-      "en": "অন্যদের উদযাপন করা একটি পুণ্যের কাজ হলেও, পদ্ধতিগত বৈষম্যের কারণে কেউ কেউ সুবিধা/দুর্নীতির কারণে সফল হয় যখন অন্যরা সংগ্রাম করে। কীভাবে অর্জিত হয়েছে তা প্রশ্ন না করে অন্ধভাবে সব সাফল্য উদযাপন করা অন্যায্যতাকে স্বাভাবিক করতে পারে। তবে, ব্যক্তিগত স্তরে, ঈর্ষা সর্বদা বিষাক্ত।",
-      "bn": "অন্যদের উদযাপন করা একটি পুণ্যের কাজ হলেও, পদ্ধতিগত বৈষম্যের কারণে কেউ কেউ সুবিধা/দুর্নীতির কারণে সফল হয় যখন অন্যরা সংগ্রাম করে। কীভাবে অর্জিত হয়েছে তা প্রশ্ন না করে অন্ধভাবে সব সাফল্য উদযাপন করা অন্যায্যতাকে স্বাভাবিক করতে পারে। তবে, ব্যক্তিগত স্তরে, ঈর্ষা সর্বদা বিষাক্ত।"
+      "en": "While celebrating others is noble, we must differentiate between earned success and ill-gotten gains. Blindly celebrating success that comes from corruption or exploitation can normalize injustice. However, on a personal level, envy remains toxic regardless of the source.",
+      "bn": "অন্যদের উদযাপন করা মহৎ কাজ হলেও, আপনাকে সৎ পরিশ্রম এবং অসৎ উপায়ে পাওয়া সাফল্যের মধ্যে পার্থক্য বুঝতে হবে। দুর্নীতির মাধ্যমে অর্জিত সাফল্যকে অন্ধভাবে উদযাপন করা অন্যায্যতাকে প্রশ্রয় দিতে পারে। তবে ঈর্ষা সবসময়ই নিজের মানসিক স্বাস্থ্যের জন্য ক্ষতিকর।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "উন্নত মানসিক স্বাস্থ্য এবং শক্তিশালী নেটওয়ার্ক।",
-        "bn": "উন্নত মানসিক স্বাস্থ্য এবং শক্তিশালী নেটওয়ার্ক।"
+        "en": "Improved mental health and a stronger, more authentic social network.",
+        "bn": "উন্নত মানসিক শান্তি এবং শক্তিশালী ও অকৃত্রিম সামাজিক সম্পর্ক।"
       },
       "social": {
-        "en": "সহযোগিতামূলক সম্প্রদায় এবং কর্মক্ষেত্রের বিষাক্ততা হ্রাস।",
-        "bn": "সহযোগিতামূলক সম্প্রদায় এবং কর্মক্ষেত্রের বিষাক্ততা হ্রাস।"
+        "en": "A more collaborative community and reduced workplace toxicity.",
+        "bn": "পারস্পরিক সহযোগিতার ভিত্তিতে গড়ে ওঠা একটি বিষহীন ও সুন্দর সমাজ।"
       }
     }
   },
@@ -5027,122 +4897,72 @@ export const chapters: Chapter[] = [
     "id": 52,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
-      "en": "The Wise Use of Resources (Intro)",
-      "bn": "The Wise Use of Resources (Intro)"
+      "en": "The Wise Use of Resources",
+      "bn": "সম্পদের বিচক্ষণ ব্যবহার"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Wise people are in want of nothing, and yet need many things. On the other hand, nothing is needed by fools... but are in want of everything.",
-          "bn": "Wise people are in want of nothing, and yet need many things. On the other hand, nothing is needed by fools... but are in want of everything."
+          "bn": "প্রজ্ঞাবানদের কোনো কিছুর অভাব নেই, তবুও তাদের অনেক কিছুর প্রয়োজন হতে পারে। অন্যদিকে, বোকাদের কিছুই প্রয়োজন নেই, তবুও তারা চিরকাল অভাবী থেকে যায়।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "জ্ঞানী বনাম বোকা",
-          "bn": "জ্ঞানী বনাম বোকা"
+          "en": "Wise vs. Foolish",
+          "bn": "জ্ঞানী বনাম নির্বোধ"
         },
         "content": {
-          "en": "জ্ঞানীরা জানে কীভাবে সম্পদ ব্যবহার করতে হয়, তাই তাদের অভাব নেই। বোকারা সম্পদের ব্যবহার জানে না, তাই তারা সবসময় অভাব অনুভব করে।",
-          "bn": "জ্ঞানীরা জানে কীভাবে সম্পদ ব্যবহার করতে হয়, তাই তাদের অভাব নেই। বোকারা সম্পদের ব্যবহার জানে না, তাই তারা সবসময় অভাব অনুভব করে।"
+          "en": "The wise know how to use wealth as a tool, meaning they are never truly lacking. The foolish don't understand how to use resources, so they remain in a constant state of perceived deficit.",
+          "bn": "জ্ঞানীরা জানেন সম্পদকে কীভাবে একটি হাতিয়ার হিসেবে ব্যবহার করতে হয়, তাই তাদের কখনো অভাব থাকে না। অন্যদিকে নির্বোধরা সম্পদের সঠিক ব্যবহার বোঝেন না বলে সবসময়ই এক অজানা দৈন্যতায় ভোগেন।"
         }
       },
       {
         "title": {
-          "en": "প্রয়োজন বনাম অভাব",
+          "en": "Need vs. Want",
           "bn": "প্রয়োজন বনাম অভাব"
         },
         "content": {
-          "en": "অভাব একটি মানসিক অবস্থা।",
-          "bn": "অভাব একটি মানসিক অবস্থা।"
+          "en": "Lacking is a state of mind, while needing is a physical reality. Stoicism teaches us to reduce our 'wants' to find true freedom.",
+          "bn": "অভাববোধ মূলত মনের একটি কাঙাল দশা, অন্যদিকে প্রয়োজন হলো একটি বাস্তব উপস্থিতি। স্টয়িক দর্শন আমাদের শেখায় কামনা কমালেই মুক্তি সহজ হয়।"
         }
       },
       {
         "title": {
-          "en": "Chapter 53",
-          "bn": "Chapter 53"
+          "en": "Detachment from Possession",
+          "bn": "প্রাপ্তিতে অনীহা"
         },
         "content": {
-          "en": "Letter 43: On Getting Rich",
-          "bn": "Letter 43: On Getting Rich"
-        }
-      },
-      {
-        "title": {
-          "en": "1. Chapter Title",
-          "bn": "1. Chapter Title"
-        },
-        "content": {
-          "en": "Wealth Without Corruption",
-          "bn": "Wealth Without Corruption"
-        }
-      },
-      {
-        "title": {
-          "en": "সৎ উপার্জন",
-          "bn": "সৎ উপার্জন"
-        },
-        "content": {
-          "en": "স্টয়িকরা ধনী হওয়ার বিরোধী নন, তবে তা হতে হবে সততা বজায় রেখে।",
-          "bn": "স্টয়িকরা ধনী হওয়ার বিরোধী নন, তবে তা হতে হবে সততা বজায় রেখে।"
-        }
-      },
-      {
-        "title": {
-          "en": "টাকা একটি টুল",
-          "bn": "টাকা একটি টুল"
-        },
-        "content": {
-          "en": "টাকা জীবনের লক্ষ্য নয়, এটি জীবনকে সহজ করার একটি হাতিয়ার মাত্র।",
-          "bn": "টাকা জীবনের লক্ষ্য নয়, এটি জীবনকে সহজ করার একটি হাতিয়ার মাত্র।"
-        }
-      },
-      {
-        "title": {
-          "en": "আত্মমর্যাদা",
-          "bn": "আত্মমর্যাদা"
-        },
-        "content": {
-          "en": "নিজের মূল্য ব্যাংকের ব্যালেন্স দিয়ে বিচার করা উচিত নয়।",
-          "bn": "নিজের মূল্য ব্যাংকের ব্যালেন্স দিয়ে বিচার করা উচিত নয়।"
-        }
-      },
-      {
-        "title": {
-          "en": "পারিবারিক শিক্ষা",
-          "bn": "পারিবারিক শিক্ষা"
-        },
-        "content": {
-          "en": "লেখক তার মায়ের উদাহরণ দিয়েছেন যিনি টাকার জন্য দুশ্চিন্তা না করে জীবন উপভোগ করতেন, যা তাকে সুখী রেখেছিল।",
-          "bn": "লেখক তার মায়ের উদাহরণ দিয়েছেন যিনি টাকার জন্য দুশ্চিন্তা না করে জীবন উপভোগ করতেন, যা তাকে সুখী রেখেছিল।"
+          "en": "Own your possessions, but don't let them own you. Use resources to enhance life, not to define your worth.",
+          "bn": "জিনিসপত্র ব্যবহার করুন, কিন্তু সেগুলোর অধীন হবেন না। সম্পদ যেন আপনার জীবনের সঙ্গী হয়, কিন্তু আপনার সত্তার পরিচয় না হয়।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "",
-      "bn": ""
+      "en": "Audit your possessions today. Identify three things you 'need' and three things you only 'want' because of social pressure. Practice being grateful for what you have without seeking more.",
+      "bn": "আজ আপনার ব্যবহারের জিনিসগুলো যাচাই করুন। এমন তিনটি জিনিস খুঁজে বের করুন যা আপনার সত্যিই প্রয়োজন এবং অন্য তিনটি যা কেবল লোকদেখানোর জন্য আপনার ভেতরে অভাববোধ তৈরি করছে। যা আছে তা নিয়েই তুষ্ট থাকার অভ্যাস করুন।"
     },
     "criticalReflection": {
-      "en": "",
-      "bn": ""
+      "en": "The distinction between 'want' and 'need' is highly subjective. In a modern consumerist society, many 'wants' have been transformed into pseudo-needs through social engineering. Stoic minimalism requires a high degree of self-awareness to counteract this constant pressure.",
+      "bn": "প্রয়োজন আর চাওয়ার মধ্যে পার্থক্য করাটা বেশ কঠিন। বর্তমান ভোগবাদী সমাজে আমাদের ওপর এমনভাবে প্রভাব ফেলা হয় যে অনেক অপ্রয়োজনীয় চাওয়াই আমাদের কাছে প্রয়োজন বলে মনে হয়। এটি কাটিয়ে উঠতে গভীর আত্মোপলব্ধি প্রয়োজন।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "",
-        "bn": ""
+        "en": "Greater financial clarity and emotional stability regarding wealth.",
+        "bn": "আর্থিক স্বচ্ছতা এবং সম্পদের প্রতি এক ধরনের নিরুদ্বেগ মানসিক স্থিরতা।"
       },
       "social": {
-        "en": "",
-        "bn": ""
+        "en": "Reduction in impulsive consumption and social comparison.",
+        "bn": "আবেগতাড়িত কেনাকাটা এবং সামাজিক প্রতিযোগিতার দৌড় হ্রাস।"
       }
     }
   },
@@ -5150,102 +4970,102 @@ export const chapters: Chapter[] = [
     "id": 53,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Wealth Without Corruption",
-      "bn": "Wealth Without Corruption"
+      "bn": "কলঙ্কহীন সম্পদ"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "If you can make money remaining honest, trustworthy, and dignified, by all means; do it.",
-          "bn": "If you can make money remaining honest, trustworthy, and dignified, by all means; do it."
+          "bn": "যদি আপনি আপনার সততা, বিশ্বাসযোগ্যতা এবং আত্মমর্যাদা বজায় রেখে অর্থ উপার্জন করতে পারেন, তবে অবশ্যই তা করুন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Life’s too short to let money dictate our lives to an extreme.",
-          "bn": "Life’s too short to let money dictate our lives to an extreme."
+          "bn": "জীবন এতটাই ছোট যে কেবল টাকার পিছনে অন্ধভাবে ছুটে একে বিষময় করে তোলার কোনো মানে হয় না।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Values and character hold greater significance than wealth.",
-          "bn": "Values and character hold greater significance than wealth."
+          "bn": "আপনার আদর্শ এবং ব্যক্তিত্ব আপনার অর্জিত সম্পদের চেয়ে অনেক বেশি মূল্যবান।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "সৎ উপার্জন",
+          "en": "Honorable Income",
           "bn": "সৎ উপার্জন"
         },
         "content": {
-          "en": "স্টয়িকরা ধনী হওয়ার বিরোধী নন, তবে তা হতে হবে সততা বজায় রেখে।",
-          "bn": "স্টয়িকরা ধনী হওয়ার বিরোধী নন, তবে তা হতে হবে সততা বজায় রেখে।"
+          "en": "Stoics aren't against being rich, but they insist that wealth must be acquired without compromising one's soul.",
+          "bn": "স্টয়িকরা ধনী হওয়ার বিরোধী নন, তবে তাদের প্রধান শর্ত হলো সেই সম্পদ হতে হবে কলঙ্কহীন ও মর্যাদা বজায় রেখে অর্জিত।"
         }
       },
       {
         "title": {
-          "en": "টাকা একটি টুল",
-          "bn": "টাকা একটি টুল"
+          "en": "Money as a Tool",
+          "bn": "টাকা একটি হাতিয়ার"
         },
         "content": {
-          "en": "টাকা জীবনের লক্ষ্য নয়, এটি জীবনকে সহজ করার একটি হাতিয়ার মাত্র।",
-          "bn": "টাকা জীবনের লক্ষ্য নয়, এটি জীবনকে সহজ করার একটি হাতিয়ার মাত্র।"
+          "en": "Money is not the goal of life; it is simply a tool to facilitate a virtuous life and help others.",
+          "bn": "টাকা জীবনের পরম লক্ষ্য নয়, এটি একটি মাধ্যম মাত্র যা আপনার জীবনযাত্রাকে সহজ করতে এবং অন্যের উপকারে সাহায্য করতে পারে।"
         }
       },
       {
         "title": {
-          "en": "আত্মমর্যাদা",
-          "bn": "আত্মমর্যাদা"
+          "en": "Dignity Over Balance",
+          "bn": "ব্যালেন্সের চেয়েও দামী মর্যাদা"
         },
         "content": {
-          "en": "নিজের মূল্য ব্যাংকের ব্যালেন্স দিয়ে বিচার করা উচিত নয়।",
-          "bn": "নিজের মূল্য ব্যাংকের ব্যালেন্স দিয়ে বিচার করা উচিত নয়।"
+          "en": "Never judge your worth by your bank balance. A high character is much more valuable than a high net worth.",
+          "bn": "নিজের যোগ্যতাকে ব্যাংকের ব্যালেন্স দিয়ে বিচার করবেন না। উন্নত চরিত্র আপনার সম্পদের চেয়ে আপনাকে বড় পরিচয় দেবে।"
         }
       },
       {
         "title": {
-          "en": "পারিবারিক শিক্ষা",
-          "bn": "পারিবারিক শিক্ষা"
+          "en": "The Lesson of Contentment",
+          "bn": "তুষ্টির শিক্ষা"
         },
         "content": {
-          "en": "লেখক তার মায়ের উদাহরণ দিয়েছেন যিনি টাকার জন্য দুশ্চিন্তা না করে জীবন উপভোগ করতেন, যা তাকে সুখী রেখেছিল।",
-          "bn": "লেখক তার মায়ের উদাহরণ দিয়েছেন যিনি টাকার জন্য দুশ্চিন্তা না করে জীবন উপভোগ করতেন, যা তাকে সুখী রেখেছিল।"
+          "en": "The author shares the example of his mother, who lived happily by not letting financial worries overshadow the joy of living.",
+          "bn": "লেখক তার মায়ের উদাহরণ দিয়েছেন, যিনি টাকার দুশ্চিন্তাকে সরিয়ে রেখে জীবনকে পরিপূর্ণভাবে উপভোগ করতে জানতেন।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "টাকা উপার্জনের নতুন উপায় খুঁজুন, কিন্তু শর্ত হলো তা হতে হবে ১০০% সৎ পথে। যদি কোনো সুযোগ আসে যেখানে সামান্য অনৈতিকতা দরকার, তা প্রত্যাখ্যান করুন। নিজেকে বলুন, \"আমার চরিত্র আমার টাকার চেয়ে দামী।\"",
-      "bn": "টাকা উপার্জনের নতুন উপায় খুঁজুন, কিন্তু শর্ত হলো তা হতে হবে ১০০% সৎ পথে। যদি কোনো সুযোগ আসে যেখানে সামান্য অনৈতিকতা দরকার, তা প্রত্যাখ্যান করুন। নিজেকে বলুন, \"আমার চরিত্র আমার টাকার চেয়ে দামী।\""
+      "en": "Seek ways to increase your income, but only through 100% honest means. If an opportunity requires even a small ethical compromise, reject it. Tell yourself, 'My character is more expensive than my bank balance.'",
+      "bn": "উপার্জন বাড়ানোর চেষ্টা করুন, তবে তা হতে হবে শতভাগ স্বচ্ছ ও সৎ পথে। যদি কোনো সুযোগে সামান্য অনৈতিকতার আশঙ্কা থাকে, তবে তা ফিরিয়ে দিন। নিজেকে বলুন, 'আমার ব্যাংকের ব্যালেন্সের চেয়ে আমার ব্যক্তিত্বের দাম অনেক বেশি।'"
     },
     "criticalReflection": {
-      "en": "\"সততা বজায় রেখে... টাকা উপার্জনের\" পরামর্শটি আদর্শবাদী। অনেক দুর্নীতিগ্রস্ত অর্থনীতিতে, সৎভাবে সম্পদ আহরণ কাঠামোগতভাবে অসম্ভব বা অত্যন্ত ধীর। এই উপদেশটি একটি ন্যায্য বাজার ব্যবস্থা ধারণা করে যা সর্বত্র বিদ্যমান নয়।",
-      "bn": "\"সততা বজায় রেখে... টাকা উপার্জনের\" পরামর্শটি আদর্শবাদী। অনেক দুর্নীতিগ্রস্ত অর্থনীতিতে, সৎভাবে সম্পদ আহরণ কাঠামোগতভাবে অসম্ভব বা অত্যন্ত ধীর। এই উপদেশটি একটি ন্যায্য বাজার ব্যবস্থা ধারণা করে যা সর্বত্র বিদ্যমান নয়।"
+      "en": "The advice to 'remain honest while getting rich' is highly idealistic. In some corrupt systems, wealth accumulation is structurally impossible without compromise. This teaching assumes a fair market that doesn't exist everywhere.",
+      "bn": "সততা বজায় রেখে ধনী হওয়ার উপদেশটি বেশ বড় মাপের আদর্শবাদ। অনেক দুর্নীতিগ্রস্ত ব্যবস্থায় সৎভাবে সম্পদ অর্জন করা অত্যন্ত কঠিন। স্টয়িক দর্শন এখানে একটি আদর্শ ও ন্যায়নিষ্ঠ বাজারের কথা কল্পনা করে যা সবখানে বাস্তব নয়।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "অপরাধবোধহীন সম্পদ এবং মানসিক শান্তি।",
-        "bn": "অপরাধবোধহীন সম্পদ এবং মানসিক শান্তি।"
+        "en": "Guilt-free wealth and profound mental peace.",
+        "bn": "গ্লানিহীন স্বচ্ছ সম্পদ এবং দীর্ঘস্থায়ী মানসিক প্রশান্তি।"
       },
       "social": {
-        "en": "দুর্নীতি হ্রাস এবং নৈতিক ব্যবসায়িক অনুশীলন।",
-        "bn": "দুর্নীতি হ্রাস এবং নৈতিক ব্যবসায়িক অনুশীলন।"
+        "en": "Reduction in corruption and establishment of ethical business practices.",
+        "bn": "দুর্নীতি হ্রাস এবং সমাজে নৈতিক ব্যবসায়িক সংস্কৃতির উন্মেষ।"
       }
     }
   },
@@ -5253,92 +5073,92 @@ export const chapters: Chapter[] = [
     "id": 54,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Reputation vs. Revenue",
-      "bn": "Reputation vs. Revenue"
+      "bn": "সুনাম বনাম মুনাফা"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "It takes 20 years to build a reputation and five minutes to ruin it.",
-          "bn": "It takes 20 years to build a reputation and five minutes to ruin it."
+          "bn": "একটি সুনাম তৈরি করতে বিশ বছর সময় লাগে, কিন্তু তা ধ্বংস করে ফেলতে মাত্র পাঁচ মিনিটই যথেষ্ট।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "A good friend would rather you didn’t compromise your integrity than wish you gave him money.",
-          "bn": "A good friend would rather you didn’t compromise your integrity than wish you gave him money."
+          "bn": "একজন প্রকৃত বন্ধু কখনো চাইবেন না যে আপনি আপনার আদর্শ বিসর্জন দিয়ে তাকে অর্থসাহায্য করুন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "সুনামের ভঙ্গুরতা",
+          "en": "Fragility of Reputation",
           "bn": "সুনামের ভঙ্গুরতা"
         },
         "content": {
-          "en": "টাকা হারানো গেলে তা আবার কামানো যায়, কিন্তু একবার চরিত্র বা সুনাম নষ্ট হলে তা ফিরে পাওয়া অসম্ভব।",
-          "bn": "টাকা হারানো গেলে তা আবার কামানো যায়, কিন্তু একবার চরিত্র বা সুনাম নষ্ট হলে তা ফিরে পাওয়া অসম্ভব।"
+          "en": "Money can be earned back, but a ruined reputation or character is almost impossible to restore. Guard your integrity like it's your only asset.",
+          "bn": "হারানো টাকা আবার ফিরে পাওয়া সম্ভব, কিন্তু একবার চরিত্র বা সুনাম নষ্ট হলে সেটি ফিরে পাওয়া অসম্ভব। নিজের সততাকে রক্ষার সর্বোচ্চ চেষ্টা করুন।"
         }
       },
       {
         "title": {
-          "en": "সততার মূল্য",
+          "en": "Cost of Integrity",
           "bn": "সততার মূল্য"
         },
         "content": {
-          "en": "অসৎ পথে অর্জিত সম্পদ মানসিক শান্তি কেড়ে নেয়। প্রকৃত বন্ধুরা আপনার টাকার চেয়ে আপনার সততাকেই বেশি মূল্য দেয়।",
-          "bn": "অসৎ পথে অর্জিত সম্পদ মানসিক শান্তি কেড়ে নেয়। প্রকৃত বন্ধুরা আপনার টাকার চেয়ে আপনার সততাকেই বেশি মূল্য দেয়।"
+          "en": "Wealth gained through dishonest means strips away mental peace. True friends value your character more than your pocket.",
+          "bn": "অসৎপথে কামানো টাকা শেষমেশ মানসিক শান্তি কেড়ে নেয়। প্রকৃত বন্ধুরা আপনার পকেটের চেয়ে আপনার ব্যক্তিত্বকে বেশি গুরুত্ব দেয়।"
         }
       },
       {
         "title": {
-          "en": "অন্ধ দৌড়",
+          "en": "The Blind Race",
           "bn": "অন্ধ দৌড়"
         },
         "content": {
-          "en": "অর্থের পেছনে অন্ধের মতো ছুটলে আমরা নিজের সত্তা হারিয়ে ফেলি। এটি আমাদের সমাজ ও পরিবার থেকে বিচ্ছিন্ন করে দেয়।",
-          "bn": "অর্থের পেছনে অন্ধের মতো ছুটলে আমরা নিজের সত্তা হারিয়ে ফেলি। এটি আমাদের সমাজ ও পরিবার থেকে বিচ্ছিন্ন করে দেয়।"
+          "en": "Chasing money blindly makes us lose ourselves, isolating us from family, values, and community.",
+          "bn": "টাকার পেছনে অন্ধের মতো ছুটলে আমরা নিজের অস্তিত্ব হারিয়ে ফেলি এবং একটা পর্যায়ে নিজেকে বড় একা অনুভব করি।"
         }
       },
       {
         "title": {
-          "en": "সামাজিক উপযোগিতা",
+          "en": "Social Utility",
           "bn": "সামাজিক উপযোগিতা"
         },
         "content": {
-          "en": "কেবল নিজের পকেটের জন্য নয়, সমাজের জন্য ভ্যালু তৈরি করাই প্রকৃত সাফল্যের মাপকাঠি।",
-          "bn": "কেবল নিজের পকেটের জন্য নয়, সমাজের জন্য ভ্যালু তৈরি করাই প্রকৃত সাফল্যের মাপকাঠি।"
+          "en": "True success is measured by the value you create for society, not just the profit you keep for yourself.",
+          "bn": "সাফল্যের প্রকৃত মাপকাঠি হলো আপনি সমাজকে কতটুকু দিলেন, কেবল আপনি নিজে কতটুকু নিলেন তা নয়।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "কোনো আর্থিক সুযোগ পেলে নিজেকে প্রশ্ন করুন: \"এই কাজটি করলে কি আমি রাতে শান্তিতে ঘুমাতে পারব?\" যদি উত্তর 'না' হয়, তবে যত টাকাই হোক না কেন, তা প্রত্যাখ্যান করুন। আপনার চরিত্রই আপনার সবচেয়ে বড় সম্পদ।",
-      "bn": "কোনো আর্থিক সুযোগ পেলে নিজেকে প্রশ্ন করুন: \"এই কাজটি করলে কি আমি রাতে শান্তিতে ঘুমাতে পারব?\" যদি উত্তর 'না' হয়, তবে যত টাকাই হোক না কেন, তা প্রত্যাখ্যান করুন। আপনার চরিত্রই আপনার সবচেয়ে বড় সম্পদ।"
+      "en": "When faced with a financial opportunity, ask yourself: 'Will I be able to sleep peacefully tonight if I do this?' if the answer is 'No,' walk away regardless of the price. Your character is your ultimate capital.",
+      "bn": "কোনো আর্থিক প্রস্তাব এলে নিজেকে জিজ্ঞাসা করুন—'এটি করলে কি আমি রাতে শান্তিতে ঘুমাতে পারব?' যদি উত্তর 'না' হয়, তবে টাকার অংক যত বড়ই হোক তা ফিরিয়ে দিন। আপনার নির্মল চরিত্রই আপনার শ্রেষ্ঠ সম্পদ।"
     },
     "criticalReflection": {
-      "en": "সততা বজায় রাখা অত্যন্ত গুরুত্বপূর্ণ, তবে \"সুনাম\" এবং \"রাজস্ব\"-এর মধ্যে কঠিন পছন্দটি বেঁচে থাকার পরিস্থিতিতে একটি মিথ্যা দ্বিধাদ্বন্দ্ব বা False Dichotomy হতে পারে। পদ্ধতিগত দুর্নীতি অনেক সময় মানুষকে বেঁচে থাকার জন্য নৈতিক ধুসর অঞ্চলে ঠেলে দেয়। এই উপদেশটি এমন একটি অর্থনৈতিক সুবিধাপ্রাপ্ত অবস্থার কথা বলে যেখানে কেউ আপোসকৃত আয়কে 'না' বলার সামর্থ্য রাখে।",
-      "bn": "সততা বজায় রাখা অত্যন্ত গুরুত্বপূর্ণ, তবে \"সুনাম\" এবং \"রাজস্ব\"-এর মধ্যে কঠিন পছন্দটি বেঁচে থাকার পরিস্থিতিতে একটি মিথ্যা দ্বিধাদ্বন্দ্ব বা False Dichotomy হতে পারে। পদ্ধতিগত দুর্নীতি অনেক সময় মানুষকে বেঁচে থাকার জন্য নৈতিক ধুসর অঞ্চলে ঠেলে দেয়। এই উপদেশটি এমন একটি অর্থনৈতিক সুবিধাপ্রাপ্ত অবস্থার কথা বলে যেখানে কেউ আপোসকৃত আয়কে 'না' বলার সামর্থ্য রাখে।"
+      "en": "Integrity is vital, but the choice between 'reputation' and 'revenue' can be a false dichotomy in survival situations. Systemic corruption often pushes people into moral gray areas just to exist. This advice addresses those in a position to say 'no'.",
+      "bn": "সততা বজায় রাখা অত্যন্ত জরুরি, কিন্তু যখন টিকে থাকাই প্রশ্ন হয়ে দাঁড়ায় তখন এই সিদ্ধান্ত নেওয়া বেশ কঠিন হয়ে পড়তে পারে। অনেক সময় সমাজ মানুষকে বেঁচে থাকার তাগিদেই ভুল পথে ঠেলে দেয়। যারা স্বচ্ছল অবস্থায় আছেন তাদের জন্য 'না' বলা যতটা সহজ, অন্যদের জন্য ততটা নাও হতে পারে।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "পরিষ্কার বিবেক এবং দীর্ঘমেয়াদী আস্থার পুঁজি।",
-        "bn": "পরিষ্কার বিবেক এবং দীর্ঘমেয়াদী আস্থার পুঁজি।"
+        "en": "Clear conscience and long-term trust capital.",
+        "bn": "পরিচ্ছন্ন বিবেক এবং দীর্ঘমেয়াদী আস্থার পুঁজি অর্জন।"
       },
       "social": {
-        "en": "প্রতারণা এবং অনৈতিক ব্যবসায়িক অনুশীলন হ্রাস।",
-        "bn": "প্রতারণা এবং অনৈতিক ব্যবসায়িক অনুশীলন হ্রাস।"
+        "en": "Reduction in fraud and unethical business practices.",
+        "bn": "প্রতারণা ও অনৈতিক ব্যবসায়িক কার্যাদি হ্রাস পাওয়া।"
       }
     }
   },
@@ -5346,92 +5166,92 @@ export const chapters: Chapter[] = [
     "id": 55,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "The Myth of Exceptionalism",
-      "bn": "The Myth of Exceptionalism"
+      "bn": "স্বাতন্ত্র্যের মোহ"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "A life of excess only leads to more excess.",
-          "bn": "A life of excess only leads to more excess."
+          "bn": "অতিরিক্তের জীবন কেবল আরও বেশি আকাঙ্ক্ষাকেই উসকে দেয়।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Moderation is useful and life-enhancing, whereas excess harms by its abundance.",
-          "bn": "Moderation is useful and life-enhancing, whereas excess harms by its abundance."
+          "bn": "পরিমিতিবোধ জীবনকে সুন্দর করে, অন্যদিকে আতিশয্য প্রাচুর্যের ভারে জীবনকে ক্ষতবিক্ষত করে দেয়।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "সাধারণ জীবনের সৌন্দর্য",
+          "en": "Beauty of Ordinary Life",
           "bn": "সাধারণ জীবনের সৌন্দর্য"
         },
         "content": {
-          "en": "সুস্থ শরীর, পাগলামিহীন পরিবার এবং কিছু ভালো বন্ধু—এগুলোই আশীর্বাদ। এর চেয়ে বেশি কিছু চাওয়ার নামই লোভ।",
-          "bn": "সুস্থ শরীর, পাগলামিহীন পরিবার এবং কিছু ভালো বন্ধু—এগুলোই আশীর্বাদ। এর চেয়ে বেশি কিছু চাওয়ার নামই লোভ।"
+          "en": "A healthy body, a sane family, and a few good friends—these are the real blessings. Craving more is simply greed in disguise.",
+          "bn": "একটি সুস্থ শরীর, একটি সুন্দর পরিবার এবং কতিপয় ভালো বন্ধু—এটুকুই জীবনের আসল সম্পদ। এর চেয়ে বেশি কিছু হন্যে হয়ে পাওয়ার নামই হলো লোভ।"
         }
       },
       {
         "title": {
-          "en": "অতিরিক্তের বিপদ",
+          "en": "The Peril of Excess",
           "bn": "অতিরিক্তের বিপদ"
         },
         "content": {
-          "en": "সাফল্য, খ্যাতি বা সম্পদের আতিশয্য মানুষকে সুখের বদলে আরও বেশি অশান্তির দিকে ঠেলে দেয়।",
-          "bn": "সাফল্য, খ্যাতি বা সম্পদের আতিশয্য মানুষকে সুখের বদলে আরও বেশি অশান্তির দিকে ঠেলে দেয়।"
+          "en": "An excess of success, fame, or wealth leads to more unrest rather than peace. Contentment is found in the middle path.",
+          "bn": "সাফল্য, খ্যাতি বা সম্পদের আতিশয্য মানুষকে সুখের বদলে অশান্তির মাঝেই বেশি ডুবিয়ে রাখে।"
         }
       },
       {
         "title": {
-          "en": "চরিত্র বনাম খ্যাতি",
+          "en": "Character vs. Fame",
           "bn": "চরিত্র বনাম খ্যাতি"
         },
         "content": {
-          "en": "জে-জেড (Jay-Z) এবং ইয়াংবয় এনবিএ (Youngboy NBA)-এর তুলনা দিয়ে লেখক দেখিয়েছেন, অল্প বয়সে খ্যাতির চেয়ে ধীরে অর্জিত চরিত্র বেশি টেকসই।",
-          "bn": "জে-জেড (Jay-Z) এবং ইয়াংবয় এনবিএ (Youngboy NBA)-এর তুলনা দিয়ে লেখক দেখিয়েছেন, অল্প বয়সে খ্যাতির চেয়ে ধীরে অর্জিত চরিত্র বেশি টেকসই।"
+          "en": "Using the comparison of Jay-Z and Youngboy NBA, the author shows that character built slowly is more sustainable than fame acquired quickly.",
+          "bn": "লেখক বিখ্যাত শিল্পী জে-জেড এবং ইয়াংবয় এনবিএ-এর তুলনা করে দেখিয়েছেন যে, ধীরে অর্জিত ব্যক্তিত্বের মর্যাদা রাতারাতি পাওয়া খ্যাতির চেয়ে অনেক বেশি টেকসই।"
         }
       },
       {
         "title": {
-          "en": "নিজেকে মেনে নেওয়া",
-          "bn": "নিজেকে মেনে নেওয়া"
+          "en": "Accepting Oneself",
+          "bn": "নিজেকে গ্রহণ করা"
         },
         "content": {
-          "en": "সাফল্যের পেছনে দৌড়ে নিজের স্বকীয়তা হারানোর চেয়ে, একজন নির্ভরযোগ্য ও সাধারণ মানুষ হওয়া অনেক বেশি সম্মানের।",
-          "bn": "সাফল্যের পেছনে দৌড়ে নিজের স্বকীয়তা হারানোর চেয়ে, একজন নির্ভরযোগ্য ও সাধারণ মানুষ হওয়া অনেক বেশি সম্মানের।"
+          "en": "Being a reliable, ordinary person is far more honorable than losing your identity in the pursuit of exceptionalism.",
+          "bn": "বিরাট কিছু হওয়ার নেশায় নিজেকে হারিয়ে ফেলার চেয়ে একজন ভরসাযোগ্য ও সাধারণ মানুষ হওয়া অনেক বেশি সম্মানের।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আজ রাতে ঘুমানোর আগে আপনার জীবনের ৩টি \"সাধারণ\" জিনিসের জন্য কৃতজ্ঞতা প্রকাশ করুন (যেমন: নিজের বিছানা, এক গ্লাস পরিষ্কার পানি, বা মায়ের ফোন কল)। নিজেকে বলুন, \"আমার জীবন যথেষ্ট সুন্দর।\"",
-      "bn": "আজ রাতে ঘুমানোর আগে আপনার জীবনের ৩টি \"সাধারণ\" জিনিসের জন্য কৃতজ্ঞতা প্রকাশ করুন (যেমন: নিজের বিছানা, এক গ্লাস পরিষ্কার পানি, বা মায়ের ফোন কল)। নিজেকে বলুন, \"আমার জীবন যথেষ্ট সুন্দর।\""
+      "en": "Before sleeping tonight, express gratitude for three 'ordinary' things (e.g., your bed, a glass of water, or a call from home). Tell yourself, 'My life is beautiful as it is.'",
+      "bn": "আজ রাতে ঘুমানোর আগে আপনার জীবনের তিনটি 'সাধারণ' অথচ অমূল্য জিনিসের জন্য কৃতজ্ঞতা প্রকাশ করুন (যেমন: নিজের বিছানা, এক গ্লাস স্বচ্ছ পানি বা প্রিয়জনের কোনো কথা)। নিজেকে বলুন, 'আমার জীবন বর্তমানেই যথেষ্ট সুন্দর।'"
     },
     "criticalReflection": {
-      "en": "\"স্বাভাবিক\" জীবন উদযাপন করা হাসল কালচারের একটি স্বাস্থ্যকর প্রতিষেধক, কিন্তু এটি সাধারণত্ব বা উচ্চাকাঙ্ক্ষার অভাবকে সমর্থন করার জন্যও ব্যবহার করা যেতে পারে। \"স্বাভাবিক\" বা \"Normal\" বিষয়টি আপেক্ষিক; কারো কারো জন্য এর অর্থ নিরাপত্তা, অন্যদের জন্য এটি স্থবিরতা। চ্যালেঞ্জ হলো উন্নতির এবং উচ্চাকাঙ্ক্ষা না হারিয়েও তুষ্ট থাকা।",
-      "bn": "\"স্বাভাবিক\" জীবন উদযাপন করা হাসল কালচারের একটি স্বাস্থ্যকর প্রতিষেধক, কিন্তু এটি সাধারণত্ব বা উচ্চাকাঙ্ক্ষার অভাবকে সমর্থন করার জন্যও ব্যবহার করা যেতে পারে। \"স্বাভাবিক\" বা \"Normal\" বিষয়টি আপেক্ষিক; কারো কারো জন্য এর অর্থ নিরাপত্তা, অন্যদের জন্য এটি স্থবিরতা। চ্যালেঞ্জ হলো উন্নতির এবং উচ্চাকাঙ্ক্ষা না হারিয়েও তুষ্ট থাকা।"
+      "en": "Celebrating the 'normal' life is a healthy antidote to hustle culture, but it can also be used to justify mediocrity or lack of ambition. 'Normal' is relative; for some it's security, for others it's stagnation.",
+      "bn": "একটি সাধারণ জীবনকে উদযাপন করা বর্তমানের 'সবসময় ব্যস্ত থাকার সংস্কৃতি' বা হাসল কালচারের একটি ভালো প্রতিষেধক। তবে এটি অনেক সময় অলসতাকে প্রশ্রয় দেওয়ার জন্যও ব্যবহার করা হতে পারে। মনে রাখা জরুরি যে উন্নতির চেষ্টা না করে কেবল থেমে থাকাই সমাধান নয়।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "জীবন নিয়ে সন্তুষ্টি বৃদ্ধি এবং \"FOMO\" (Fear Of Missing Out) হ্রাস।",
-        "bn": "জীবন নিয়ে সন্তুষ্টি বৃদ্ধি এবং \"FOMO\" (Fear Of Missing Out) হ্রাস।"
+        "en": "Increased life satisfaction and reduced 'FOMO'.",
+        "bn": "জীবন নিয়ে সন্তুষ্টি বাড়বে এবং অন্য কিছু হারানোর অমূলক ভয় বা FOMO দূরে হবে।"
       },
       "social": {
-        "en": "তরুণদের ওপর রাতারাতি ভাইরাল সেনসেশন বা কোটিপতি হওয়ার চাপ কমবে।",
-        "bn": "তরুণদের ওপর রাতারাতি ভাইরাল সেনসেশন বা কোটিপতি হওয়ার চাপ কমবে।"
+        "en": "Reduced pressure on the youth to become overnight sensations.",
+        "bn": "রাতারাতি বড় হওয়ার সামাজিক চাপ থেকে বর্তমান প্রজন্ম মুক্তি পাবে।"
       }
     }
   },
@@ -5439,92 +5259,92 @@ export const chapters: Chapter[] = [
     "id": 56,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Money as a Tool, Not a Master",
-      "bn": "Money as a Tool, Not a Master"
+      "bn": "টাকা যখন হাতিয়ার, প্রভু নয়"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "The man who needs wealth is afraid of it... He is eager to add something to it, and while he is concentrating on the increase he has forgotten to use it.",
-          "bn": "The man who needs wealth is afraid of it... He is eager to add something to it, and while he is concentrating on the increase he has forgotten to use it."
+          "bn": "যে ব্যক্তি সম্পদের প্রতি চরম ক্ষুধার্ত, সে সম্পদকে ভয়ও পায়। সে সবসময় এটি বাড়াতে ব্যস্ত থাকে, কিন্তু বাড়িয়ে সে কী করবে তা ভুলেই যায়।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Isn’t the true definition of being wealthy not having to worry about money?",
-          "bn": "Isn’t the true definition of being wealthy not having to worry about money?"
+          "bn": "ধনী হওয়ার প্রকৃত সংজ্ঞা কি এটাই নয় যে, টাকা নিয়ে আপনার কোনো বাড়তি দুশ্চিন্তা থাকবে না?"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "অর্থের দাসত্ব",
+          "en": "Slavery to Wealth",
           "bn": "অর্থের দাসত্ব"
         },
         "content": {
-          "en": "যারা টাকার পেছনে ছোটে, তারা টাকার ব্যবহার করতে ভুলে যায়। তারা কেবল জমাতেই ব্যস্ত থাকে, ভোগ করতে পারে না।",
-          "bn": "যারা টাকার পেছনে ছোটে, তারা টাকার ব্যবহার করতে ভুলে যায়। তারা কেবল জমাতেই ব্যস্ত থাকে, ভোগ করতে পারে না।"
+          "en": "Those who constantly chase wealth often forget how to use it. They are busy accumulating, but never truly benefit from their resources.",
+          "bn": "যারা কেবল টাকার পেছনে ছোটেন, তারা একসময় টাকার ব্যবহার করতেই ভুলে যান। তারা কেবল জমাতেই ব্যস্ত থাকেন, কিন্তু সেই সম্পদ তাদের জীবনে কোনো প্রকৃত উপকারে আসে না।"
         }
       },
       {
         "title": {
-          "en": "ভয় ও লোভ",
+          "en": "Fear and Greed",
           "bn": "ভয় ও লোভ"
         },
         "content": {
-          "en": "টাকা হারানোর ভয় এবং আরও টাকার লোভ—এই দুইয়ের চক্রে মানুষ আটকা পড়ে যায়।",
-          "bn": "টাকা হারানোর ভয় এবং আরও টাকার লোভ—এই দুইয়ের চক্রে মানুষ আটকা পড়ে যায়।"
+          "en": "The cycle of fear (losing money) and greed (wanting more) keeps people in a state of emotional turmoil.",
+          "bn": "টাকা হারানো ভয় এবং আরও পাওয়ার লোভ মানুষকে এক অস্থির চক্রে আটকে ফেলে।"
         }
       },
       {
         "title": {
-          "en": "আসল ধনী",
+          "en": "Definition of Rich",
           "bn": "আসল ধনী"
         },
         "content": {
-          "en": "যার ব্যাংকে কোটি টাকা আছে সে ধনী নয়; ধনী সে-ই যার টাকার অভাব নিয়ে কোনো দুশ্চিন্তা নেই, তা সে অল্প টাকাতেই হোক।",
-          "bn": "যার ব্যাংকে কোটি টাকা আছে সে ধনী নয়; ধনী সে-ই যার টাকার অভাব নিয়ে কোনো দুশ্চিন্তা নেই, তা সে অল্প টাকাতেই হোক।"
+          "en": "A rich person isn't someone with a large bank balance, but someone who doesn't worry about lacking money, regardless of the amount.",
+          "bn": "যার ব্যাংকে অনেক টাকা আছে সে ধনী নয়; বরং সে-ই প্রকৃত ধনী যার মনে টাকার অভাব নিয়ে কোনো গ্লানি বা ভয় নেই।"
         }
       },
       {
         "title": {
-          "en": "সরল জীবন",
-          "bn": "সরল জীবন"
+          "en": "Simulating Poverty",
+          "bn": "ইচ্ছাকৃত সাধারণত্ব"
         },
         "content": {
-          "en": "মাঝে মাঝে ইচ্ছাকৃতভাবে বিলাসবহুল জীবন ত্যাগ করে সাধারণ জীবনযাপন করলে টাকার প্রতি মোহ কমে।",
-          "bn": "মাঝে মাঝে ইচ্ছাকৃতভাবে বিলাসবহুল জীবন ত্যাগ করে সাধারণ জীবনযাপন করলে টাকার প্রতি মোহ কমে।"
+          "en": "Stoics recommend occasionally living simply to remind ourselves that we need very little to be happy.",
+          "bn": "মাঝে মাঝে সব বিলাসিতা ত্যাগ করে খুব সাধারণভাবে জীবন কা কাটান। এটি আপনাকে বোঝাবে যে সুখে থাকার জন্য আসলে খুব সামান্য কিছুরই প্রয়োজন।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "মাসে একবার \"Poverty Simulation\" করুন। খুব সাধারণ খাবার খান, কোনো খরচ করবেন না। এটি আপনাকে বোঝাবে যে সুখের জন্য টাকার প্রয়োজন খুব কম। এতে অর্থ হারানোর ভয় কমে যাবে।",
-      "bn": "মাসে একবার \"Poverty Simulation\" করুন। খুব সাধারণ খাবার খান, কোনো খরচ করবেন না। এটি আপনাকে বোঝাবে যে সুখের জন্য টাকার প্রয়োজন খুব কম। এতে অর্থ হারানোর ভয় কমে যাবে।"
+      "en": "Once a month, practice a 'Poverty Simulation.' Eat very simple food, avoid all unnecessary spending, and spend the day without luxuries. This will reduce your fear of losing wealth and show you that happiness is internal.",
+      "bn": "মাসে অন্তত একদিন 'সাধারণ জীবনযাপনের অভ্যাস' করুন। কেবল প্রয়োজনীয় খাবার খান এবং কোনো বাড়তি খরচ করবেন না। এটি আপনাকে অর্থ হারানোর ভয় থেকে মুক্তি দেবে এবং বোঝাবে যে প্রকৃত আনন্দ বাইরের চাকচিক্যে নেই।"
     },
     "criticalReflection": {
-      "en": "\"টাকা নিয়ে চিন্তা না করা\"-ই হলো সম্পদের সংজ্ঞা, কিন্তু সেই অবস্থায় পৌঁছাতে শুরুতে প্রচুর টাকার প্রয়োজন হয়। টাকা থেকে বিচ্ছিন্ন থাকার স্টয়িক উপদেশটি মনস্তাত্বিকভাবে সঠিক হলেও যারা দিন এনে দিন খায় তাদের জন্য এটি বাস্তবে কঠিন।",
-      "bn": "\"টাকা নিয়ে চিন্তা না করা\"-ই হলো সম্পদের সংজ্ঞা, কিন্তু সেই অবস্থায় পৌঁছাতে শুরুতে প্রচুর টাকার প্রয়োজন হয়। টাকা থেকে বিচ্ছিন্ন থাকার স্টয়িক উপদেশটি মনস্তাত্বিকভাবে সঠিক হলেও যারা দিন এনে দিন খায় তাদের জন্য এটি বাস্তবে কঠিন।"
+      "en": "While the Stoic psychological definition of wealth is empowering, it ignores the physical reality of survival. One cannot 'stop worrying' if they lack basic food or medicine. This advice is most applicable to those who have enough but suffer from 'perceived' lack.",
+      "bn": "স্টয়িক দৃষ্টিভঙ্গিতে ধনী হওয়ার সংজ্ঞাটি বেশ অনুপ্রেরণাদায়ক হলেও বাস্তব জীবনে টিকে থাকার লড়াইকে এটি কিছুটা এড়িয়ে গেছে। মৌলিক চাহিদার অভাব থাকলে দুশ্চিন্তা না করাটা অস্বাভাবিক। তবে যারা সচ্ছল অথচ তবুও অতৃপ্তিতে ভোগেন, তাদের জন্য এটি দারুণ কার্যকর।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "আর্থিক স্বাধীনতা (মনস্তাত্ত্বিক, কেবল গাণিতিক নয়)।",
-        "bn": "আর্থিক স্বাধীনতা (মনস্তাত্ত্বিক, কেবল গাণিতিক নয়)।"
+        "en": "Psychological financial freedom and reduced anxiety.",
+        "bn": "আর্থিক দুশ্চিন্তা থেকে মুক্তি এবং এক ধরনের প্রগাঢ় মানসিক স্থিরতা।"
       },
       "social": {
-        "en": "লোক দেখানো ভোগের পরিবর্তে সচেতন জীবনযাপনের দিকে পরিবর্তন।",
-        "bn": "লোক দেখানো ভোগের পরিবর্তে সচেতন জীবনযাপনের দিকে পরিবর্তন।"
+        "en": "Shift towards conscious living rather than status-driven consumption.",
+        "bn": "লোকদেখানো খরচের প্রতিযোগিতার বদলে সচেতন ও সুন্দর জীবনযাপনের সংস্কৃতির বিস্তার।"
       }
     }
   },
@@ -5532,92 +5352,92 @@ export const chapters: Chapter[] = [
     "id": 57,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Action Speaks Louder",
-      "bn": "Action Speaks Louder"
+      "bn": "কথার চেয়ে কাজ বড়"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "When we try to tell people about Stoicism... we’re actually making a show of our principles.",
-          "bn": "When we try to tell people about Stoicism... we’re actually making a show of our principles."
+          "bn": "আমরা যখন মানুষকে ভালো দর্শনের কথা শোনাই, তখন আসলে আমরা নিজেদের পাণ্ডিত্য জাহির করতেই বেশি ব্যস্ত থাকি।"
         },
         "author": {
           "en": "Epictetus",
-          "bn": "Epictetus"
+          "bn": "এপিক্টেটাস"
         }
       },
       {
         "quote": {
           "en": "Sheep don’t bring their owners grass to show how much they ate.",
-          "bn": "Sheep don’t bring their owners grass to show how much they ate."
+          "bn": "ভেড়া মালিকের কাছে ঘাস নিয়ে আসে না এটা বোঝাতে যে সে কতটুকু খেয়েছে; সে বরং দুধ ও পশম উপহার দেয়।"
         },
         "author": {
           "en": "Epictetus",
-          "bn": "Epictetus"
+          "bn": "এপিক্টেটাস"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "উপদেশ বনাম উদাহরণ",
+          "en": "Example Over Advice",
           "bn": "উপদেশ বনাম উদাহরণ"
         },
         "content": {
-          "en": "মানুষকে মুখে জ্ঞান দেওয়ার চেয়ে নিজের কাজের মাধ্যমে উদাহরণ তৈরি করা বেশি কার্যকর।",
-          "bn": "মানুষকে মুখে জ্ঞান দেওয়ার চেয়ে নিজের কাজের মাধ্যমে উদাহরণ তৈরি করা বেশি কার্যকর।"
+          "en": "Building an example through your actions is far more effective than giving lectures. People are moved by what you do, not just by what you say.",
+          "bn": "মুখে লম্বা লম্বা কথা বলার চেয়ে নিজের কাজের মাধ্যমে উদাহরণ তৈরি করা অনেক বেশি জোরালো। মানুষ আপনার কথা নয়, আপনার কাজ দেখে অনুপ্রাণিত হয়।"
         }
       },
       {
         "title": {
-          "en": "ভেড়ার উপমা",
+          "en": "The Sheep Metaphor",
           "bn": "ভেড়ার উপমা"
         },
         "content": {
-          "en": "এপিক্টেটাস বলেছেন, ভেড়া ঘাস খেয়ে মালিককে ঘাস দেখায় না; সে দুধ ও পশম দেয়। তেমনি, আপনি কত বই পড়েছেন তা না দেখিয়ে, আপনার আচরণে তার প্রতিফলন দেখান।",
-          "bn": "এপিক্টেটাস বলেছেন, ভেড়া ঘাস খেয়ে মালিককে ঘাস দেখায় না; সে দুধ ও পশম দেয়। তেমনি, আপনি কত বই পড়েছেন তা না দেখিয়ে, আপনার আচরণে তার প্রতিফলন দেখান।"
+          "en": "Don't showcase how many books you've read; showcase the transformation in your character that those books inspired.",
+          "bn": "আপনি কয়টা বই পড়েছেন সেটা বড় কথা নয়; বরং সেই বইগুলো আপনার আচরণে কী পরিবর্তন এনেছে সেটাই দেখার বিষয়।"
         }
       },
       {
         "title": {
-          "en": "বিনিময়",
-          "bn": "বিনিময়"
+          "en": "Silence in Philosophy",
+          "bn": " দর্শনের নীরবতা"
         },
         "content": {
-          "en": "জ্ঞান নিজের কাছে চেপে না রেখে অন্যদের সাথে ভাগ করে নেওয়া উচিত, তবে তা হতে হবে বিনম্রভাবে।",
-          "bn": "জ্ঞান নিজের কাছে চেপে না রেখে অন্যদের সাথে ভাগ করে নেওয়া উচিত, তবে তা হতে হবে বিনম্রভাবে।"
+          "en": "True philosophy is lived, not just spoken. There's no need to shout about your principles to find validation.",
+          "bn": "প্রকৃত জীবনদর্শন নিরবে চর্চা করতে হয়। নিজের আদর্শ জাহির করার জন্য অন্যের অনুমোদনের কোনো প্রয়োজন নেই।"
         }
       },
       {
         "title": {
-          "en": "শো-অফ বর্জন",
-          "bn": "শো-অফ বর্জন"
+          "en": "Integrity through Behavior",
+          "bn": "আচরণের সততা"
         },
         "content": {
-          "en": "নিজের নীতি বা দর্শন জাহির করা এক ধরনের অহংকার। প্রকৃত স্টয়িকরা নীরবে কাজ করে যান।",
-          "bn": "নিজের নীতি বা দর্শন জাহির করা এক ধরনের অহংকার। প্রকৃত স্টয়িকরা নীরবে কাজ করে যান।"
+          "en": "Every moment is an opportunity to prove your philosophy through your conduct with family, friends, and strangers.",
+          "bn": "পরিবার, বন্ধু এবং অপরিচিতদের সাথে আপনার ব্যবহারই প্রমাণ করবে আপনি আসলে কতটা উন্নত মানুষ।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "কাউকে কোনো উপদেশ দেওয়ার আগে ভাবুন, \"আমি কি এই উপদেশ নিজে পালন করি?\" যদি না করেন, তবে চুপ থাকুন। আজ থেকে \"আমি জানি\" বলার বদলে \"আমি করছি\" প্রমাণ করার চেষ্টা করুন।",
-      "bn": "কাউকে কোনো উপদেশ দেওয়ার আগে ভাবুন, \"আমি কি এই উপদেশ নিজে পালন করি?\" যদি না করেন, তবে চুপ থাকুন। আজ থেকে \"আমি জানি\" বলার বদলে \"আমি করছি\" প্রমাণ করার চেষ্টা করুন।"
+      "en": "Today, don't give anyone advice or tell anyone what they should do. Instead, do your own work perfectly and be exceptionally kind. Let your silence and your actions do the talking.",
+      "bn": "आज কাউকে কোনো উপদেশ দেবেন না। বরং নিজের কাজগুলো নিঁখুতভাবে শেষ করুন এবং সবার প্রতি একটু বেশি দয়ালু হোন। আপনার কাজই যেন সবার হয়ে কথা বলে।"
     },
     "criticalReflection": {
-      "en": "যদিও উদাহরণের মাধ্যমে নেতৃত্ব দেওয়া শক্তিশালী, কিছু পরিস্থিতির জন্য স্পষ্ট প্রতিবাদ এবং নির্দেশনার প্রয়োজন হয়। জরুরি অজ্ঞতা বা অবিচারের মুখে চুপ থাকা এবং কাজ দিয়ে অনুপ্রাণিত করার আশা করাটা খুব বেশি নিষ্ক্রিয় হতে পারে।",
-      "bn": "যদিও উদাহরণের মাধ্যমে নেতৃত্ব দেওয়া শক্তিশালী, কিছু পরিস্থিতির জন্য স্পষ্ট প্রতিবাদ এবং নির্দেশনার প্রয়োজন হয়। জরুরি অজ্ঞতা বা অবিচারের মুখে চুপ থাকা এবং কাজ দিয়ে অনুপ্রাণিত করার আশা করাটা খুব বেশি নিষ্ক্রিয় হতে পারে।"
+      "en": "While 'actions speaking louder' is generally true, effective communication and teaching also require words. Silence can sometimes be misinterpreted as indifference. The challenge is to find the balance between being a role model and being a guide.",
+      "bn": "কথার চেয়ে কাজ বড় হওয়াটাই স্বাভাবিক, তবে সঠিক যোগাযোগের জন্য অনেক সময় শব্দেরও প্রয়োজন হয়। কেবল নিরবতা অনেক সময় মানুষের কাছে ভুল বোঝাবুঝি তৈরি করতে পারে। আদর্শ মানুষ হওয়ার পাশাপাশি একজন পথপ্রদর্শক হিসেবেও থাকাটা জরুরি।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "নেতা হিসেবে বিশ্বাসযোগ্যতা এবং যথার্থতা (Authenticity)।",
-        "bn": "নেতা হিসেবে বিশ্বাসযোগ্যতা এবং যথার্থতা (Authenticity)।"
+        "en": "Increased authenticity and deeper respect from others.",
+        "bn": "নিজের ভেতর এক স্বচ্ছতা আসবে এবং অন্যদের কাছ থেকে অকৃত্রিম সম্মান পাওয়া যাবে।"
       },
       "social": {
-        "en": "ভণ্ডামি হ্রাস এবং আরও অকৃত্রিম মেন্টরশিপ।",
-        "bn": "ভণ্ডামি হ্রাস এবং আরও অকৃত্রিম মেন্টরশিপ।"
+        "en": "A shift from judgmental advice to supportive companionship.",
+        "bn": "অন্যকে জাজ করার প্রবণতা কমবে এবং একে অপরের প্রতি সহমর্মিতা বাড়বে।"
       }
     }
   },
@@ -5625,122 +5445,82 @@ export const chapters: Chapter[] = [
     "id": 58,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
-      "en": "The Long Game (Introductory)",
-      "bn": "The Long Game (Introductory)"
+      "en": "The Long Game",
+      "bn": "সুদূরপ্রসারী লক্ষ্য"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures.",
-          "bn": "If you accomplish something good with hard work, the labor passes quickly, but the good endures; if you do something shameful in pursuit of pleasure, the pleasure passes quickly, but the shame endures."
+          "bn": "যদি আপনি কঠোর পরিশ্রমের মাধ্যমে ভালো কিছু অর্জন করেন, তবে সেই কষ্ট দ্রুতই ফিকে হয়ে যাবে কিন্তু অর্জনটি থেকে যাবে চিরকাল; আর যদি ক্ষণিকের আনন্দের জন্য কোনো লজ্জাজনক কাজ করেন, তবে সেই আনন্দ দ্রুতই শেষ হয়ে যাবে কিন্তু লজ্জাটি থেকে যাবে আজীবন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "শ্রম বনাম লজ্জা",
+          "en": "Labor vs. Shame",
           "bn": "শ্রম বনাম লজ্জা"
         },
         "content": {
-          "en": "কষ্টের কাজ শেষ হয়ে যায়, কিন্তু তার সুফল থেকে যায়। অন্যদিকে, অনৈতিক সুখ দ্রুত শেষ হয়, কিন্তু তার লজ্জা বা গ্লানি আজীবন থেকে যায়।",
-          "bn": "কষ্টের কাজ শেষ হয়ে যায়, কিন্তু তার সুফল থেকে যায়। অন্যদিকে, অনৈতিক সুখ দ্রুত শেষ হয়, কিন্তু তার লজ্জা বা গ্লানি আজীবন থেকে যায়।"
+          "en": "Short-term effort leads to long-term pride. Short-term unethical pleasure leads to permanent regret.",
+          "bn": "ক্ষনিকের কষ্ট আপনাকে দীর্ঘমেয়াদী গর্ব উপহার দেবে। অন্যদিকে, ক্ষনিকের অনৈতিক সুখ আজীবনের অনুশোচনার কারণ হবে।"
         }
       },
       {
         "title": {
-          "en": "ক্যারিয়ারের ভিত্তি",
+          "en": "Foundation of Career",
           "bn": "ক্যারিয়ারের ভিত্তি"
         },
         "content": {
-          "en": "ক্যারিয়ার গড়ার সময় শর্টকাট বা অনৈতিক পথ পরিহার করা উচিত, কারণ দীর্ঘমেয়াদে তা কেবল অনুশোচনাই বয়ে আনে।",
-          "bn": "ক্যারিয়ার গড়ার সময় শর্টকাট বা অনৈতিক পথ পরিহার করা উচিত, কারণ দীর্ঘমেয়াদে তা কেবল অনুশোচনাই বয়ে আনে।"
+          "en": "Building a career on integrity and hard work ensures that even if you face setbacks, your foundation remains strong.",
+          "bn": "সততা ও কঠোর পরিশ্রমের ওপর ভিত্তি করে ক্যারিয়ার গড়লে আপনার ভিত্তি মজবুত থাকে, যা আপনাকে যেকোনো বিপদে অটল থাকতে সাহায্য করবে।"
         }
       },
       {
         "title": {
-          "en": "Chapter 59",
-          "bn": "Chapter 59"
+          "en": "The Illusion of Shortcuts",
+          "bn": "শর্টকাটের মরীচিকা"
         },
         "content": {
-          "en": "Letter 48: On Resting vs Working",
-          "bn": "Letter 48: On Resting vs Working"
+          "en": "Quick gains obtained through questionable means lack durability. True success is a marathon, not a sprint.",
+          "bn": "অসৎ উপায়ে দ্রুত পাওয়া সাফল্য কখনোই দীর্ঘস্থায়ী হয় না। প্রকৃত সাফল্য এক দীর্ঘ ম্যারাথন, কোনো ছোট দৌড় নয়।"
         }
       },
       {
         "title": {
-          "en": "1. Chapter Title",
-          "bn": "1. Chapter Title"
+          "en": "Enduring Value",
+          "bn": "অক্ষয় মূল্য"
         },
         "content": {
-          "en": "Productive Rest",
-          "bn": "Productive Rest"
-        }
-      },
-      {
-        "title": {
-          "en": "বিশ্রামের সময়",
-          "bn": "বিশ্রামের সময়"
-        },
-        "content": {
-          "en": "ক্লান্ত হওয়ার আগেই বিশ্রাম নেওয়া উচিত। তৃষ্ণা পাওয়ার আগে পানি খাওয়ার মতো এটি বার্নআউট (Burnout) প্রতিরোধ করে।",
-          "bn": "ক্লান্ত হওয়ার আগেই বিশ্রাম নেওয়া উচিত। তৃষ্ণা পাওয়ার আগে পানি খাওয়ার মতো এটি বার্নআউট (Burnout) প্রতিরোধ করে।"
-        }
-      },
-      {
-        "title": {
-          "en": "অলসতার ফাঁদ",
-          "bn": "অলসতার ফাঁদ"
-        },
-        "content": {
-          "en": "অতিরিক্ত বিশ্রাম বা কাজ থেকে পালানো মানুষকে আরও অস্থির করে তোলে। কাজই অনেক সময় মানসিক শান্তির উৎস।",
-          "bn": "অতিরিক্ত বিশ্রাম বা কাজ থেকে পালানো মানুষকে আরও অস্থির করে তোলে। কাজই অনেক সময় মানসিক শান্তির উৎস।"
-        }
-      },
-      {
-        "title": {
-          "en": "কাজের আনন্দ",
-          "bn": "কাজের আনন্দ"
-        },
-        "content": {
-          "en": "যারা নিজের কাজ উপভোগ করেন, তাদের ঘন ঘন ছুটির প্রয়োজন হয় না। তাদের জন্য কাজই এক ধরনের খেলা।",
-          "bn": "যারা নিজের কাজ উপভোগ করেন, তাদের ঘন ঘন ছুটির প্রয়োজন হয় না। তাদের জন্য কাজই এক ধরনের খেলা।"
-        }
-      },
-      {
-        "title": {
-          "en": "ব্যালেন্স",
-          "bn": "ব্যালেন্স"
-        },
-        "content": {
-          "en": "কাজ ও বিশ্রামের মধ্যে ভারসাম্য রাখা জরুরি, যাতে কোনোটিই বিরক্তির কারণ না হয়।",
-          "bn": "কাজ ও বিশ্রামের মধ্যে ভারসাম্য রাখা জরুরি, যাতে কোনোটিই বিরক্তির কারণ না হয়।"
+          "en": "Focus on creating something that will matter years from now. Immediate gratification is the enemy of legacy.",
+          "bn": "এমন কিছু তৈরি করার দিকে নজর দিন যার মূল্য কয়েক বছর পরেও কমবে না। ক্ষনিকের তৃপ্তি অনেক সময় মহৎ সৃষ্টির পথে বাধা হয়ে দাঁড়ায়।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "",
-      "bn": ""
+      "en": "Identify one difficult task you've been avoiding. Commit to working on it for 30 minutes today. Remind yourself that the discomfort is temporary, but the satisfaction of progress will stay.",
+      "bn": "আপনার এমন একটি কঠিন কাজ খুঁজে বের করুন যা আপনি এড়িয়ে চলছেন। আজ অন্তত ৩০ মিনিট সেই কাজটি করার প্রতিজ্ঞা করুন। নিজেকে মনে করিয়ে দিন যে কষ্ট সাময়িক, কিন্তু অগ্রগতির আনন্দ চিরস্থায়ী।"
     },
     "criticalReflection": {
-      "en": "",
-      "bn": ""
+      "en": "This stoic perspective is excellent for character building, but 'labor' can sometimes be inefficient. Working hard on the wrong thing won't lead to a 'good endurance.' Wisdom is needed to choose the right path for your labor.",
+      "bn": "চরিত্র গঠনের জন্য এই দৃষ্টিভঙ্গি অনন্য হলেও কেবল অন্ধ পরিশ্রম সবসময় সুফল আনে না। ভুল পথে কঠোর পরিশ্রম কোনো অক্ষয় সুফল দেবে না। তাই শ্রম দেওয়ার আগে সঠিক পথ বেছে নেওয়াটাও সমান জরুরি।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "",
-        "bn": ""
+        "en": "Resilience and a clean conscience.",
+        "bn": "মানসিক দৃঢ়তা এবং এক প্রশান্ত বিবেক অর্জন।"
       },
       "social": {
-        "en": "",
-        "bn": ""
+        "en": "A society that values long-term contribution over quick exploitation.",
+        "bn": "এমন এক সমাজ ব্যবস্থা যেখানে ক্ষনিকের লাভের চেয়ে দীর্ঘমেয়াদী অবদানকে বেশি গুরুত্ব দেওয়া হয়।"
       }
     }
   },
@@ -5748,102 +5528,102 @@ export const chapters: Chapter[] = [
     "id": 59,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Productive Rest",
-      "bn": "Productive Rest"
+      "bn": "কার্যকর বিশ্রাম"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Rest before you are tired.",
-          "bn": "Rest before you are tired."
+          "bn": "ক্লান্ত হওয়ার আগেই বিশ্রাম নেওয়ার অভ্যাস গড়ে তুলুন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Sometimes rest itself is restless.",
-          "bn": "Sometimes rest itself is restless."
+          "bn": "মাঝে মাঝে বিশ্রামহীনতাই হয়ে ওঠে সবচেয়ে বড় বিশ্রাম।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "If you find pleasure in your work, you won’t yearn for rest all the time.",
-          "bn": "If you find pleasure in your work, you won’t yearn for rest all the time."
+          "bn": "যদি আপনি নিজের কাজের মাঝে আনন্দ খুঁজে পান, তবে আপনার সবসময় বিশ্রামের জন্য হাহাকার করতে হবে না।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "বিশ্রামের সময়",
+          "en": "Timing of Rest",
           "bn": "বিশ্রামের সময়"
         },
         "content": {
-          "en": "ক্লান্ত হওয়ার আগেই বিশ্রাম নেওয়া উচিত। তৃষ্ণা পাওয়ার আগে পানি খাওয়ার মতো এটি বার্নআউট (Burnout) প্রতিরোধ করে।",
-          "bn": "ক্লান্ত হওয়ার আগেই বিশ্রাম নেওয়া উচিত। তৃষ্ণা পাওয়ার আগে পানি খাওয়ার মতো এটি বার্নআউট (Burnout) প্রতিরোধ করে।"
+          "en": "Rest should be proactive, not reactive. Taking a break before burnout hits is like drinking water before you're parched.",
+          "bn": "ক্লান্ত হওয়ার আগেই বিশ্রাম নেওয়া উচিত। তৃষ্ণা পাওয়ার আগে পানি পান করার মতো এটি আপনাকে বড় ধরনের বার্নআউট থেকে বাঁচাবে।"
         }
       },
       {
         "title": {
-          "en": "অলসতার ফাঁদ",
+          "en": "Trap of Idleness",
           "bn": "অলসতার ফাঁদ"
         },
         "content": {
-          "en": "অতিরিক্ত বিশ্রাম বা কাজ থেকে পালানো মানুষকে আরও অস্থির করে তোলে। কাজই অনেক সময় মানসিক শান্তির উৎস।",
-          "bn": "অতিরিক্ত বিশ্রাম বা কাজ থেকে পালানো মানুষকে আরও অস্থির করে তোলে। কাজই অনেক সময় মানসিক শান্তির উৎস।"
+          "en": "Excessive rest or escaping from work can make you more restless. Meaningful work is often the source of mental peace.",
+          "bn": "অতিরিক্ত বিশ্রাম বা কাজ থেকে পালানোর চেষ্টা মানুষকে আরও অস্থির করে তোলে। অর্থবহ কাজই অনেক সময় প্রকৃত মানসিক শান্তির উৎস হয়।"
         }
       },
       {
         "title": {
-          "en": "কাজের আনন্দ",
-          "bn": "কাজের আনন্দ"
+          "en": "Joy in Work",
+          "bn": "কাজের মাঝে আনন্দ"
         },
         "content": {
-          "en": "যারা নিজের কাজ উপভোগ করেন, তাদের ঘন ঘন ছুটির প্রয়োজন হয় না। তাদের জন্য কাজই এক ধরনের খেলা।",
-          "bn": "যারা নিজের কাজ উপভোগ করেন, তাদের ঘন ঘন ছুটির প্রয়োজন হয় না। তাদের জন্য কাজই এক ধরনের খেলা।"
+          "en": "When work feels like play, the need for constant escape vanishes. Focus on finding meaning in small tasks.",
+          "bn": "যারা নিজের কাজকে উপভোগ করতে পারেন, তাদের কাছে কাজ মানেই হলো এক ধরনের খেলা। ছোট ছোট কাজের মাঝে অর্থ খুঁজে পেলেই এটি সহজ হয়।"
         }
       },
       {
         "title": {
-          "en": "ব্যালেন্স",
-          "bn": "ব্যালেন্স"
+          "en": "Balance",
+          "bn": "ভারসাম্য"
         },
         "content": {
-          "en": "কাজ ও বিশ্রামের মধ্যে ভারসাম্য রাখা জরুরি, যাতে কোনোটিই বিরক্তির কারণ না হয়।",
-          "bn": "কাজ ও বিশ্রামের মধ্যে ভারসাম্য রাখা জরুরি, যাতে কোনোটিই বিরক্তির কারণ না হয়।"
+          "en": "Balance between effort and recovery ensures long-term sustainability and prevents chronic fatigue.",
+          "bn": "পরিশ্রম ও বিশ্রামের মধ্যে সঠিক ভারসাম্য আপনার কাজের গতিকে দীর্ঘমেয়াদী করবে এবং দীর্ঘস্থায়ী ক্লান্তি দূর করবে।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "পোমোডোরো (Pomodoro) টেকনিক ব্যবহার করুন। ২৫ মিনিট কাজ, ৫ মিনিট বিশ্রাম। ক্লান্ত হওয়ার জন্য অপেক্ষা করবেন না। এই ছোট ছোট বিশ্রাম আপনার এনার্জি লেভেল সারাদিন ধরে রাখবে।",
-      "bn": "পোমোডোরো (Pomodoro) টেকনিক ব্যবহার করুন। ২৫ মিনিট কাজ, ৫ মিনিট বিশ্রাম। ক্লান্ত হওয়ার জন্য অপেক্ষা করবেন না। এই ছোট ছোট বিশ্রাম আপনার এনার্জি লেভেল সারাদিন ধরে রাখবে।"
+      "en": "Use the Pomodoro Technique: 25 minutes of work followed by a 5-minute break. Don't wait until your legs ache or your brain fogs. These small breaks will keep your energy high throughout the day.",
+      "bn": "আজ 'পোমোডোরো টেকনিক' ব্যবহার করুন: ২৫ মিনিট একনিষ্ঠ কাজ করার পর ৫ মিনিটের জন্য ছোট একটি বিশ্রাম নিন। মস্তিষ্ক স্থবির হয়ে আসার জন্য অপেক্ষা করবেন না। এই ছোট বিরতিগুলো সারাদিন আপনার কর্মদক্ষতা বজায় রাখবে।"
     },
     "criticalReflection": {
-      "en": "\"ক্লান্ত হওয়ার আগেই বিশ্রাম নিন\"—উপদেশটি চমৎকার কিন্তু কঠোর কর্পোরেট কাঠামো বা গিগ ইকোনমিতে বাস্তবায়ন করা কঠিন যেখানে সময় মানেই টাকা। এছাড়াও, কাজে আনন্দ খুঁজে পাওয়া আদর্শ, কিন্তু অনেকের ছোটোখাটো বা একঘেয়ে নিচু পদের চাকরিতে কাজ কেবলই লেনদেনমূলক, যেখানে বিশ্রামের জন্য কঠোর সীমানা প্রয়োজন।",
-      "bn": "\"ক্লান্ত হওয়ার আগেই বিশ্রাম নিন\"—উপদেশটি চমৎকার কিন্তু কঠোর কর্পোরেট কাঠামো বা গিগ ইকোনমিতে বাস্তবায়ন করা কঠিন যেখানে সময় মানেই টাকা। এছাড়াও, কাজে আনন্দ খুঁজে পাওয়া আদর্শ, কিন্তু অনেকের ছোটোখাটো বা একঘেয়ে নিচু পদের চাকরিতে কাজ কেবলই লেনদেনমূলক, যেখানে বিশ্রামের জন্য কঠোর সীমানা প্রয়োজন।"
+      "en": "The advice to 'rest before you are tired' is great, but difficult to implement in rigid corporate structures or the gig economy. Also, while finding joy in work is ideal, many labor-intensive jobs are purely transactional, requiring strict boundaries for rest.",
+      "bn": "ক্লান্ত হওয়ার আগেই বিশ্রাম নেওয়ার উপদেশটি চমৎকার হলেও কর্পোরেট দুনিয়ায় এটি বাস্তবায়ন করা বেশ কঠিন। এছাড়া সব কাজে আনন্দ খুঁজে পাওয়া সবার জন্য সম্ভব নয়; অনেকের সাধারণ নিচু পদের চাকরিতে কাজ কেবলই জীবিকা অর্জনের মাধ্যম, সেখানে বিশ্রামের জন্য কঠোর নিয়ম প্রয়োজন।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "উচ্চ শক্তি ধরে রাখা এবং ক্রনিক ক্লান্তি বা ফ্যাটিগ প্রতিরোধ।",
-        "bn": "উচ্চ শক্তি ধরে রাখা এবং ক্রনিক ক্লান্তি বা ফ্যাটিগ প্রতিরোধ।"
+        "en": "Sustained high energy and prevention of chronic fatigue.",
+        "bn": "দীর্ঘক্ষণ সতেজ থাকা এবং দীর্ঘস্থায়ী ক্লান্তি বোধ থেকে মুক্তি।"
       },
       "social": {
-        "en": "অসুস্থতার ছুটি কম এবং একটি স্বাস্থ্যকর কর্মী বাহিনী।",
-        "bn": "অসুস্থতার ছুটি কম এবং একটি স্বাস্থ্যকর কর্মী বাহিনী।"
+        "en": "Reduction in sick leaves and a healthier workforce.",
+        "bn": "অসুস্থতাজনিত ছুটি কমবে এবং সমাজে একটি স্বাস্থ্যকর কর্মসংস্কৃতি গড়ে উঠবে।"
       }
     }
   },
@@ -5851,92 +5631,92 @@ export const chapters: Chapter[] = [
     "id": 60,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Playing Your Role",
-      "bn": "Playing Your Role"
+      "bn": "নিজের ভূমিকায় অভিনয়"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Consider yourself as an actor in a play. The nature of the play... is for the director to decide.",
-          "bn": "Consider yourself as an actor in a play. The nature of the play... is for the director to decide."
+          "bn": "নিজেকে একটি নাটকের অভিনেতা বলে মনে করুন। নাটকের ভাগ্য কেমন হবে... তা কেবল নির্দেশকের সিদ্ধান্ত।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "It’s not that our lives are bad; we just think our lives are bad and expect that could or should be limitless and extraordinary.",
-          "bn": "It’s not that our lives are bad; we just think our lives are bad and expect that could or should be limitless and extraordinary."
+          "bn": "আমাদের জীবন ততটা খারাপ নয় যতটা আমরা মনে করি; আমরা বরং আমাদের জীবনকে কাল্পনিক কোনো অসাধারণত্বের তুলনায় নামিয়ে ছোট করে দেখি।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "জীবনের মঞ্চ",
+          "en": "Life as a Stage",
           "bn": "জীবনের মঞ্চ"
         },
         "content": {
-          "en": "আমরা সবাই একটি নাটকের অভিনেতা। আমাদের চরিত্র বা পরিস্থিতি (ধনী/গরিব, সুস্থ/অসুস্থ) আমাদের হাতে নেই; আমাদের কাজ হলো সেই চরিত্রে সেরাটা দেওয়া।",
-          "bn": "আমরা সবাই একটি নাটকের অভিনেতা। আমাদের চরিত্র বা পরিস্থিতি (ধনী/গরিব, সুস্থ/অসুস্থ) আমাদের হাতে নেই; আমাদের কাজ হলো সেই চরিত্রে সেরাটা দেওয়া।"
+          "en": "We are all actors in a play. Our characters or situations (rich/poor, sick/healthy) aren't in our control; our job is to play that role perfectly.",
+          "bn": "আমরা সবাই একটি নাটকের কুশলী মাত্র। আমাদের চরিত্র বা পরিস্থিতি (ধনী/দরিদ্র, সুস্থ/অসুস্থ) আমাদের হাতে নেই; আমাদের কাজ হলো সেই পরিস্থিতিতে সেরা অভিনয়টুকুই করা।"
         }
       },
       {
         "title": {
-          "en": "অবাস্তব প্রত্যাশা",
+          "en": "Unrealistic Expectations",
           "bn": "অবাস্তব প্রত্যাশা"
         },
         "content": {
-          "en": "সমাজ শেখায় \"তুমি যা ইচ্ছা তাই হতে পারো\"—এটি একটি মিথ্যা। আমাদের সীমাবদ্ধতা আছে এবং তা মেনে নেওয়াই বুদ্ধিমানের কাজ।",
-          "bn": "সমাজ শেখায় \"তুমি যা ইচ্ছা তাই হতে পারো\"—এটি একটি মিথ্যা। আমাদের সীমাবদ্ধতা আছে এবং তা মেনে নেওয়াই বুদ্ধিমানের কাজ।"
+          "en": "Society teaches 'You can be anything'—this is often a myth. Accepting our limitations is wisdom, not failure.",
+          "bn": "সমাজ শেখায় 'তুমি যা খুশি হতে পারো'—এটি সবসময় সত্য নয়। আমাদের সীমাবদ্ধতা মেনে নেওয়াই হলো প্রকৃত বুদ্ধিমত্তা।"
         }
       },
       {
         "title": {
-          "en": "ভাগ্যের লটারি",
+          "en": "The Ovarian Lottery",
           "bn": "ভাগ্যের লটারি"
         },
         "content": {
-          "en": "ওয়ারেন বাফেটের মতো সফলরাও স্বীকার করেন যে তাদের সাফল্যে ভাগ্য বা জন্মস্থানের ভূমিকা বিশাল। একে \"ওভারিয়ান লটারি\" বলা হয়।",
-          "bn": "ওয়ারেন বাফেটের মতো সফলরাও স্বীকার করেন যে তাদের সাফল্যে ভাগ্য বা জন্মস্থানের ভূমিকা বিশাল। একে \"ওভারিয়ান লটারি\" বলা হয়।"
+          "en": "Success often depends on where and when you were born. Acknowledging the role of luck keeps us humble.",
+          "bn": "সাফল্যের অনেকটা নির্ভর করে আপনার জন্মস্থান বা পারিপার্শ্বিকতার ওপর। ভাগ্যের এই দানকে স্বীকার করলে মনে নম্রতা আসে।"
         }
       },
       {
         "title": {
-          "en": "তুলনা ও দুঃখ",
-          "bn": "তুলনা ও দুঃখ"
+          "en": "Comparison and Sorrow",
+          "bn": "তুলনা ও বিষাদ"
         },
         "content": {
-          "en": "নিজের জীবনকে অন্যের কাল্পনিক \"পারফেক্ট\" জীবনের সাথে তুলনা করাই আমাদের দুঃখের মূল কারণ।",
-          "bn": "নিজের জীবনকে অন্যের কাল্পনিক \"পারফেক্ট\" জীবনের সাথে তুলনা করাই আমাদের দুঃখের মূল কারণ।"
+          "en": "Comparing your life with an imaginary 'perfect' life of someone else is the root of all unhappiness.",
+          "bn": "নিজের জীবনকে অন্যের তথাকথিত 'নিঁখুত' বা কাল্পনিক জীবনের সাথে তুলনা করাই হলো আমাদের সব দুঃখের মূল কারণ।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "নিজের বর্তমান পরিস্থিতির ৩টি সীমাবদ্ধতা লিখুন (যেমন: আর্থিক অবস্থা, বয়স বা পারিবারিক দায়িত্ব)। এগুলোকে \"সমস্যা\" হিসেবে না দেখে নাটকের \"স্ক্রিপ্ট\" হিসেবে দেখুন। বলুন, \"এই স্ক্রিপ্টেই আমি সেরা অভিনয় করে দেখাব।\"",
-      "bn": "নিজের বর্তমান পরিস্থিতির ৩টি সীমাবদ্ধতা লিখুন (যেমন: আর্থিক অবস্থা, বয়স বা পারিবারিক দায়িত্ব)। এগুলোকে \"সমস্যা\" হিসেবে না দেখে নাটকের \"স্ক্রিপ্ট\" হিসেবে দেখুন। বলুন, \"এই স্ক্রিপ্টেই আমি সেরা অভিনয় করে দেখাব।\""
+      "en": "Identify three limitations in your current situation (e.g., age, financial status, or family responsibilities). Instead of seeing them as 'problems,' see them as the 'script' for your movie. Say, 'I will give my best performance in this very script.'",
+      "bn": "আপনার বর্তমান পরিস্থিতির তিনটি সীমাবদ্ধতা খুঁজে বের করুন (যেমন: আর্থিক অবস্থা, বয়স বা পারিবারিক দায়িত্ব)। এগুলোকে 'সমস্যা' হিসেবে না দেখে নাটকের 'স্ক্রিপ্ট' হিসেবে দেখুন। বলুন, 'এই স্ক্রিপ্টেই আমি আমার শ্রেষ্ঠ অভিনয়টুকু করে দেখাব।'"
     },
     "criticalReflection": {
-      "en": "জীবনকে একটি পূর্বনির্ধারিত স্ক্রিপ্টের নাটক হিসেবে দেখার রূপকটি সবকিছু মেনে নিতে উৎসাহিত করে, কিন্তু এটি সামাজিক গতিশীলতা বা প্রগতিকে নিরুৎসাহিত করার ঝুঁকি তৈরি করে। যদি সবাই তাদের \"চরিত্র\" (যেমন, একজন গরিব ব্যক্তি হিসেবে) মেনে নেয়, তবে সামাজিক অগ্রগতি স্থগিত হয়ে যায়। এটি নিয়তিবাদের দিকে ঝুঁকতে পারে।",
-      "bn": "জীবনকে একটি পূর্বনির্ধারিত স্ক্রিপ্টের নাটক হিসেবে দেখার রূপকটি সবকিছু মেনে নিতে উৎসাহিত করে, কিন্তু এটি সামাজিক গতিশীলতা বা প্রগতিকে নিরুৎসাহিত করার ঝুঁকি তৈরি করে। যদি সবাই তাদের \"চরিত্র\" (যেমন, একজন গরিব ব্যক্তি হিসেবে) মেনে নেয়, তবে সামাজিক অগ্রগতি স্থগিত হয়ে যায়। এটি নিয়তিবাদের দিকে ঝুঁকতে পারে।"
+      "en": "Viewing life as a pre-written script encourages acceptance, but it risks discouraging social mobility or progress. If everyone accepts their 'role' (e.g., as a poor person), social progress stalls. It leans toward fatalism.",
+      "bn": "জীবনকে একটি পূর্বনির্ধারিত স্ক্রিপ্টের নাটক হিসেবে দেখার রূপকটি সবকিছু মেনে নিতে শেখায়, তবে এটি সামাজিক পরিবর্তনের তাগিদকে কমিয়ে দেওয়ার ঝুঁকি তৈরি করে। যদি সবাই তার 'চরিত্র' মেনে নিয়ে চুপ থাকে, তবে সমাজের উন্নয়ন থমকে যেতে পারে।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "নিজের পরিস্থিতির সাথে শান্তি এবং হিংসা হ্রাস।",
-        "bn": "নিজের পরিস্থিতির সাথে শান্তি এবং হিংসা হ্রাস।"
+        "en": "Peace with one's situation and reduction in envy.",
+        "bn": "নিজের পরিস্থিতির সাথে শান্তি বজায় থাকবে এবং ঈর্ষাবোধ কমবে।"
       },
       "social": {
-        "en": "শ্রেণী সংঘাত কম হতে পারে, কিন্তু সামাজিক সাম্যের জন্য তাগিদও কমে যেতে পারে।",
-        "bn": "শ্রেণী সংঘাত কম হতে পারে, কিন্তু সামাজিক সাম্যের জন্য তাগিদও কমে যেতে পারে।"
+        "en": "Reduction in social conflict, though perhaps also a decrease in the drive for social equality.",
+        "bn": "সামাজিক সংঘাত কমবে, তবে সাম্য অর্জনের তাগিদও কিছুটা হ্রাস পেতে পারে।"
       }
     }
   },
@@ -5944,92 +5724,92 @@ export const chapters: Chapter[] = [
     "id": 61,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Integrity in Solitude",
-      "bn": "Integrity in Solitude"
+      "bn": "নির্জনতাই চরিত্রের পরীক্ষা"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Be your own witness if you need one. You don’t need any more witness than that.",
-          "bn": "Be your own witness if you need one. You don’t need any more witness than that."
+          "bn": "যদি আপনার একজন সাক্ষীর প্রয়োজন হয়, তবে নিজের অন্তরাত্মাকেই সেই সাক্ষী বানান। এর চেয়ে বড় সাক্ষীর আর কোনো প্রয়োজন নেই।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "What do you do when no one’s watching? Your actions during those moments define you.",
-          "bn": "What do you do when no one’s watching? Your actions during those moments define you."
+          "bn": "যখন কেউ দেখছে না তখন আপনি কী করেন? সেই মুহূর্তের কাজগুলোই আপনার আসল পরিচয়।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "একান্ত সততা",
+          "en": "Absolute Integrity",
           "bn": "একান্ত সততা"
         },
         "content": {
-          "en": "কেউ দেখছে না—এমন সময়ে আপনি কী করেন, সেটাই আপনার আসল চরিত্র।",
-          "bn": "কেউ দেখছে না—এমন সময়ে আপনি কী করেন, সেটাই আপনার আসল চরিত্র।"
+          "en": "Your true character is revealed by what you do when you are completely alone. Integrity isn't for show; it's for yourself.",
+          "bn": "কেউ দেখছে না—এমন সময়ে আপনি কী করেন, সেটাই আপনার আসল চরিত্র। সততা লোক দেখানোর জন্য নয়, বরং নিজের আত্মসম্মানের জন্য।"
         }
       },
       {
         "title": {
-          "en": "আত্ম-সাক্ষী",
+          "en": "Self-Witness",
           "bn": "আত্ম-সাক্ষী"
         },
         "content": {
-          "en": "অন্যের প্রশংসার জন্য নয়, নিজের কাছে সৎ থাকার জন্য ভালো কাজ করুন। আপনি নিজেই আপনার বিচারক।",
-          "bn": "অন্যের প্রশংসার জন্য নয়, নিজের কাছে সৎ থাকার জন্য ভালো কাজ করুন। আপনি নিজেই আপনার বিচারক।"
+          "en": "Do good deeds for the sake of being right, not for applause. You are your own judge and jury.",
+          "bn": "অন্যের প্রশংসার জন্য নয়, বরং নিজের কাছে স্বচ্ছ থাকার জন্য ভালো কাজ করুন। আপনি নিজেই আপনার শ্রেষ্ঠ বিচারক।"
         }
       },
       {
         "title": {
-          "en": "ওয়ার্ক ফ্রম হোম",
-          "bn": "ওয়ার্ক ফ্রম হোম"
+          "en": "Solitary Standard",
+          "bn": "একান্ত মানদণ্ড"
         },
         "content": {
-          "en": "ঘরে বসে কাজ করার সময় বস দেখছে না বলে ফাঁকি দেওয়া বা নিজের স্ট্যান্ডার্ড কমানো—এগুলো আত্মসম্মান হীনতার লক্ষণ।",
-          "bn": "ঘরে বসে কাজ করার সময় বস দেখছে না বলে ফাঁকি দেওয়া বা নিজের স্ট্যান্ডার্ড কমানো—এগুলো আত্মসম্মান হীনতার লক্ষণ।"
+          "en": "Whether working from home or alone at night, maintain your standards. Slacking off just because there's no supervision erodes self-respect.",
+          "bn": "ঘরে বসে কাজ করার সময় কেউ দেখছে না বলে ফাঁকি দেওয়া বা নিজের কাজের মান কমিয়ে দেওয়া—এগুলো আপনার নিজের প্রতি অবজ্ঞার বহিঃপ্রকাশ।"
         }
       },
       {
         "title": {
-          "en": "অন্তরের মোটিভেশন",
-          "bn": "অন্তরের মোটিভেশন"
+          "en": "Inner Motivation",
+          "bn": "অন্তরের শক্তি"
         },
         "content": {
-          "en": "বাইরের কোনো সাক্ষী বা পুরস্কার ছাড়াই কাজ করার ক্ষমতা হলো প্রকৃত স্বাধীনতা।",
-          "bn": "বাইরের কোনো সাক্ষী বা পুরস্কার ছাড়াই কাজ করার ক্ষমতা হলো প্রকৃত স্বাধীনতা।"
+          "en": "The ability to perform your best without external rewards or witnesses is true mental freedom.",
+          "bn": "বাইরের কোনো বাহবা বা সাক্ষী ছাড়াই নিজের সেরা কাজটুকু করার ক্ষমতা অর্জন করাই হলো প্রকৃত মুক্তি।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আজ এমন একটি ভালো কাজ করুন যা কেউ জানবে না। রাস্তা থেকে ময়লা সরানো বা গোপনে দান করা। এরপর কাউকে সেটা বলবেন না। এই গোপন ভালো কাজটি আপনার আত্মসম্মানবোধ বহুগুণ বাড়িয়ে দেবে।",
-      "bn": "আজ এমন একটি ভালো কাজ করুন যা কেউ জানবে না। রাস্তা থেকে ময়লা সরানো বা গোপনে দান করা। এরপর কাউকে সেটা বলবেন না। এই গোপন ভালো কাজটি আপনার আত্মসম্মানবোধ বহুগুণ বাড়িয়ে দেবে।"
+      "en": "Today, do one good deed that absolutely no one will ever know about (e.g., picking up trash or making a secret donation). Don't tell anyone. Feel the boost in your self-worth from this private act of virtue.",
+      "bn": "আজ এমন একটি ভালো কাজ করুন যা কেউ জানবে না। রাস্তা থেকে ময়লা সরানো বা গোপনে কাউকে সাহায্য করা হতে পারে। এরপর কাউকে সেটা বলবেন না। এই গোপন ভালো কাজটি আপনার আত্মতৃপ্তি বহুগুণ বাড়িয়ে দেবে।"
     },
     "criticalReflection": {
-      "en": "নিজের সাক্ষী নিজেই হওয়া সততার সর্বোচ্চ রূপ। তবে, বাহ্যিক জবাবদিহিতা ছাড়া আত্ম-প্রবঞ্চনা বা Self-deception খুব সহজে ঢুকে পড়তে পারে। আমরা প্রায়শই নিজেদের বিচার করার ক্ষেত্রে পক্ষপাতদুষ্ট। অভ্যন্তরীণ মানদণ্ড এবং বাহ্যিক ফিডব্যাকের একটি মিশ্রণ আদর্শ।",
-      "bn": "নিজের সাক্ষী নিজেই হওয়া সততার সর্বোচ্চ রূপ। তবে, বাহ্যিক জবাবদিহিতা ছাড়া আত্ম-প্রবঞ্চনা বা Self-deception খুব সহজে ঢুকে পড়তে পারে। আমরা প্রায়শই নিজেদের বিচার করার ক্ষেত্রে পক্ষপাতদুষ্ট। অভ্যন্তরীণ মানদণ্ড এবং বাহ্যিক ফিডব্যাকের একটি মিশ্রণ আদর্শ।"
+      "en": "Being your own witness is the highest form of integrity, but without external accountability, self-deception can creep in. We are often biased in judging ourselves. A mix of inner standards and honest external feedback is ideal.",
+      "bn": "নিজের সাক্ষী নিজেই হওয়া সততার সর্বোচ্চ রূপ হলেও বাহ্যিক জবাবদিহিতা ছাড়া অনেক সময় নিজের ভুলগুলো আমাদের চোখ এড়িয়ে যেতে পারে। আমরা প্রায়ই নিজেদের বিচার করার সময় পক্ষপাতদুষ্ট থাকি। তাই অভ্যন্তরীণ মূল্যবোধের পাশাপাশি বাইরের গঠনমূলক ফিডব্যাকও দরকার।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "অটল আত্মবিশ্বাস এবং নৈতিক ভিত্তি।",
-        "bn": "অটল আত্মবিশ্বাস এবং নৈতিক ভিত্তি।"
+        "en": "Unshakeable self-confidence and a solid moral foundation.",
+        "bn": "এক অটল আত্মবিশ্বাস এবং মজবুত নৈতিক ভিত্তি অর্জন।"
       },
       "social": {
-        "en": "একটি উচ্চ-আস্থার সমাজ যেখানে তদারকি খরচ কম।",
-        "bn": "একটি উচ্চ-আস্থার সমাজ যেখানে তদারকি খরচ কম।"
+        "en": "A high-trust society where supervision costs are reduced.",
+        "bn": "এমন এক সমাজ যেখানে মানুষ একে অপরকে অধিক বিশ্বাস করবে এবং তদারকির প্রয়োজন হবে না।"
       }
     }
   },
@@ -6037,92 +5817,92 @@ export const chapters: Chapter[] = [
     "id": 62,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "The Precision of Speech",
-      "bn": "The Precision of Speech"
+      "bn": "শব্দ প্রয়োগের নির্ভুলতা"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "If someone bathes quickly, don’t say he doesn’t bathe properly, say he bathes quickly.",
-          "bn": "If someone bathes quickly, don’t say he doesn’t bathe properly, say he bathes quickly."
+          "bn": "যদি কেউ দ্রুত গোসল সারে, তবে বলবেন না যে সে ঠিকমতো গোসল করেনি; কেবল বলুন যে সে দ্রুত গোসল করেছে।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "To live like a Stoic, practice precision in your words.",
-          "bn": "To live like a Stoic, practice precision in your words."
+          "bn": "একজন স্টয়েকের মতো বাঁচতে হলে নিজের ভাষায় বা শব্দ চয়নে নির্ভুল হওয়ার অভ্যাস করুন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "ফ্যাক্ট বনাম জাজমেন্ট",
-          "bn": "ফ্যাক্ট বনাম জাজমেন্ট"
+          "en": "Fact vs. Judgment",
+          "bn": "তথ্যাদি বনাম বিচার"
         },
         "content": {
-          "en": "আমরা প্রায়ই ঘটনা বর্ণনা না করে রায় দিয়ে ফেলি। \"সে খারাপ লোক\" না বলে \"সে আমার সাথে খারাপ ব্যবহার করেছে\"—এভাবে বলা উচিত।",
-          "bn": "আমরা প্রায়ই ঘটনা বর্ণনা না করে রায় দিয়ে ফেলি। \"সে খারাপ লোক\" না বলে \"সে আমার সাথে খারাপ ব্যবহার করেছে\"—এভাবে বলা উচিত।"
+          "en": "We often make judgments instead of describing facts. Instead of 'he is a bad person,' say 'he behaved poorly in this instance.'",
+          "bn": "আমরা প্রায়ই ঘটনার বর্ণনা না দিয়ে সরাসরি তার বিচার করে বসি। 'সে একজন খারাপ মানুষ' না বলে বলুন, 'সে এই নির্দিষ্ট পরিস্থিতিতে আমার সাথে অসৌজন্যমূলক আচরণ করেছে'।"
         }
       },
       {
         "title": {
-          "en": "লেখার গুরুত্ব",
-          "bn": "লেখার গুরুত্ব"
+          "en": "Clarity of Thought",
+          "bn": "পরিষ্কার চিন্তা"
         },
         "content": {
-          "en": "লেখার মাধ্যমে চিন্তা পরিষ্কার হয়। কথা বলার আগে লিখে বা গুছিয়ে নিলে ভুল বোঝাবুঝি কমে।",
-          "bn": "লেখার মাধ্যমে চিন্তা পরিষ্কার হয়। কথা বলার আগে লিখে বা গুছিয়ে নিলে ভুল বোঝাবুঝি কমে।"
+          "en": "Precise speech reflects clear thought. Writing or organizing your thoughts before speaking reduces misunderstandings.",
+          "bn": "নির্ভুল ভাষা উন্নত চিন্তার পরিচয় দেয়। কথা বলার আগে মনের ভাবগুলো গুছিয়ে নিলে ভুল বোঝাবুঝি অনেক কমে যায়।"
         }
       },
       {
         "title": {
-          "en": "ব্যাকস্পেস নেই",
-          "bn": "ব্যাকস্পেস নেই"
+          "en": "No Backspace",
+          "bn": "অমোচনীয় শব্দ"
         },
         "content": {
-          "en": "মুখের কথার কোনো \"ব্যাকস্পেস\" বা মোছার সুযোগ নেই। তাই শব্দ চয়ন হতে হবে সতর্ক।",
-          "bn": "মুখের কথার কোনো \"ব্যাকস্পেস\" বা মোছার সুযোগ নেই। তাই শব্দ চয়ন হতে হবে সতর্ক।"
+          "en": "Spoken words have no 'backspace.' Once said, they cannot be unsaid. Be intentional with your vocabulary.",
+          "bn": "মুখের কথা একবার বেরিয়ে গেলে তা আর ফিরিয়ে নেওয়ার কোনো উপায় নেই। তাই প্রতিটি শব্দ সাবধানে চয়ন করা উচিত।"
         }
       },
       {
         "title": {
-          "en": "যোগাযোগ দক্ষতা",
-          "bn": "যোগাযোগ দক্ষতা"
+          "en": "Communication Skills",
+          "bn": "যোগাযোগের দক্ষতা"
         },
         "content": {
-          "en": "স্পষ্ট ও সঠিক শব্দ ব্যবহার করলে সম্পর্ক ভালো থাকে এবং অপ্রয়োজনীয় ঝগড়া এড়ানো যায়।",
-          "bn": "স্পষ্ট ও সঠিক শব্দ ব্যবহার করলে সম্পর্ক ভালো থাকে এবং অপ্রয়োজনীয় ঝগড়া এড়ানো যায়।"
+          "en": "Using accurate words improves relationships and avoids unnecessary conflicts born from ambiguity.",
+          "bn": "সঠিক শব্দ ব্যবহার করলে সম্পর্ক সুন্দর থাকে এবং অস্পষ্টতা থেকে তৈরি হওয়া অনর্থক ঝগড়া এড়ানো যায়।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আজ সারাদিন বিশেষণ (Adjective) ব্যবহার কম করুন। \"বাজে আবহাওয়া\" না বলে বলুন \"বৃষ্টি হচ্ছে।\" \"বিরক্তিকর ট্রাফিক\" না বলে বলুন \"গাড়ি ধীরে চলছে।\" ঘটনাকে আবেগ থেকে আলাদা করে দেখার চেষ্টা করুন।",
-      "bn": "আজ সারাদিন বিশেষণ (Adjective) ব্যবহার কম করুন। \"বাজে আবহাওয়া\" না বলে বলুন \"বৃষ্টি হচ্ছে।\" \"বিরক্তিকর ট্রাফিক\" না বলে বলুন \"গাড়ি ধীরে চলছে।\" ঘটনাকে আবেগ থেকে আলাদা করে দেখার চেষ্টা করুন।"
+      "en": "Today, reduce your use of adjectives. Instead of 'terrible weather,' say 'it is raining.' Instead of 'annoying traffic,' say 'the cars are moving slowly.' See how separating emotion from facts calms your mind.",
+      "bn": "আজ সারাদিন ঘটনার বর্ণনায় বিশেষণের ব্যবহার কমিয়ে দিন। 'বাজে আবহাওয়া' না বলে বলুন 'আজ বৃষ্টি হচ্ছে'। 'বিরক্তিকর জ্যাম' না বলে বলুন 'গাড়িগুলো ধীরগতিতে চলছে'। ঘটনাকে আবেগ থেকে আলাদা করে দেখার চেষ্টা করুন।"
     },
     "criticalReflection": {
-      "en": "নির্ভুলতা বা Precision দ্বন্দ্ব কমায় কিন্তু কখনও কখনও ভাষাকে আবেগ ও সূক্ষ্মতা বর্জিত করে ফেলতে পারে। ঘনিষ্ঠ সম্পর্কের ক্ষেত্রে, অনুভূতি (যা সাবজেক্টিভ এবং অনির্দিষ্ট হতে পারে) প্রকাশ করা প্রায়শই কাঠখোট্টা তথ্যের চেয়ে বেশি গুরুত্বপূর্ণ।",
-      "bn": "নির্ভুলতা বা Precision দ্বন্দ্ব কমায় কিন্তু কখনও কখনও ভাষাকে আবেগ ও সূক্ষ্মতা বর্জিত করে ফেলতে পারে। ঘনিষ্ঠ সম্পর্কের ক্ষেত্রে, অনুভূতি (যা সাবজেক্টিভ এবং অনির্দিষ্ট হতে পারে) প্রকাশ করা প্রায়শই কাঠখোট্টা তথ্যের চেয়ে বেশি গুরুত্বপূর্ণ।"
+      "en": "Precision reduces conflict but can sometimes make language feel cold or lacking nuances. In intimate relationships, expressing feelings (which are subjective) is often more important than clinical facts.",
+      "bn": "নির্ভুল কথা বলা দ্বন্দ্ব কমায় বটে, তবে তা অনেক সময় কথাকে কিছুটা কাঠখোট্টা করে ফেলতে পারে। ঘনিষ্ঠ সম্পর্কের ক্ষেত্রে কেবল অকাট্য যুক্তি বা তথ্য নয়, বরং অনুভূতির প্রকাশ করাটাও অনেক বেশি গুরুত্বপূর্ণ।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "স্পষ্ট চিন্তাভাবনা এবং আন্তঃব্যক্তিক নাটকীয়তা বা ড্রামা হ্রাস।",
-        "bn": "স্পষ্ট চিন্তাভাবনা এবং আন্তঃব্যক্তিক নাটকীয়তা বা ড্রামা হ্রাস।"
+        "en": "Clearer thinking and reduced interpersonal drama.",
+        "bn": "পরিষ্কার চিন্তাভাবনা করার ক্ষমতা বাড়বে এবং সম্পর্কে অহেতুক তিক্ততা কমবে।"
       },
       "social": {
-        "en": "আরও যুক্তিবাদী পাবলিক ডিসকোর্স বা আলোচনা।",
-        "bn": "আরও যুক্তিবাদী পাবলিক ডিসকোর্স বা আলোচনা।"
+        "en": "More rational public discourse and less reactive arguments.",
+        "bn": "সমাজে গঠনমূলক আলোচনার পরিবেশ তৈরি হবে এবং অনর্থক বাকবিতণ্ডা দূর হবে।"
       }
     }
   },
@@ -6130,92 +5910,92 @@ export const chapters: Chapter[] = [
     "id": 63,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Essentialism",
-      "bn": "Essentialism"
+      "bn": "অপরিহার্যতা বা এসেনশিয়ালিজম"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "If you seek tranquility, do less.",
-          "bn": "If you seek tranquility, do less."
+          "bn": "যদি প্রশান্তি পেতে চান, তবে কাজের পরিমাণ কমিয়ে আনুন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Ask yourself at every moment, ‘Is this necessary?’",
-          "bn": "Ask yourself at every moment, ‘Is this necessary?’"
+          "bn": "প্রতিটি মুহূর্তে নিজেকে প্রশ্ন করুন—'এটি কি আসলেই প্রয়োজনীয়?'"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "কম করা",
-          "bn": "কম করা"
+          "en": "Do Less, Better",
+          "bn": "কম করা, কিন্তু ভালো করা"
         },
         "content": {
-          "en": "প্রশান্তি চাইলে কাজের পরিমাণ কমাতে হবে। বেশি কাজ মানেই বেশি উৎপাদনশীলতা নয়; বরং এটি বার্নআউট ডেকে আনে।",
-          "bn": "প্রশান্তি চাইলে কাজের পরিমাণ কমাতে হবে। বেশি কাজ মানেই বেশি উৎপাদনশীলতা নয়; বরং এটি বার্নআউট ডেকে আনে।"
+          "en": "Tranquility comes from doing fewer things but doing them with higher quality and focus. High quantity often leads to burnout and mediocrity.",
+          "bn": "প্রশান্তি বেশি কাজের মাঝে নেই, বরং অল্প কিছু কাজ অত্যন্ত মনোযোগের সাথে করার মাঝে আছে। রাশি রাশি কাজ আপনাকে ক্লান্ত করবে এবং কাজের মান কমিয়ে দেবে।"
         }
       },
       {
         "title": {
-          "en": "প্রশ্ন করা",
-          "bn": "প্রশ্ন করা"
+          "en": "The Necessary Question",
+          "bn": "প্রয়োজনীয়তার প্রশ্ন"
         },
         "content": {
-          "en": "প্রতিটি কাজের আগে নিজেকে প্রশ্ন করুন—\"এটি কি প্রয়োজনীয়?\" উত্তর \"না\" হলে নির্দ্বিধায় বাদ দিন।",
-          "bn": "প্রতিটি কাজের আগে নিজেকে প্রশ্ন করুন—\"এটি কি প্রয়োজনীয়?\" উত্তর \"না\" হলে নির্দ্বিধায় বাদ দিন।"
+          "en": "Most of what we say and do is not essential. Eliminate the non-essential to gain more time for what truly matters.",
+          "bn": "আমাদের প্রাত্যহিক কথা ও কাজের অধিকাংশটাই অপ্রয়োজনীয়। এই অপ্রয়োজনীয় অংশটুকু ছেঁটে ফেললে আপনি আপনার প্রিয় কাজের জন্য আরও বেশি সময় পাবেন।"
         }
       },
       {
         "title": {
-          "en": "চক্র ভাঙা",
-          "bn": "চক্র ভাঙা"
+          "en": "Breaking the Busy Trap",
+          "bn": "ব্যস্ততার ফাঁদ"
         },
         "content": {
-          "en": "আমরা ব্যস্ত থাকার নেশায় পড়ে যাই। এই ব্যস্ততার চক্র ভেঙে প্রয়োজনীয় কাজগুলো বেছে নেওয়া জরুরি।",
-          "bn": "আমরা ব্যস্ত থাকার নেশায় পড়ে যাই। এই ব্যস্ততার চক্র ভেঙে প্রয়োজনীয় কাজগুলো বেছে নেওয়া জরুরি।"
+          "en": "Being 'busy' is often a form of laziness—lazy thinking. True productivity is about choosing the right things to work on.",
+          "bn": "অহেতুক 'ব্যস্ত থাকার' নাম কাজ নয়; এটি অনেক সময় অলস মস্তিস্কের পরিচয়। সঠিক কাজ বেছে নেওয়ার সাহস থাকাই হলো প্রকৃত উৎপাদনশীলতা।"
         }
       },
       {
         "title": {
-          "en": "ফোকাস",
-          "bn": "ফোকাস"
+          "en": "Depth over Breadth",
+          "bn": "গোপন সার্থকতা"
         },
         "content": {
-          "en": "১০টি কাজ আধাখেঁচড়া করার চেয়ে ১টি কাজ নিখুঁতভাবে করা অনেক বেশি তৃপ্তিদায়ক।",
-          "bn": "১০টি কাজ আধাখেঁচড়া করার চেয়ে ১টি কাজ নিখুঁতভাবে করা অনেক বেশি তৃপ্তিদায়ক।"
+          "en": "Doing one thing perfectly is more satisfying than doing ten things halfway. Mastery requires narrowing your focus.",
+          "bn": "দশটি কাজ অর্ধেক করে ফেলে রাখার চেয়ে একটি কাজ নিখুঁতভাবে শেষ করা অনেক বেশি তৃপ্তিদায়ক।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আপনার টু-ডু লিস্ট (To-Do List) থেকে নিচের দিকের ৩টি কাজ কেটে দিন। নিজেকে অনুমতি দিন \"কিছু না করার\"। সপ্তাহে অন্তত একটি সন্ধ্যা রাখুন যেখানে কোনো কাজ বা প্ল্যান থাকবে না।",
-      "bn": "আপনার টু-ডু লিস্ট (To-Do List) থেকে নিচের দিকের ৩টি কাজ কেটে দিন। নিজেকে অনুমতি দিন \"কিছু না করার\"। সপ্তাহে অন্তত একটি সন্ধ্যা রাখুন যেখানে কোনো কাজ বা প্ল্যান থাকবে না।"
+      "en": "Cut the bottom three items from your To-Do list today. Give yourself permission to do nothing for a while. Schedule at least one evening this week with no plans or chores.",
+      "bn": "আজ আপনার কাজের তালিকা থেকে নিচের ৩টি কাজ কেটে দিন। নিজেকে কিছুটা সময় 'ছুটি' দিন। এই সপ্তাহে অন্তত একটি সন্ধ্যা রাখুন যেখানে আপনার কোনো পূর্বপরিকল্পিত কাজ থাকবে না।"
     },
     "criticalReflection": {
-      "en": "\"কম কাজ করা\" প্রায়শই অর্থনৈতিক নিরাপত্তা আছে এমন ব্যক্তিদের বিলাসিতা। যিনি বেঁচে থাকার জন্য তিনটি চাকরি করছেন, তার জন্য এই উপদেশ অবাস্তব। তবে, মানসিক বিশৃঙ্খলা এবং অপ্রয়োজনীয় সামাজিক বাধ্যবাধকতার ক্ষেত্রে এটি সবার জন্যই প্রযোজ্য।",
-      "bn": "\"কম কাজ করা\" প্রায়শই অর্থনৈতিক নিরাপত্তা আছে এমন ব্যক্তিদের বিলাসিতা। যিনি বেঁচে থাকার জন্য তিনটি চাকরি করছেন, তার জন্য এই উপদেশ অবাস্তব। তবে, মানসিক বিশৃঙ্খলা এবং অপ্রয়োজনীয় সামাজিক বাধ্যবাধকতার ক্ষেত্রে এটি সবার জন্যই প্রযোজ্য।"
+      "en": "'Do less' is often a luxury for those with economic security. Someone working three jobs to survive doesn't have the luxury to 'do less.' However, even in such cases, reducing mental clutter is universally applicable.",
+      "bn": "যাদের আর্থিক নিরাপত্তা আছে, তাদের জন্য 'কাজ কমানো' সহজ হতে পারে। কিন্তু যারা টিকে থাকার লড়াই করছেন তাদের জন্য এটি বিলাসিতা। তবুও, মানসিক অস্থিরতা বা সামাজিক লোক দেখানোর কাজগুলো কমানোর সুযোগ সবারই থাকে।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "মানসিক চাপ কম এবং কাজের মান উন্নয়ন।",
-        "bn": "মানসিক চাপ কম এবং কাজের মান উন্নয়ন।"
+        "en": "Reduced stress and higher quality of work.",
+        "bn": "মানসিক চাপ কমবে এবং কাজের গুণমান বাড়বে।"
       },
       "social": {
-        "en": "জীবনের একটি ধীর এবং আরও চিন্তাশীল গতি।",
-        "bn": "জীবনের একটি ধীর এবং আরও চিন্তাশীল গতি।"
+        "en": "A slower, more intentional pace of life.",
+        "bn": "সামষ্টিকভাবে জীবনের এক ধীর ও অর্থবহ গতি তৈরি হবে।"
       }
     }
   },
@@ -6223,92 +6003,92 @@ export const chapters: Chapter[] = [
     "id": 64,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "The Habit of Completion",
-      "bn": "The Habit of Completion"
+      "bn": "কাজ শেষ করার অভ্যাস"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "In life, sometimes it’s more important that you see your plans through until the end than to have the perfect plan.",
-          "bn": "In life, sometimes it’s more important that you see your plans through until the end than to have the perfect plan."
+          "bn": "জীবনে অনেক সময় নিখুঁত পরিকল্পনার চেয়ে পরিকল্পনাটি শেষ পর্যন্ত বাস্তবায়ন করা অনেক বেশি জরুরি।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "If you do what you say, you become reliable.",
-          "bn": "If you do what you say, you become reliable."
+          "bn": "যদি আপনি যা বলেন তা ঠিকমতো করেন, তবেই আপনি বিশ্বাসযোগ্য হয়ে উঠবেন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "শেষ করার গুরুত্ব",
+          "en": "The Value of Finishing",
           "bn": "শেষ করার গুরুত্ব"
         },
         "content": {
-          "en": "পরিকল্পনা নিখুঁত হওয়ার চেয়েও জরুরি হলো শুরু করা কাজ শেষ করা। অর্ধেক করা ১০টি কাজের চেয়ে ১টি সম্পূর্ণ কাজ ভালো।",
-          "bn": "পরিকল্পনা নিখুঁত হওয়ার চেয়েও জরুরি হলো শুরু করা কাজ শেষ করা। অর্ধেক করা ১০টি কাজের চেয়ে ১টি সম্পূর্ণ কাজ ভালো।"
+          "en": "Starting is easy, but finishing is where the value is. Ten halfway done projects are worth less than one completed task.",
+          "bn": "যেকোনো কাজ শুরু করা সহজ, কিন্তু শেষ করাটাই হলো আসল পরীক্ষা। অর্ধেক করা দশটি কাজের চেয়ে একটি সম্পূর্ণ করা কাজ অনেক বেশি মূল্যবান।"
         }
       },
       {
         "title": {
-          "en": "নির্ভরযোগ্যতা",
+          "en": "Reliability",
           "bn": "নির্ভরযোগ্যতা"
         },
         "content": {
-          "en": "আপনি যখন কথা রাখেন এবং কাজ শেষ করেন, তখন নিজের ওপর এবং অন্যের কাছে আপনার বিশ্বাসযোগ্যতা বাড়ে।",
-          "bn": "আপনি যখন কথা রাখেন এবং কাজ শেষ করেন, তখন নিজের ওপর এবং অন্যের কাছে আপনার বিশ্বাসযোগ্যতা বাড়ে।"
+          "en": "When you follow through on your commitments, you build trust with others and, more importantly, with yourself.",
+          "bn": "আপনি যখন আপনার প্রতিশ্রুতি রক্ষা করেন এবং কাজ শেষ করেন, তখন অন্যের কাছে যেমন আপনার বিশ্বাস বাড়ে তেমনি নিজের ওপরও আত্মবিশ্বাস বাড়ে।"
         }
       },
       {
         "title": {
-          "en": "ত্যাগ করার প্রবণতা",
-          "bn": "ত্যাগ করার প্রবণতা"
+          "en": "The Quitting Habit",
+          "bn": "ছেড়ে দেওয়ার প্রবণতা"
         },
         "content": {
-          "en": "কোনো কাজ কঠিন মনে হলেই ছেড়ে দেওয়া একটি বদভ্যাস। এটি আত্মবিশ্বাস নষ্ট করে।",
-          "bn": "কোনো কাজ কঠিন মনে হলেই ছেড়ে দেওয়া একটি বদভ্যাস। এটি আত্মবিশ্বাস নষ্ট করে।"
+          "en": "Giving up as soon as a task gets difficult is a destructive habit. It erodes your self-efficacy and belief in your abilities.",
+          "bn": "কাজ কঠিন মনে হলেই তা ছেড়ে দেওয়া একটি ভয়ানক বদভ্যাস। এটি ধীরে ধীরে আপনার নিজের ক্ষমতার ওপর আপনার বিশ্বাস কমিয়ে দেয়।"
         }
       },
       {
         "title": {
-          "en": "সিদ্ধান্তে অটল",
+          "en": "Firm Resolution",
           "bn": "সিদ্ধান্তে অটল"
         },
         "content": {
-          "en": "স্টয়িকরা একবার সিদ্ধান্ত নিলে বাইরের প্রভাবে তা বদলাতেন না। এই দৃঢ়তাই চরিত্র গঠন করে।",
-          "bn": "স্টয়িকরা একবার সিদ্ধান্ত নিলে বাইরের প্রভাবে তা বদলাতেন না। এই দৃঢ়তাই চরিত্র গঠন করে।"
+          "en": "Stoics believed in sticking to a decision once made, unless new facts demanded a change. This firmness builds character.",
+          "bn": "স্টয়িকরা কোনো সিদ্ধান্ত নিলে বাইরের প্রভাবে তা সহজে বদলাতেন না। এই দৃঢ়তাই একজন মানুষের চরিত্র গঠন করে।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আপনার এমন একটি প্রজেক্ট বা বই খুঁজে বের করুন যা আপনি অর্ধেক করে রেখে দিয়েছেন। আজ প্রতিজ্ঞা করুন, আগামী ৭ দিনের মধ্যে এটি শেষ করবেন। ছোট হলেও কোনো কাজ \"সম্পূর্ণ\" করার স্বাদ নিন।",
-      "bn": "আপনার এমন একটি প্রজেক্ট বা বই খুঁজে বের করুন যা আপনি অর্ধেক করে রেখে দিয়েছেন। আজ প্রতিজ্ঞা করুন, আগামী ৭ দিনের মধ্যে এটি শেষ করবেন। ছোট হলেও কোনো কাজ \"সম্পূর্ণ\" করার স্বাদ নিন।"
+      "en": "Find a project or book you've left halfway. Commit to finishing it within the next 7 days. Experience the internal switch that happens when you finally close a loop.",
+      "bn": "আপনার এমন একটি প্রজেক্ট বা বই খুঁজে বের করুন যা আপনি অর্ধেক করে ফেলে রেখেছেন। আগামী ৭ দিনের মধ্যে সেটি শেষ করার প্রতিজ্ঞা করুন। কোনো কাজ সম্পূর্ণ করার স্বাদ নিয়ে দেখুন।"
     },
     "criticalReflection": {
-      "en": "অধ্যবসায় একটি গুণ, কিন্তু \"Sunk Cost Fallacy\" একটি ঝুঁকি। কখনও কখনও কাজ ছেড়ে দেওয়াটাই স্মার্ট সিদ্ধান্ত যদি লক্ষ্যটি আর নিজের মূল্যবোধ বা বাস্তবতার সাথে সামঞ্জস্যপূর্ণ না হয়। অন্ধভাবে সবকিছু শেষ করার জেদ অযোগ্য কাজের পেছনে সময় নষ্টের কারণ হতে পারে।",
-      "bn": "অধ্যবসায় একটি গুণ, কিন্তু \"Sunk Cost Fallacy\" একটি ঝুঁকি। কখনও কখনও কাজ ছেড়ে দেওয়াটাই স্মার্ট সিদ্ধান্ত যদি লক্ষ্যটি আর নিজের মূল্যবোধ বা বাস্তবতার সাথে সামঞ্জস্যপূর্ণ না হয়। অন্ধভাবে সবকিছু শেষ করার জেদ অযোগ্য কাজের পেছনে সময় নষ্টের কারণ হতে পারে।"
+      "en": "Persistence is a virtue, but the 'Sunk Cost Fallacy' is a risk. Sometimes quitting is the smartest decision if a goal no longer aligns with your values or reality. Wisdom is knowing when to stay and when to pivot.",
+      "bn": "অধ্যবসায় নিঃসন্দেহে ভালো গুণ, তবে যে কাজ কোনো সুফল দেবে না সেখানে পড়ে থাকা বোকামো। কখনও কখনও কোনো কাজ ছেড়ে দেওয়াটাই বুদ্ধিমানের কাজ যদি তা আর আপনার জীবনের লক্ষ্যের সাথে না মেলে।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "সাফল্যের ট্র্যাক রেকর্ড এবং উচ্চ আত্ম-কার্যকারিতা (Self-efficacy)।",
-        "bn": "সাফল্যের ট্র্যাক রেকর্ড এবং উচ্চ আত্ম-কার্যকারিতা (Self-efficacy)।"
+        "en": "A track record of success and high self-efficacy.",
+        "bn": "সাফল্যের এক চমৎকার রেকর্ড তৈরি হবে এবং নিজের প্রতি আত্মবিশ্বাস বাড়বে।"
       },
       "social": {
-        "en": "পেশাগত নেটওয়ার্কে বিশ্বাস এবং নির্ভরতা বৃদ্ধি।",
-        "bn": "পেশাগত নেটওয়ার্কে বিশ্বাস এবং নির্ভরতা বৃদ্ধি।"
+        "en": "Increased trust and dependability in professional and personal networks.",
+        "bn": "পেশাগত ও ব্যক্তিগত জীবনে সবার কাছে আপনার নির্ভরযোগ্যতা বৃদ্ধি পাবে।"
       }
     }
   },
@@ -6316,92 +6096,92 @@ export const chapters: Chapter[] = [
     "id": 65,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Action is Destiny",
-      "bn": "Action is Destiny"
+      "bn": "কাজই ভাগ্য নির্ধারণ করে"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "By changing your actions today, you can shape your tomorrow.",
-          "bn": "By changing your actions today, you can shape your tomorrow."
+          "bn": "আজকের কাজ পরিবর্তনের মাধ্যমে আপনি আপনার আগামীর ভাগ্য পরিবর্তন করতে পারেন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Instead of getting frustrated... look at how you feel at the end of the day.",
-          "bn": "Instead of getting frustrated... look at how you feel at the end of the day."
+          "bn": "হতাশ না হয়ে বরং খেয়াল করুন যে দিন শেষে আপনি কেমন অনুভব করছেন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "বর্তমানের শক্তি",
+          "en": "The Power of Today",
           "bn": "বর্তমানের শক্তি"
         },
         "content": {
-          "en": "ভবিষ্যৎ নিয়ে দুশ্চিন্তা না করে আজকের কাজের ওপর ফোকাস করলে ভবিষ্যৎ এমনিতেই সুন্দর হবে।",
-          "bn": "ভবিষ্যৎ নিয়ে দুশ্চিন্তা না করে আজকের কাজের ওপর ফোকাস করলে ভবিষ্যৎ এমনিতেই সুন্দর হবে।"
+          "en": "Future worries are useless. Focus on today's tasks and the future will take care of itself.",
+          "bn": "ভবিষ্যৎ নিয়ে দুশ্চিন্তা করা বৃথা। বদলে আজকের কাজের ওপর মনোযোগ দিলে ভবিষ্যৎ এমনিতেই সুন্দর হয়ে উঠবে।"
         }
       },
       {
         "title": {
-          "en": "স্থবিরতা",
+          "en": "Stagnation",
           "bn": "স্থবিরতা"
         },
         "content": {
-          "en": "যদি দেখেন গত এক বছরে আপনার কোনো মানসিক বা শারীরিক উন্নতি হয়নি, তবে বুঝবেন আপনি স্থবির হয়ে আছেন। এটি পরিবর্তনের সংকেত।",
-          "bn": "যদি দেখেন গত এক বছরে আপনার কোনো মানসিক বা শারীরিক উন্নতি হয়নি, তবে বুঝবেন আপনি স্থবির হয়ে আছেন। এটি পরিবর্তনের সংকেত।"
+          "en": "If you see no mental or physical progress in the past year, you are stagnant. This is a signal for change.",
+          "bn": "যদি গত এক বছরে নিজের কোনো শারীরিক বা মানসিক উন্নতি না দেখেন, তবে বুঝবেন আপনি থমকে আছেন। এটা আপনার পরিবর্তনের ইঙ্গিত।"
         }
       },
       {
         "title": {
-          "en": "পরিশ্রমের তৃপ্তি",
+          "en": "Satisfaction of Effort",
           "bn": "পরিশ্রমের তৃপ্তি"
         },
         "content": {
-          "en": "দিন শেষে শরীর ও মন ক্লান্ত হলে বুঝবেন আপনি সঠিক পথে আছেন। অলস দিন যাপন কোনো গর্বের বিষয় নয়।",
-          "bn": "দিন শেষে শরীর ও মন ক্লান্ত হলে বুঝবেন আপনি সঠিক পথে আছেন। অলস দিন যাপন কোনো গর্বের বিষয় নয়।"
+          "en": "A tired body and mind at the end of a productive day is a sign that you are on the right path. Laziness is not a badge of honor.",
+          "bn": "দিন শেষে পরিশ্রমের ফলে শরীর ও মন ক্লান্ত হলে বুঝবেন আপনি সঠিক পথেই আছেন। অলস জীবন যাপন করার মাঝে কোনো গৌরব নেই।"
         }
       },
       {
         "title": {
-          "en": "প্রতিদিনের অভ্যাস",
+          "en": "Daily Habit",
           "bn": "প্রতিদিনের অভ্যাস"
         },
         "content": {
-          "en": "প্রতিদিন বই পড়া বা ব্যায়াম করার মতো ছোট কাজগুলোই দীর্ঘমেয়াদে বড় পরিবর্তন আনে।",
-          "bn": "প্রতিদিন বই পড়া বা ব্যায়াম করার মতো ছোট কাজগুলোই দীর্ঘমেয়াদে বড় পরিবর্তন আনে।"
+          "en": "Small daily acts like reading or exercising create massive long-term transformations.",
+          "bn": "প্রতিদিন বই পড়া বা ব্যায়াম করার মতো ছোট ছোট অভ্যাসগুলোই দীর্ঘমেয়াদে বড় ধরনের পরিবর্তন আনে।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আজ রাতে ঘুমানোর আগে নিজেকে রেটিং দিন (১-১০)। প্রশ্ন করুন: \"আজ আমি আমার ভবিষ্যতের জন্য কতটুকু কাজ করেছি?\" যদি স্কোর কম হয়, তবে আগামীকাল ১ ঘণ্টা বেশি ফোকাসড কাজ করার প্ল্যান করুন।",
-      "bn": "আজ রাতে ঘুমানোর আগে নিজেকে রেটিং দিন (১-১০)। প্রশ্ন করুন: \"আজ আমি আমার ভবিষ্যতের জন্য কতটুকু কাজ করেছি?\" যদি স্কোর কম হয়, তবে আগামীকাল ১ ঘণ্টা বেশি ফোকাসড কাজ করার প্ল্যান করুন।"
+      "en": "Before sleeping tonight, rate your day (1-10). Ask: 'How much did I work for my future today?' If the score is low, plan one hour of focused work for tomorrow.",
+      "bn": "আজ রাতে ঘুমানোর আগে নিজেকে ১ থেকে ১০ এর মধ্যে রেটিং দিন। নিজেকে প্রশ্ন করুন, 'আমি আজ আমার আগামীর জন্য কতুটুক কাজ করেছি?' যদি উত্তর সন্তোষজনক না হয়, তবে অন্তত এক ঘণ্টার জন্য হলেও কাল বাড়তি কাজ করার পরিকল্পনা করুন।"
     },
     "criticalReflection": {
-      "en": "প্রতিদিনের ক্লান্তির সাথে \"সঠিকতা\"-কে যুক্ত করাটি কঠোর পরিশ্রমকে মহিমান্বিত করে। কেউ কোনো প্রকৃত অগ্রগতি ছাড়াই ব্যস্ততার কারণে ক্লান্ত হতে পারে। কেবল কঠোর পরিশ্রম নয়, কৌশলগত কাজই ভবিষ্যৎ গড়ে তোলে।",
-      "bn": "প্রতিদিনের ক্লান্তির সাথে \"সঠিকতা\"-কে যুক্ত করাটি কঠোর পরিশ্রমকে মহিমান্বিত করে। কেউ কোনো প্রকৃত অগ্রগতি ছাড়াই ব্যস্ততার কারণে ক্লান্ত হতে পারে। কেবল কঠোর পরিশ্রম নয়, কৌশলগত কাজই ভবিষ্যৎ গড়ে তোলে।"
+      "en": "Linking fatigue with 'correctness' glorifies hustle culture. One can be exhausted from 'busy work' without making any real progress. Strategy, not just hard work, shapes destiny.",
+      "bn": "ক্লান্তির সাথে সঠিক পথকে গুলিয়ে ফেলা অনেক সময় ভুল হতে পারে। কেউ আসল উন্নতি ছাড়াই অহেতুক ব্যস্ততার জন্য ক্লান্ত হতে পারেন। কেবল কঠোর পরিশ্রম নয়, বরং সঠিক পরিকল্পনা এবং কৌশলী কাজই প্রকৃত ভাগ্য গড়ে দেয়।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "কর্তৃত্ববোধ (Sense of agency) এবং অজানা সম্পর্কে উদ্বেগ হ্রাস।",
-        "bn": "কর্তৃত্ববোধ (Sense of agency) এবং অজানা সম্পর্কে উদ্বেগ হ্রাস।"
+        "en": "A sense of agency and reduced anxiety about the unknown.",
+        "bn": "নিজের জীবনের ওপর নিজের নিয়ন্ত্রণ বাড়বে এবং অজানা সম্পর্কে ভয় কমবে।"
       },
       "social": {
-        "en": "একটি প্র্যাক্টিভ এবং দূরদর্শী নাগরিক সমাজ।",
-        "bn": "একটি প্র্যাক্টিভ এবং দূরদর্শী নাগরিক সমাজ।"
+        "en": "A proactive and far-sighted citizenry.",
+        "bn": "সমাজে এক প্র্যাক্টিভ এবং দূরদর্শী সচেতন নাগরিক সমাজ গড়ে উঠবে।"
       }
     }
   },
@@ -6409,122 +6189,82 @@ export const chapters: Chapter[] = [
     "id": 66,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
-      "en": "The Paradox of Social Validation (Intro)",
-      "bn": "The Paradox of Social Validation (Intro)"
+      "en": "The Paradox of Social Validation",
+      "bn": "সামাজিক অনুকূলতার বিভ্রম"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.",
-          "bn": "It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own."
+          "bn": "আমি অবাক হই এটা দেখে যে: আমরা প্রত্যেকেই নিজেকে অন্য সবার চেয়ে বেশি ভালোবাসি, কিন্তু নিজের মতামতের চেয়ে অন্যের মতামতের বেশি গুরুত্ব দেই।"
         },
         "author": {
-          "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "en": "Marcus Aurelius",
+          "bn": "মার্কাস অরেলিয়াস"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "আত্মপ্রেম বনাম অনুমোদন",
+          "en": "Self-Love vs. Validation",
           "bn": "আত্মপ্রেম বনাম অনুমোদন"
         },
         "content": {
-          "en": "আমরা নিজেকে সবচেয়ে বেশি ভালোবাসি, অথচ অন্যের মতামতের ওপর ভিত্তি করে নিজের জীবন চালাই। এটি একটি অদ্ভুত বৈপরীত্য।",
-          "bn": "আমরা নিজেকে সবচেয়ে বেশি ভালোবাসি, অথচ অন্যের মতামতের ওপর ভিত্তি করে নিজের জীবন চালাই। এটি একটি অদ্ভুত বৈপরীত্য।"
+          "en": "We are our own greatest companions, yet we live our lives based on the opinions of strangers. This contradiction is a major source of misery.",
+          "bn": "আমরা নিজেদের সবচেয়ে কাছের মানুষ হয়েও আমাদের জীবনের বড় বড় সিদ্ধান্তগুলো নিই অন্যের মতামতের ওপর ভিত্তি করে। এই অসামঞ্জস্যতাই আমাদের মানসিক দুঃখের প্রধান কারণ।"
         }
       },
       {
         "title": {
-          "en": "নিজের মূল্যে বিশ্বাস",
-          "bn": "নিজের মূল্যে বিশ্বাস"
+          "en": "Internal Worth",
+          "bn": "অন্তর্নিহিত মূল্য"
         },
         "content": {
-          "en": "অন্যের প্রশংসার চেয়ে নিজের আত্মসম্মানবোধ বেশি জরুরি।",
-          "bn": "অন্যের প্রশংসার চেয়ে নিজের আত্মসম্মানবোধ বেশি জরুরি।"
+          "en": "Your value doesn't increase with a compliment or decrease with a criticism. You are who you are.",
+          "bn": "কারো প্রশংসায় আপনার মূল্য বেড়ে যায় না, আবার কারো সমালোচনায় আপনার মূল্য কমে যায় না। আপনি যেমন আছেন, তেমনই মূল্যবান।"
         }
       },
       {
         "title": {
-          "en": "Chapter 67",
-          "bn": "Chapter 67"
+          "en": "The Illusion of Fame",
+          "bn": "খ্যাতির মরীচিকা"
         },
         "content": {
-          "en": "Letter 55: On The Liberation of Keeping Things to Yourself",
-          "bn": "Letter 55: On The Liberation of Keeping Things to Yourself"
+          "en": "Seeking validation from the masses is like building a house on shifting sand. True stability comes from internal approval.",
+          "bn": "মানুষের কাছ থেকে বাহবা পাওয়ার চেষ্টা হলো বালির ওপর ঘর বাঁধার মতো। প্রকৃত মানসিক স্থিরতা কেবল নিজের মনের অনুমোদন থেকেই আসে।"
         }
       },
       {
         "title": {
-          "en": "1. Chapter Title",
-          "bn": "1. Chapter Title"
+          "en": "Freedom from Comparison",
+          "bn": "তুলনা থেকে মুক্তি"
         },
         "content": {
-          "en": "The Quiet Life",
-          "bn": "The Quiet Life"
-        }
-      },
-      {
-        "title": {
-          "en": "গোপনীয়তার শক্তি",
-          "bn": "গোপনীয়তার শক্তি"
-        },
-        "content": {
-          "en": "নিজের দর্শন বা জীবনধারা নিয়ে বড়াই করার প্রয়োজন নেই। নীরবে নিজের মতো বাঁচাই হলো প্রকৃত স্বাধীনতা।",
-          "bn": "নিজের দর্শন বা জীবনধারা নিয়ে বড়াই করার প্রয়োজন নেই। নীরবে নিজের মতো বাঁচাই হলো প্রকৃত স্বাধীনতা।"
-        }
-      },
-      {
-        "title": {
-          "en": "অন্যকে মেনে নেওয়া",
-          "bn": "অন্যকে মেনে নেওয়া"
-        },
-        "content": {
-          "en": "মানুষকে বদলানোর চেষ্টা না করে, তারা যেমন আছে তেমনভাবেই গ্রহণ করা উচিত।",
-          "bn": "মানুষকে বদলানোর চেষ্টা না করে, তারা যেমন আছে তেমনভাবেই গ্রহণ করা উচিত।"
-        }
-      },
-      {
-        "title": {
-          "en": "তর্ক এড়ানো",
-          "bn": "তর্ক এড়ানো"
-        },
-        "content": {
-          "en": "রাজনীতি বা ধর্ম নিয়ে তর্ক করে কারো মত বদলানো যায় না, কেবল সম্পর্ক নষ্ট হয়।",
-          "bn": "রাজনীতি বা ধর্ম নিয়ে তর্ক করে কারো মত বদলানো যায় না, কেবল সম্পর্ক নষ্ট হয়।"
-        }
-      },
-      {
-        "title": {
-          "en": "নিজের মধ্যে বাস",
-          "bn": "নিজের মধ্যে বাস"
-        },
-        "content": {
-          "en": "স্টয়িকরা পরামর্শ দেন বাইরের কোলাহল থেকে নিজেকে গুটিয়ে নিজের অন্তর্জগতে বাস করতে।",
-          "bn": "স্টয়িকরা পরামর্শ দেন বাইরের কোলাহল থেকে নিজেকে গুটিয়ে নিজের অন্তর্জগতে বাস করতে।"
+          "en": "When you stop looking at how others are judging you, you gain the freedom to live according to your own nature.",
+          "bn": "যখন আপনি এই চিন্তা করা বন্ধ করবেন যে অন্যেরা আপনাকে কী ভাবছে, কেবল তখনই আপনি মন খুলে নিজের মতো বাঁচার স্বাধীনতা পাবেন।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "",
-      "bn": ""
+      "en": "For the next 24 hours, do not post anything on social media and do not check your likes. Do something you love purely for the joy of it, not to tell anyone about it.",
+      "bn": "আগামী ২৪ ঘণ্টা সামাজিক যোগাযোগ মাধ্যমে কিছু পোস্ট করবেন না এবং কারো লাইক বা কমেন্ট চেক করবেন না। কেবল নিজের আনন্দের জন্য কোনো একটি কাজ করুন যা আপনি ভীষণ ভালোবাসেন।"
     },
     "criticalReflection": {
-      "en": "",
-      "bn": ""
+      "en": "Social validation is a biological drive; humans are social animals. Completely ignoring others' opinions can lead to social isolation or a lack of self-awareness. The goal is independence, not arrogance.",
+      "bn": "মানুষ সামাজিক জীব হওয়ায় অন্যের মতামত উপেক্ষা করা কঠিন। একদম কারো কথা না শুনলে মানুষ সমাজবিচ্যুত বা দাম্ভিক হয়ে উঠতে পারে। লক্ষ্য হওয়া উচিত নিজের ওপর নিয়ন্ত্রণ রাখা, অহংকার করা নয়।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "",
-        "bn": ""
+        "en": "Emotional stability and reduced anxiety.",
+        "bn": "মানসিক স্থিরতা আসবে এবং অহেতুক দুশ্চিন্তা কমবে।"
       },
       "social": {
-        "en": "",
-        "bn": ""
+        "en": "A more authentic community where people lead by conviction, not by popularity.",
+        "bn": "সমাজে জনপ্রিয়তার চেয়ে যোগ্যতাকে বেশি প্রাধান্য দেওয়া হবে এবং মানুষ আরও স্বচ্ছ হবে।"
       }
     }
   },
@@ -6622,95 +6362,178 @@ export const chapters: Chapter[] = [
     }
   },
   {
-    "id": 68,
+    "id": 67,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
-      "en": "The Mirror of Faults",
-      "bn": "The Mirror of Faults"
+      "en": "The Quiet Life",
+      "bn": "নিভৃত জীবন"
     },
     "goldenQuotes": [
       {
         "quote": {
-          "en": "When faced with people’s bad behavior, turn around and ask when you have acted like that.",
-          "bn": "When faced with people’s bad behavior, turn around and ask when you have acted like that."
+          "en": "The more things you have to worry about, the less freedom you have.",
+          "bn": "যত বেশি বিষয় নিয়ে আপনি উদ্বিগ্ন হবেন, আপনার স্বাধীনতা ততই কমে যাবে।"
         },
         "author": {
-          "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
-        }
-      },
-      {
-        "quote": {
-          "en": "Have you noticed how we’re often quick to judge others... but don’t look at ourselves with that same critical eye?",
-          "bn": "Have you noticed how we’re often quick to judge others... but don’t look at ourselves with that same critical eye?"
-        },
-        "author": {
-          "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "en": "Seneca",
+          "bn": "সেনেকা"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "আয়না দেখা",
-          "bn": "আয়না দেখা"
+          "en": "The Power of Privacy",
+          "bn": "গোপনীয়তার শক্তি"
         },
         "content": {
-          "en": "অন্যের খারাপ ব্যবহার দেখে রাগ না করে ভাবুন, \"আমিও কি কখনো এমন করেছি?\" এটি রাগ কমিয়ে সহমর্মিতা বাড়ায়।",
-          "bn": "অন্যের খারাপ ব্যবহার দেখে রাগ না করে ভাবুন, \"আমিও কি কখনো এমন করেছি?\" এটি রাগ কমিয়ে সহমর্মিতা বাড়ায়।"
+          "en": "There is no need to boast about your philosophy or lifestyle. Living quietly and on your own terms is true liberation.",
+          "bn": "নিজের জীবনধারা বা দর্শন নিয়ে বড়াই করার কোনো প্রয়োজন নেই। নিজের মতো করে নিরিবিলিতে বাঁচাই হলো প্রকৃত মুক্তি।"
         }
       },
       {
         "title": {
-          "en": "বিচার না করা",
-          "bn": "বিচার না করা"
+          "en": "Accepting Others",
+          "bn": "অন্যকে গ্রহণ করা"
         },
         "content": {
-          "en": "আমরা অন্যের ভুল দেখি কিন্তু নিজের ভুল দেখি না। এই দ্বিচারিতা ত্যাগ করতে হবে।",
-          "bn": "আমরা অন্যের ভুল দেখি কিন্তু নিজের ভুল দেখি না। এই দ্বিচারিতা ত্যাগ করতে হবে।"
+          "en": "Instead of trying to change people, accept them as they are. This preserves your inner peace.",
+          "bn": "মানুষকে বদলানোর বৃথা চেষ্টা না করে তারা যেমন আছে তেমনভাবে তাদের গ্রহণ করুন। এটি আপনার মানসিক প্রশান্তি বজায় রাখবে।"
         }
       },
       {
         "title": {
-          "en": "শালীনতা",
-          "bn": "শালীনতা"
+          "en": "Avoiding Conflict",
+          "bn": "তর্ক এড়ানো"
         },
         "content": {
-          "en": "অন্যের উগ্র আচরণের জবাবে শান্ত ও ভদ্র থাকা হলো শক্তির পরিচয়। মায়ের উদাহরণ দিয়ে লেখক এটি বুঝিয়েছেন।",
-          "bn": "অন্যের উগ্র আচরণের জবাবে শান্ত ও ভদ্র থাকা হলো শক্তির পরিচয়। মায়ের উদাহরণ দিয়ে লেখক এটি বুঝিয়েছেন।"
+          "en": "Arguing over politics or religion rarely changes minds but often ruins relationships. Choose peace over being right.",
+          "bn": "রাজনীতি বা ধর্ম নিয়ে তর্কে জড়ালে কারো মত পরিবর্তন হয় না, উল্টো সম্পর্ক নষ্ট হয়। তর্কে জেতার চেয়ে শান্ত থাকাকেই প্রাধান্য দিন।"
         }
       },
       {
         "title": {
-          "en": "শিক্ষা গ্রহণ",
-          "bn": "শিক্ষা গ্রহণ"
+          "en": "Living Within",
+          "bn": "নিজের মাঝে বাস"
         },
         "content": {
-          "en": "প্রতিটি খারাপ মানুষ আমাদের জন্য একটি শিক্ষার সুযোগ—\"আমি যেন এমন না হই।\"",
-          "bn": "প্রতিটি খারাপ মানুষ আমাদের জন্য একটি শিক্ষার সুযোগ—\"আমি যেন এমন না হই।\""
+          "en": "Stoics suggest retreating into your inner world when the outer world becomes too loud. Your mind is your ultimate sanctuary.",
+          "bn": "বাইরের পৃথিবী যখন খুব কোলাহলময় হয়ে ওঠে, তখন নিজের অন্তর্জগতে ফিরে আসুন। আপনার মনই হলো আপনার প্রধান আশ্রয়স্থল।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "যখন কেউ আপনার সাথে খারাপ ব্যবহার করবে, তখন তাকে \"শিক্ষক\" হিসেবে দেখুন। মনে মনে বলুন, \"ধন্যবাদ আমাকে দেখানোর জন্য যে, মেজাজ হারালে মানুষকে কতটা কুৎসিত দেখায়। আমি এমন হব না।\"",
-      "bn": "যখন কেউ আপনার সাথে খারাপ ব্যবহার করবে, তখন তাকে \"শিক্ষক\" হিসেবে দেখুন। মনে মনে বলুন, \"ধন্যবাদ আমাকে দেখানোর জন্য যে, মেজাজ হারালে মানুষকে কতটা কুৎসিত দেখায়। আমি এমন হব না।\""
+      "en": "For the next 24 hours, do not offer an opinion or advice unless someone specifically asks. If someone says something wrong, just smile and stay silent.",
+      "bn": "আগামী ২৪ ঘণ্টা আপনার কোনো মতামত বা উপদেশ কাউকে দেবেন না, যদি না কেউ নিজ থেকে তা জানতে চায়। কেউ ভুল কিছু বললে কেবল হাসুন এবং চুপ থাকুন।"
     },
     "criticalReflection": {
-      "en": "অন্যদের খারাপ আচরণকে শুধুমাত্র আত্ম-প্রতিফলনের জন্য ব্যবহার করাটা প্রোডাক্টিভ হলেও তা নিষ্ক্রিয়তার দিকে নিয়ে যেতে পারে। কখনও কখনও খারাপ আচরণের মোকাবিলা করা এবং সংশোধন করা প্রয়োজন, কেবল আত্মদর্শন নয়, বিশেষত যদি তা নিরাপত্তা বা বাউন্ডারি লঙ্ঘন করে।",
-      "bn": "অন্যদের খারাপ আচরণকে শুধুমাত্র আত্ম-প্রতিফলনের জন্য ব্যবহার করাটা প্রোডাক্টিভ হলেও তা নিষ্ক্রিয়তার দিকে নিয়ে যেতে পারে। কখনও কখনও খারাপ আচরণের মোকাবিলা করা এবং সংশোধন করা প্রয়োজন, কেবল আত্মদর্শন নয়, বিশেষত যদি তা নিরাপত্তা বা বাউন্ডারি লঙ্ঘন করে।"
+      "en": "A 'quiet life' can sometimes be a mask for avoiding civic responsibility. While privacy is valuable, turning a blind eye to injustice is not a Stoic virtue. Balance detachment with engagement.",
+      "bn": "নিভৃত জীবন অনেক সময় সামাজিক দায়িত্ব এড়িয়ে চলার অজুহাত হতে পারে। গোপনীয়তা মূল্যবান হলেও অন্যায়ের মুখে চুপ থাকা বীরত্ব নয়। নির্লিপ্ততা এবং সামাজিক দায়বদ্ধতার মধ্যে ভারসাম্য রাখা জরুরি।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "উন্নত আবেগ নিয়ন্ত্রণ এবং বিনয়।",
-        "bn": "উন্নত আবেগ নিয়ন্ত্রণ এবং বিনয়।"
+        "en": "Internal peace and conservation of energy.",
+        "bn": "অপার মানসিক প্রশান্তি এবং শক্তি সঞ্চয় হবে।"
       },
       "social": {
-        "en": "সংঘাত প্রশমন এবং আরও সহানুভূতিশীল সমাজ।",
-        "bn": "সংঘাত প্রশমন এবং আরও সহানুভূতিশীল সমাজ।"
+        "en": "Reduced friction and conflict in daily interactions.",
+        "bn": "দৈনন্দিন মেলামেশায় তিক্ততা এবং সংঘাত কমে যাবে।"
+      }
+    }
+  },
+  {
+    "id": 68,
+    "sectionTitle": {
+      "en": "The Outer World",
+      "bn": "বহির্জগৎ"
+    },
+    "chapterTitle": {
+      "en": "The Mirror of Faults",
+      "bn": "ত্রুটির আয়না"
+    },
+    "goldenQuotes": [
+      {
+        "quote": {
+          "en": "When faced with people’s bad behavior, turn around and ask when you have acted like that.",
+          "bn": "যখন কারো খারাপ ব্যবহার দেখবেন, তখন নিজেকে প্রশ্ন করুন—আপনিও কি কখনও এমনটি করেননি?"
+        },
+        "author": {
+          "en": "Stoic Wisdom",
+          "bn": "স্টয়িক দর্শন"
+        }
+      },
+      {
+        "quote": {
+          "en": "Have you noticed how we’re often quick to judge others... but don’t look at ourselves with that same critical eye?",
+          "bn": "খেয়াল করেছেন কি, আমরা কত দ্রুত অন্যের বিচার করি, কিন্তু নিজের ভুলগুলো দেখার সময় চোখ বুজে থাকি?"
+        },
+        "author": {
+          "en": "Stoic Wisdom",
+          "bn": "স্টয়িক দর্শন"
+        }
+      }
+    ],
+    "coreInsights": [
+      {
+        "title": {
+          "en": "The Reflection",
+          "bn": "আয়না দেখা"
+        },
+        "content": {
+          "en": "Instead of getting angry at others' behavior, consider if you've done the same. This reduces anger and increases empathy.",
+          "bn": "অন্যের খারাপ আচরণ দেখে রেগে না গিয়ে ভাবুন, 'আমিও কি কখনও এমনটা করেছি?' এতে রাগ কমে আসে এবং অন্যের প্রতি সহমর্মিতা বাড়ে।"
+        }
+      },
+      {
+        "title": {
+          "en": "Non-Judgment",
+          "bn": "বিচার না করা"
+        },
+        "content": {
+          "en": "We see others' faults clearly but ignore our own. Stop this hypocrisy to gain self-awareness.",
+          "bn": "আমরা অন্যের ভুল খুব পরিষ্কারভাবে দেখি কিন্তু নিজের ভুলগুলো এড়িয়ে যাই। এই দ্বিচারিতা বন্ধ করাই হলো আত্মদর্শনের প্রথম ধাপ।"
+        }
+      },
+      {
+        "title": {
+          "en": "Decency as Power",
+          "bn": "শালীনতাই শক্তি"
+        },
+        "content": {
+          "en": "Responding to aggression with calmness and politeness is a mark of true strength. Maturity is staying calm when provoked.",
+          "bn": "উগ্র আচরণের জবাবে শান্ত ও ভদ্র থাকা হলো প্রকৃত শক্তির পরিচয়। অন্যের প্ররোচনা সত্ত্বেও মাথা ঠান্ডা রাখাই হলো পরিপক্কতা।"
+        }
+      },
+      {
+        "title": {
+          "en": "Learning Opportunity",
+          "bn": "শিক্ষা গ্রহণ"
+        },
+        "content": {
+          "en": "Every 'difficult' person is a lesson: 'How can I ensure I never act like them?' Character is built by learning what to avoid.",
+          "bn": "প্রতিটি কর্কশ ব্যবহারের মানুষ আমাদের জন্য একটি শিক্ষার সুযোগ—'আমি যেন কখনও তাদের মতো না হই।' অন্যের মন্দ দিক দেখে নিজের চরিত্র সংশোধন করুন।"
+        }
+      }
+    ],
+    "practicalApplication": {
+      "en": "When someone is rude to you, see them as a teacher. Say to yourself: 'Thank you for showing me how ugly it looks when one loses their temper. I will not be like that.'",
+      "bn": "কেউ আপনার সাথে খারাপ ব্যবহার করলে তাকে 'শিক্ষক' হিসেবে দেখুন। মনে মনে বলুন, 'ধন্যবাদ আমাকে দেখানোর জন্য যে, মেজাজ হারালে মানুষকে কতটা কুৎসিত দেখায়। আমি অন্তত এমন হব না।'"
+    },
+    "criticalReflection": {
+      "en": "Using others' bad behavior only for self-reflection can lead to passivity. Sometimes behavior needs to be confronted and corrected, especially if it violates safety or boundaries.",
+      "bn": "অন্যের খারাপ আচরণকে কেবল আত্ম-সংশোধনের মাধ্যম হিসেবে দেখা অনেক সময় নিষ্ক্রিয়তার লক্ষণ হতে পারে। যদি কেউ আপনার সীমা লঙ্ঘন করে বা ক্ষতির কারণ হয়, তখন কেবল নীরবে সহ্য না করে প্রতিবাদ করাও জরুরি।"
+    },
+    "expectedOutcomes": {
+      "individual": {
+        "en": "Greater emotional control and humility.",
+        "bn": "আবেগ নিয়ন্ত্রণে আসবে এবং বিনয় বৃদ্ধি পাবে।"
+      },
+      "social": {
+        "en": "Reduced conflict and a more empathetic society.",
+        "bn": "সংঘাত কমবে এবং পারস্পরিক শ্রদ্ধাবোধ বাড়বে।"
       }
     }
   },
@@ -6718,92 +6541,92 @@ export const chapters: Chapter[] = [
     "id": 69,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Quality over Quantity",
-      "bn": "Quality over Quantity"
+      "bn": "পরিমাণের চেয়ে গুণমানের গুরুত্ব"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "A friend is someone who thinks and cares about you... even when you don’t see or need each other.",
-          "bn": "A friend is someone who thinks and cares about you... even when you don’t see or need each other."
+          "bn": "বন্ধু সে-ই, যে আপনার কথা ভাবে এবং আপনাকে যত্ন করে—এমনকি যখন আপনারা একে অপরের সামনে নেই বা প্রয়োজনে নেই।"
         },
         "author": {
           "en": "Seneca",
-          "bn": "Seneca"
+          "bn": "সেনেকা"
         }
       },
       {
         "quote": {
           "en": "Seek out people who have the same values as you. Friendship is not about quantity.",
-          "bn": "Seek out people who have the same values as you. Friendship is not about quantity."
+          "bn": "এমন মানুষ খুঁজুন যাদের মূল্যবোধ আপনার সাথে মেলে। বন্ধুত্বের ক্ষেত্রে সংখ্যা কোনো বিষয় নয়।"
         },
         "author": {
           "en": "Seneca",
-          "bn": "Seneca"
+          "bn": "সেনেকা"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "সুবিধাবাদী বন্ধু",
+          "en": "Fair-Weather Friends",
           "bn": "সুবিধাবাদী বন্ধু"
         },
         "content": {
-          "en": "সেনেকার মতে, প্রয়োজনে যে বন্ধু হয়, প্রয়োজন ফুরোলে সে হারিয়ে যায়। এদের থেকে সাবধান।",
-          "bn": "সেনেকার মতে, প্রয়োজনে যে বন্ধু হয়, প্রয়োজন ফুরোলে সে হারিয়ে যায়। এদের থেকে সাবধান।"
+          "en": "Friends joined by utility alone depart once the utility is gone. Be wary of relationships built only on mutual gain.",
+          "bn": "যারা কেবল প্রয়োজনে বন্ধু হয়, প্রয়োজন ফুরিয়ে গেলে তারা হারিয়ে যায়। কেবল স্বার্থের ভিত্তিতে গড়ে ওঠা সম্পর্ক থেকে দূরে থাকুন।"
         }
       },
       {
         "title": {
-          "en": "মূল্যবোধের মিল",
+          "en": "Shared Values",
           "bn": "মূল্যবোধের মিল"
         },
         "content": {
-          "en": "সত্যিকারের বন্ধুত্ব গড়ে ওঠে অভিন্ন মূল্যবোধের ওপর, কেবল আড্ডা বা পার্টি করার ওপর নয়।",
-          "bn": "সত্যিকারের বন্ধুত্ব গড়ে ওঠে অভিন্ন মূল্যবোধের ওপর, কেবল আড্ডা বা পার্টি করার ওপর নয়।"
+          "en": "True friendship is built on shared principles and character, not just social convenience or common pastimes.",
+          "bn": "প্রকৃত বন্ধুত্ব গড়ে ওঠে অভিন্ন আদর্শ ও চরিত্রের ওপর, কেবল আড্ডা বা সাময়িক আমোদ-প্রমোদের জন্য নয়।"
         }
       },
       {
         "title": {
-          "en": "পরিবর্তন মেনে নেওয়া",
+          "en": "Accepting Change",
           "bn": "পরিবর্তন মেনে নেওয়া"
         },
         "content": {
-          "en": "মানুষ বদলায়, তাই বন্ধুত্বও বদলায়। পুরোনো বন্ধু হারিয়ে গেলে দুঃখ না করে মেনে নিতে হবে।",
-          "bn": "মানুষ বদলায়, তাই বন্ধুত্বও বদলায়। পুরোনো বন্ধু হারিয়ে গেলে দুঃখ না করে মেনে নিতে হবে।"
+          "en": "People change, and so do friendships. Accept the drifting apart of old friends without bitterness.",
+          "bn": "মানুষ যেমন বদলায়, বন্ধুত্বও তেমনই বদলে যেতে পারে। পুরোনো বন্ধুরা হারিয়ে গেলে মনে ঘৃণা না রেখে তা স্বাভাবিকভাবে মেনে নিন।"
         }
       },
       {
         "title": {
-          "en": "আসল বন্ধু",
+          "en": "The True Ally",
           "bn": "আসল বন্ধু"
         },
         "content": {
-          "en": "যারা বিপদে পাশে থাকে এবং আপনাকে মানসিকভাবে সাপোর্ট করে, তারাই আসল বন্ধু। সংখ্যায় কম হলেও সমস্যা নেই।",
-          "bn": "যারা বিপদে পাশে থাকে এবং আপনাকে মানসিকভাবে সাপোর্ট করে, তারাই আসল বন্ধু। সংখ্যায় কম হলেও সমস্যা নেই।"
+          "en": "Those who stand by you during adversity and support your mental growth are your true friends. A few of these are worth more than a thousand acquaintances.",
+          "bn": "বিপদে যারা পাশে থাকে এবং আপনার মানসিক উন্নতিতে উৎসাহ দেয়, তারাই আপনার প্রকৃত বন্ধু। হাজার পরিচিতের চেয়ে এমন কয়েকজন বন্ধুই জীবন বদলে দিতে পারে।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আপনার ফ্রেন্ডলিস্ট চেক করুন। কারা আপনাকে নিয়মিত খোঁজ নেয় বা বিপদে পাশে ছিল? তাদের একটি আলাদা তালিকা করুন। আজ তাদের অন্তত একজনকে ফোন করে বলুন তারা আপনার জন্য কতটা স্পেশাল। বাকিদের নিয়ে প্রত্যাশা কমান।",
-      "bn": "আপনার ফ্রেন্ডলিস্ট চেক করুন। কারা আপনাকে নিয়মিত খোঁজ নেয় বা বিপদে পাশে ছিল? তাদের একটি আলাদা তালিকা করুন। আজ তাদের অন্তত একজনকে ফোন করে বলুন তারা আপনার জন্য কতটা স্পেশাল। বাকিদের নিয়ে প্রত্যাশা কমান।"
+      "en": "Audit your social circle. Identify who checks on you and who you can rely on. List them. Reach out to one today and express your gratitude. Lower expectations for the rest.",
+      "bn": "আপনার পরিচিত মহলের দিকে নজর দিন। কারা আপনার বিপদে পাশে ছিল বা কারা নিয়মিত আপনার খোঁজ নেয়? তাদের একটি তালিকা করুন। আজ তাদের অন্তত একজনকে ফোন করে ধন্যবাদ দিন। বাকিদের কাছ থেকে প্রত্যাশা কমিয়ে ফেলুন।"
     },
     "criticalReflection": {
-      "en": "এখানে বন্ধুত্বের সংজ্ঞাটি অত্যন্ত উচ্চ মানদণ্ড সম্পন্ন। সাধারণ বন্ধুত্ব বা পরিচিতিরও (casual friendships) সোশ্যাল নেটওয়ার্কিং এবং হালকা মেজাজে থাকার জন্য মূল্য রয়েছে। সম্পর্কগুলোকে কেবল উপযোগিতা বা গভীর মূল্যের লেন্স দিয়ে দেখলে সাধারণ মেলামেশার ছোট ছোট আনন্দগুলো থেকে কেউ বিচ্ছিন্ন হতে পারে।",
-      "bn": "এখানে বন্ধুত্বের সংজ্ঞাটি অত্যন্ত উচ্চ মানদণ্ড সম্পন্ন। সাধারণ বন্ধুত্ব বা পরিচিতিরও (casual friendships) সোশ্যাল নেটওয়ার্কিং এবং হালকা মেজাজে থাকার জন্য মূল্য রয়েছে। সম্পর্কগুলোকে কেবল উপযোগিতা বা গভীর মূল্যের লেন্স দিয়ে দেখলে সাধারণ মেলামেশার ছোট ছোট আনন্দগুলো থেকে কেউ বিচ্ছিন্ন হতে পারে।"
+      "en": "The high bar for 'true' friendship ignores the value of casual social connections. Acquaintances and weak ties are essential for social networking and simple human interaction.",
+      "bn": "বন্ধুত্বের এই উচ্চ মানদণ্ড মাঝেমধ্যে সাধারণ পরিচিতি বা ক্যাজুয়াল বন্ধুত্বের গুরুত্বকে ছোট করে দেখায়। সামাজিক যোগাযোগ রক্ষা এবং মন ভালো রাখার জন্য সাধারণ মেলামেশারও একটি আলাদা প্রয়োজন রয়েছে।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "গভীর, সহায়ক সম্পর্ক এবং একাকীত্ব হ্রাস।",
-        "bn": "গভীর, সহায়ক সম্পর্ক এবং একাকীত্ব হ্রাস।"
+        "en": "Deeper, more supportive relationships and reduced loneliness.",
+        "bn": "গভীর ও নির্ভরযোগ্য সম্পর্ক গড়ে উঠবে এবং একাকীত্ব দূর হবে।"
       },
       "social": {
-        "en": "ছোট দলগুলোর মধ্যে শক্তিশালী সামাজিক নিরাপত্তা বেষ্টনী।",
-        "bn": "ছোট দলগুলোর মধ্যে শক্তিশালী সামাজিক নিরাপত্তা বেষ্টনী।"
+        "en": "Stronger social safety nets within small, tight-knit groups.",
+        "bn": "সমাজে ছোট কিন্তু শক্তিশালী মানসিক ও সামাজিক নিরাপত্তা বেষ্টনী তৈরি হবে।"
       }
     }
   },
@@ -6811,92 +6634,92 @@ export const chapters: Chapter[] = [
     "id": 70,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "The Grace of Patience",
-      "bn": "The Grace of Patience"
+      "bn": "ধৈর্যের সৌন্দর্য"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Always conduct yourself as though you are at a formal dinner.",
-          "bn": "Always conduct yourself as though you are at a formal dinner."
+          "bn": "সব সময় এমনভাবে আচরণ করুন যেন আপনি একটি রাজকীয় ভোজসভায় আছেন।"
         },
         "author": {
           "en": "Epictetus",
-          "bn": "Epictetus"
+          "bn": "এপিক্টেটাস"
         }
       },
       {
         "quote": {
           "en": "Be gentle in your interactions with others and with yourself.",
-          "bn": "Be gentle in your interactions with others and with yourself."
+          "bn": "অন্যদের সাথে যেমন ভদ্র আচরণ করবেন, নিজের প্রতিও তেমনই সদয় হোন।"
         },
         "author": {
           "en": "Epictetus",
-          "bn": "Epictetus"
+          "bn": "এপিক্টেটাস"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "ফরমাল ডিনার",
-          "bn": "ফরমাল ডিনার"
+          "en": "The Formal Dinner",
+          "bn": "রাজকীয় ভোজসভা"
         },
         "content": {
-          "en": "এপিক্টেটাস জীবনকে একটি ভোজসভার সাথে তুলনা করেছেন। খাবার (সুযোগ) আপনার কাছে আসা পর্যন্ত ধৈর্য ধরুন; কাড়াকাড়ি করবেন না।",
-          "bn": "এপিক্টেটাস জীবনকে একটি ভোজসভার সাথে তুলনা করেছেন। খাবার (সুযোগ) আপনার কাছে আসা পর্যন্ত ধৈর্য ধরুন; কাড়াকাড়ি করবেন না।"
+          "en": "Epictetus compares life to a banquet. Wait for the dish (opportunity) to reach you with patience; don't grab.",
+          "bn": "এপিক্টেটাস জীবনকে একটি বড় ভোজসভার সাথে তুলনা করেছেন। প্রতিটি সুযোগ আসার জন্য ধৈর্য ধরে অপেক্ষা করুন; কাড়াকাড়ি করে এগিয়ে যাবেন না।"
         }
       },
       {
         "title": {
-          "en": "অধৈর্যের ক্ষতি",
-          "bn": "অধৈর্যের ক্ষতি"
+          "en": "The Cost of Impatience",
+          "bn": "অধৈর্যের মাশুল"
         },
         "content": {
-          "en": "অধৈর্য হলে আমরা প্রিয়জনদের সাথে খারাপ ব্যবহার করে ফেলি, যা পরে অনুশোচনার কারণ হয়।",
-          "bn": "অধৈর্য হলে আমরা প্রিয়জনদের সাথে খারাপ ব্যবহার করে ফেলি, যা পরে অনুশোচনার কারণ হয়।"
+          "en": "Impatience leads to rude behavior toward loved ones, causing regret and damage to relationships.",
+          "bn": "অধৈর্য হয়ে পড়লে আমরা প্রায়ই প্রিয়জনদের সাথে খারাপ ব্যবহার করে ফেলি, যা পরে অনুশোচনার কারণ হয়ে দাঁড়ায়।"
         }
       },
       {
         "title": {
-          "en": "নিজের প্রতি সদয়",
+          "en": "Gentleness Toward Self",
           "bn": "নিজের প্রতি সদয়"
         },
         "content": {
-          "en": "কেবল অন্যের সাথে নয়, নিজের ভুলের প্রতিও সদয় হওয়া উচিত। নিজেকে বকাঝকা করলে মানসিক শান্তি নষ্ট হয়।",
-          "bn": "কেবল অন্যের সাথে নয়, নিজের ভুলের প্রতিও সদয় হওয়া উচিত। নিজেকে বকাঝকা করলে মানসিক শান্তি নষ্ট হয়।"
+          "en": "Don't just be kind to others; be gentle with your own failures. Self-flagellation destroys tranquility.",
+          "bn": "কেবল অন্যের সাথে নয়, নিজের ভুলের প্রতিও ক্ষমাশীল হোন। নিজেকে অনবরত বকাঝকা করলে মনের শান্তি নষ্ট হয়।"
         }
       },
       {
         "title": {
-          "en": "তাড়া নেই",
-          "bn": "তাড়া নেই"
+          "en": "Life is Not a Race",
+          "bn": "জীবন কোনো দৌড় নয়"
         },
         "content": {
-          "en": "জীবন কোনো দৌড় প্রতিযোগিতা নয়। ধীরস্থিরভাবে কাজ করলে এবং সবার সাথে ভালো ব্যবহার করলে জীবন সুন্দর হয়।",
-          "bn": "জীবন কোনো দৌড় প্রতিযোগিতা নয়। ধীরস্থিরভাবে কাজ করলে এবং সবার সাথে ভালো ব্যবহার করলে জীবন সুন্দর হয়।"
+          "en": "Rushing through everything leads to stress. A slower, more intentional pace creates a beautiful life.",
+          "bn": "সবকিছুতে তাড়াহুড়ো করলে মানসিক চাপ বাড়ে। ধীরস্থিরভাবে কাজ করলে এবং সবার সাথে ভালো ব্যবহার করলে জীবন অনেক বেশি সুন্দর হয়।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আজ সারাদিন \"স্লো মোশন\"-এ চলুন। কথা বলার সময় তাড়াহুড়ো করবেন না। কারো কথার মাঝখানে কথা বলবেন না। ভাবুন আপনি একটি রাজকীয় ডিনারে আছেন যেখানে ভদ্রতাই একমাত্র মুদ্রা।",
-      "bn": "আজ সারাদিন \"স্লো মোশন\"-এ চলুন। কথা বলার সময় তাড়াহুড়ো করবেন না। কারো কথার মাঝখানে কথা বলবেন না। ভাবুন আপনি একটি রাজকীয় ডিনারে আছেন যেখানে ভদ্রতাই একমাত্র মুদ্রা।"
+      "en": "Go through your day in 'slow motion'. Don't rush your speech. Listen fully without interrupting. Act as if courtesy is the only currency that matters today.",
+      "bn": "আজ সারাদিন সবকিছু একটু ধীরে করার চেষ্টা করুন। কথা বলার সময় তাড়াহুড়ো করবেন না। কারো কথার মাঝে কথা বলবেন না। ভাবুন যে আজ ভদ্রতা এবং ধৈর্যই আপনার সবচেয়ে বড় সম্পদ।"
     },
     "criticalReflection": {
-      "en": "\"নিজের পালা আসার অপেক্ষা করা\" একটি মহৎ অভিজাত আদর্শ, কিন্তু অতি-প্রতিযোগিতামূলক বিশ্বে, নিষ্ক্রিয়তা প্রায়শই সুযোগ হারানোর কারণ হয়। নিজের অধিকার বা ন্যায্য পাওনা নিশ্চিত করার জন্য কখনও কখনও ভদ্রতার চেয়ে দৃঢ়তা বা Assertiveness বেশি প্রয়োজন।",
-      "bn": "\"নিজের পালা আসার অপেক্ষা করা\" একটি মহৎ অভিজাত আদর্শ, কিন্তু অতি-প্রতিযোগিতামূলক বিশ্বে, নিষ্ক্রিয়তা প্রায়শই সুযোগ হারানোর কারণ হয়। নিজের অধিকার বা ন্যায্য পাওনা নিশ্চিত করার জন্য কখনও কখনও ভদ্রতার চেয়ে দৃঢ়তা বা Assertiveness বেশি প্রয়োজন।"
+      "en": "The ideal of 'waiting for your turn' assumes a fair world. In hyper-competitive environments, passivity can lead to missing vital opportunities. Assertiveness is sometimes more necessary than politeness.",
+      "bn": "'নিজের পলার জন্য অপেক্ষা করা' একটি মহৎ গুণ হলেও এই প্রতিযোগিতামূলক বিশ্বে অতি-ভদ্রতা কখনও কখনও পিছিয়ে থাকার কারণ হতে পারে। নিজের অধিকার আদায়ে ভদ্রতার চেয়ে মাঝে মাঝে দৃঢ়তা বেশি প্রয়োজন।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "একটি ক্যারিশম্যাটিক এবং শান্ত উপস্থিতি তৈরি করা।",
-        "bn": "একটি ক্যারিশম্যাটিক এবং শান্ত উপস্থিতি তৈরি করা।"
+        "en": "A charismatic and calm presence.",
+        "bn": "একটি শান্ত ও আকর্ষণীয় ব্যক্তিত্ব গড়ে উঠবে।"
       },
       "social": {
-        "en": "আরও ভদ্র এবং সুবিবেচক পাবলিক স্ফিয়ার বা জনপরিসর।",
-        "bn": "আরও ভদ্র এবং সুবিবেচক পাবলিক স্ফিয়ার বা জনপরিসর।"
+        "en": "A more polite and considerate public sphere.",
+        "bn": "সমাজে ভদ্রতা এবং পারস্পরিক শিষ্টাচারের পরিবেশ তৈরি হবে।"
       }
     }
   },
@@ -6904,102 +6727,102 @@ export const chapters: Chapter[] = [
     "id": 71,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "The Comparison Trap",
-      "bn": "The Comparison Trap"
+      "bn": "তুলনার ফাঁদ"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Don’t be fooled by the outward appearance of other people.",
-          "bn": "Don’t be fooled by the outward appearance of other people."
+          "bn": "অন্যদের বাহ্যিক চাকচিক্য দেখে বিভ্রান্ত হবেন না।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Our concern should be our freedom, not titles and prestigious positions.",
-          "bn": "Our concern should be our freedom, not titles and prestigious positions."
+          "bn": "আমাদের লক্ষ্য হওয়া উচিত মানসিক স্বাধীনতা, কোনো পদমর্যাদা বা খেতাব নয়।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Every time you feel envious, check your priorities.",
-          "bn": "Every time you feel envious, check your priorities."
+          "bn": "যখনই আপনার মনে ঈর্ষা জাগবে, তখনই আপনার জীবনের অগ্রাধিকারগুলো আরেকবার যাচাই করে নিন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "তুলনার বিষ",
+          "en": "The Poison of Comparison",
           "bn": "তুলনার বিষ"
         },
         "content": {
-          "en": "অন্যের সাজানো সোশ্যাল মিডিয়া লাইফ বা বাহ্যিক সাফল্য দেখে ঈর্ষান্বিত হওয়া বোকামি। এটি আমাদের নিজেদের অর্জনের আনন্দ কেড়ে নেয়।",
-          "bn": "অন্যের সাজানো সোশ্যাল মিডিয়া লাইফ বা বাহ্যিক সাফল্য দেখে ঈর্ষান্বিত হওয়া বোকামি। এটি আমাদের নিজেদের অর্জনের আনন্দ কেড়ে নেয়।"
+          "en": "Envy is a confession of inferiority. Comparing your life to someone else's highlight reel steals your joy and blinds you to your own progress.",
+          "bn": "অন্যের সাজানো জীবন বা বাহ্যিক সাফল্য দেখে ঈর্ষান্বিত হওয়া মানে নিজের অক্ষমতাকে স্বীকার করে নেওয়া। অন্যের সাথে নিজের তুলনা করা আপনার অর্জনের আনন্দ কেড়ে নেয়।"
         }
       },
       {
         "title": {
-          "en": "জে. কোল (J. Cole)-এর শিক্ষা",
+          "en": "Learning from J. Cole",
           "bn": "জে. কোল (J. Cole)-এর শিক্ষা"
         },
         "content": {
-          "en": "বিখ্যাত র‍্যাপার জে. কোলের উদাহরণ দিয়ে বলা হয়েছে, অন্যের ভ্যালিডেশনের আশায় না থেকে নিজের স্বকীয়তা বজায় রাখাই আসল সাফল্য।",
-          "bn": "বিখ্যাত র‍্যাপার জে. কোলের উদাহরণ দিয়ে বলা হয়েছে, অন্যের ভ্যালিডেশনের আশায় না থেকে নিজের স্বকীয়তা বজায় রাখাই আসল সাফল্য।"
+          "en": "Through rapper J. Cole's journey, we learn that true success is maintaining your authenticity rather than seeking validation through trophies or status.",
+          "bn": "বিখ্যাত র‍্যাপার জে. কোলের জীবন থেকে আমরা শিখি যে, সস্তা প্রশংসা বা পুরস্কারের চেয়ে নিজের স্বকীয়তা বজায় রাখাই হলো প্রকৃত সাফল্য।"
         }
       },
       {
         "title": {
-          "en": "স্বাধীনতার ফোকাস",
+          "en": "Focus on Freedom",
           "bn": "স্বাধীনতার ফোকাস"
         },
         "content": {
-          "en": "টাইটেল বা পদমর্যাদার চেয়ে মানসিক স্বাধীনতা বেশি গুরুত্বপূর্ণ। ঈর্ষা আমাদের পরাধীন করে।",
-          "bn": "টাইটেল বা পদমর্যাদার চেয়ে মানসিক স্বাধীনতা বেশি গুরুত্বপূর্ণ। ঈর্ষা আমাদের পরাধীন করে।"
+          "en": "Titles and prestigious positions provide external validation but often at the cost of internal freedom. True wealth is wanting what you already have.",
+          "bn": "পদমর্যাদা বা বড় বড় খেতাব আপনাকে সাময়িক তৃপ্তি দিলেও মানসিক স্বাধীনতা কেড়ে নিতে পারে। যা আপনার আছে তা নিয়েই সন্তুষ্ট থাকা হলো সত্যিকারের সম্পদ।"
         }
       },
       {
         "title": {
-          "en": "কৃতজ্ঞতা",
-          "bn": "কৃতজ্ঞতা"
+          "en": "Gratitude as an Antidote",
+          "bn": "প্রতিষেধক হিসেবে কৃতজ্ঞতা"
         },
         "content": {
-          "en": "নিজের স্বাস্থ্য এবং প্রিয়জনদের কথা মনে করলে ঈর্ষা কমে যায়। যা নেই তার চেয়ে যা আছে, তা নিয়ে ভাবা উচিত।",
-          "bn": "নিজের স্বাস্থ্য এবং প্রিয়জনদের কথা মনে করলে ঈর্ষা কমে যায়। যা নেই তার চেয়ে যা আছে, তা নিয়ে ভাবা উচিত।"
+          "en": "Envy fades when you count your own blessings. Focus on what you have—health, loved ones, or simple peace—instead of what you lack.",
+          "bn": "যখন আপনি নিজের প্রাপ্তিগুলোর কথা ভাবেন, তখন ঈর্ষা বিলীন হয়ে যায়। যা নেই তার বদলে সুস্বাস্থ্য বা প্রিয়জনের সাহচর্যের মতো ছোট ছোট বিষয়গুলো নিয়ে সন্তুষ্ট থাকুন।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "যখনই কারো ইনস্টাগ্রাম স্টোরি দেখে হিংসা হবে, নিজেকে বলুন: \"আমি তার ব্যাকস্টেজ জানি না, শুধু হাইলাইট দেখছি।\" এরপর ফোন রেখে নিজের জীবনের ৩টি ভালো দিক লিখে ফেলুন (যেমন: সুস্থ শরীর, মা-বাবার হাসি, বা প্রিয় বই)।",
-      "bn": "যখনই কারো ইনস্টাগ্রাম স্টোরি দেখে হিংসা হবে, নিজেকে বলুন: \"আমি তার ব্যাকস্টেজ জানি না, শুধু হাইলাইট দেখছি।\" এরপর ফোন রেখে নিজের জীবনের ৩টি ভালো দিক লিখে ফেলুন (যেমন: সুস্থ শরীর, মা-বাবার হাসি, বা প্রিয় বই)।"
+      "en": "Whenever you feel envy while scrolling social media, tell yourself: 'I don't know their backstage, I only see their highlights.' Put down your phone and write three things you are grateful for right now.",
+      "bn": "সোশ্যাল মিডিয়ায় কারো সাফল্য দেখে যখনই হিংসা হবে, নিজেকে বলুন: 'আমি তাদের জীবনের পর্দার পেছনের সংগ্রাম জানি না, কেবল উজ্জ্বল মুহূর্তগুলোই দেখছি।' এরপর ফোন রেখে নিজের জীবনের ৩টি ভালো দিকের কথা লিখে ফেলুন।"
     },
     "criticalReflection": {
-      "en": "যদিও \"ঈর্ষা নির্মূল করা\" মহৎ কাজ, এটি এমন একটি অতি-পুঁজিবাদী সমাজে বলা সহজ কিন্তু করা কঠিন যা ভোগের জন্য ঈর্ষা বা এনভি উসকে দেওয়ার জন্য ডিজাইন করা হয়েছে। এটিকে সম্পূর্ণরূপে \"নির্মূল\" করার চেষ্টা করার পরিবর্তে (যা অসম্ভব মনে হয়), ঈর্ষাকে অনুপ্রেরণায় রূপান্তর করা বেশিরভাগ মানুষের জন্য একটি বাস্তবসম্মত প্রাথমিক পদক্ষেপ হতে পারে।",
-      "bn": "যদিও \"ঈর্ষা নির্মূল করা\" মহৎ কাজ, এটি এমন একটি অতি-পুঁজিবাদী সমাজে বলা সহজ কিন্তু করা কঠিন যা ভোগের জন্য ঈর্ষা বা এনভি উসকে দেওয়ার জন্য ডিজাইন করা হয়েছে। এটিকে সম্পূর্ণরূপে \"নির্মূল\" করার চেষ্টা করার পরিবর্তে (যা অসম্ভব মনে হয়), ঈর্ষাকে অনুপ্রেরণায় রূপান্তর করা বেশিরভাগ মানুষের জন্য একটি বাস্তবসম্মত প্রাথমিক পদক্ষেপ হতে পারে।"
+      "en": "Eliminating envy is difficult in a consumerist society designed to fuel comparison. Instead of attempting to 'crush' envy, converting it into inspiration or drive might be a more realistic first step.",
+      "bn": "বর্তমান ভোগবাদী সমাজে যেখানে সবকিছুই তুলনার ওপর ভিত্তি করে তৈরি, সেখানে ঈর্ষা পুরোপুরি ত্যাগ করা কঠিন। ঈর্ষাকে দমন না করে বরং একে ইতিবাচক অনুপ্রেরণায় রূপান্তর করাটাই বেশি বাস্তবসম্মত হতে পারে।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "জীবনের নিজস্ব গতি নিয়ে গভীর সন্তুষ্টি।",
-        "bn": "জীবনের নিজস্ব গতি নিয়ে গভীর সন্তুষ্টি।"
+        "en": "Deep satisfaction with your own life's pace.",
+        "bn": "জীবনের নিজস্ব গতি এবং অর্জন নিয়ে গভীর সন্তুষ্টি আসবে।"
       },
       "social": {
-        "en": "গোপন প্রতিদ্বন্দ্বিতার পরিবর্তে একে অপরের প্রতি অকৃত্রিম সমর্থন।",
-        "bn": "গোপন প্রতিদ্বন্দ্বিতার পরিবর্তে একে অপরের প্রতি অকৃত্রিম সমর্থন।"
+        "en": "Genuine support for others instead of hidden competition.",
+        "bn": "হিংসা বা প্রতিযোগিতার বদলে অন্যদের এগিয়ে চলায় সমর্থন দেওয়ার মানসিকতা তৈরি হবে।"
       }
     }
   },
@@ -7007,92 +6830,92 @@ export const chapters: Chapter[] = [
     "id": 72,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "The Path of Non-Conformity",
-      "bn": "The Path of Non-Conformity"
+      "bn": "ভিন্ন পথে চলা"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "The happy people usually don’t care about what others think.",
-          "bn": "The happy people usually don’t care about what others think."
+          "bn": "সুখী মানুষ সাধারণত অন্যরা কী ভাববে তা নিয়ে দুশ্চিন্তা করে না।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "You do not care if others think you are naïve or stupid. Your only concern is to keep your focus on yourself.",
-          "bn": "You do not care if others think you are naïve or stupid. Your only concern is to keep your focus on yourself."
+          "bn": "আপনি যদি সৎ ও সঠিক পথে থাকেন, তবে অন্যরা আপনাকে বোকা বা আনাড়ি ভাবল কি না, তাতে আপনার কিছু যায় আসে না।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "ভয় বনাম কৌতূহল",
+          "en": "Fear vs. Curiosity",
           "bn": "ভয় বনাম কৌতূহল"
         },
         "content": {
-          "en": "মানুষ কী ভাববে—এই ভয়কে কৌতূহলে রূপান্তর করুন। ভাবুন, \"দেখা যাক তারা কী বলে,\" কিন্তু তা গায়ে মাখবেন না।",
-          "bn": "মানুষ কী ভাববে—এই ভয়কে কৌতূহলে রূপান্তর করুন। ভাবুন, \"দেখা যাক তারা কী বলে,\" কিন্তু তা গায়ে মাখবেন না।"
+          "en": "Transform the fear of 'what will people think' into curiosity. Observe their reactions without letting them dictate your emotions or choices.",
+          "bn": "'লোকে কী বলবে'—এই ভয়কে কৌতূহলে রূপান্তর করুন। অন্যরা কী বলছে তা কেবল শুনুন, কিন্তু তা যেন আপনার জীবনের সিদ্ধান্তকে প্রভাবিত করতে না পারে।"
         }
       },
       {
         "title": {
-          "en": "স্বাধীন সত্তা",
+          "en": "The Independent Self",
           "bn": "স্বাধীন সত্তা"
         },
         "content": {
-          "en": "প্রাপ্তবয়স্ক হওয়ার অর্থ হলো নিজের চয়েস নিজেই নেওয়া। সমাজ বা পরিবারের চাপে নিজের স্বপ্ন বিসর্জন দেওয়া মানে নিজের সত্তাকে অপমান করা।",
-          "bn": "প্রাপ্তবয়স্ক হওয়ার অর্থ হলো নিজের চয়েস নিজেই নেওয়া। সমাজ বা পরিবারের চাপে নিজের স্বপ্ন বিসর্জন দেওয়া মানে নিজের সত্তাকে অপমান করা।"
+          "en": "Maturing means making your own choices. Sacrificing your dreams to please society or family is an insult to your own existence.",
+          "bn": "পরিপক্কতার অর্থ হলো নিজের জীবনের সিদ্ধান্ত নিজে নিতে পারা। সমাজ বা পরিবারের চাপে নিজের স্বপ্ন বিসর্জন দেওয়া মানে নিজের অস্তিত্বকে অপমান করা।"
         }
       },
       {
         "title": {
-          "en": "সমালোচনার প্রস্তুতি",
+          "en": "Preparing for Criticism",
           "bn": "সমালোচনার প্রস্তুতি"
         },
         "content": {
-          "en": "আপনি যখন নিজের পথে চলবেন, সমালোচনা আসবেই। একে পথের বাধা না ভেবে রাস্তার ধুলো মনে করুন।",
-          "bn": "আপনি যখন নিজের পথে চলবেন, সমালোচনা আসবেই। একে পথের বাধা না ভেবে রাস্তার ধুলো মনে করুন।"
+          "en": "Criticism is inevitable when you forge your own path. Don't see it as a barrier; see it as road dust that is part of the journey.",
+          "bn": "আপনি যখন গতানুগতিক ছকের বাইরে নিজের পথে হাঁটবেন, সমালোচনা আসবেই। একে পথের বাধা না ভেবে রাস্তার ধুলোবালির মতো তুচ্ছ মনে করুন।"
         }
       },
       {
         "title": {
-          "en": "সুখের চাবিকাঠি",
+          "en": "The Key to Happiness",
           "bn": "সুখের চাবিকাঠি"
         },
         "content": {
-          "en": "সুখী হতে চাইলে 'Validation Seeking' বা অনুমোদনের আশা ত্যাগ করতে হবে।",
-          "bn": "সুখী হতে চাইলে 'Validation Seeking' বা অনুমোদনের আশা ত্যাগ করতে হবে।"
+          "en": "If you want to be happy, you must abandon the need for external validation. Your own integrity is the only approval you need.",
+          "bn": "সুখী হতে চাইলে অন্যের অনুমোদনের আশা ত্যাগ করতে হবে। নিজের বিবেক ও সততার কাছে স্বচ্ছ থাকাই হলো সবচেয়ে বড় পুরস্কার।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "এমন একটি পোশাক পরুন বা এমন একটি কাজ করুন যা আপনি \"লোকে কী বলবে\" ভয়ে করছেন না। ছোট একটি ঝুঁকি নিন। কেউ কিছু বললে হাসিমুখে শুনুন এবং নিজের কাজ চালিয়ে যান। এটি আপনার \"Thick Skin\" তৈরি করবে।",
-      "bn": "এমন একটি পোশাক পরুন বা এমন একটি কাজ করুন যা আপনি \"লোকে কী বলবে\" ভয়ে করছেন না। ছোট একটি ঝুঁকি নিন। কেউ কিছু বললে হাসিমুখে শুনুন এবং নিজের কাজ চালিয়ে যান। এটি আপনার \"Thick Skin\" তৈরি করবে।"
+      "en": "Do one thing today (even something small) that you've been avoiding because of what others might say. Smile at any criticism and keep going. This builds your mental resilience.",
+      "bn": "আজ এমন একটি কাজ করুন যা আপনি কেবল 'লোকে কী বলবে' ভয়ে করছেন না। কেউ কিছু বললে হাসিমুখে শুনুন এবং নিজের লক্ষ্য ঠিক রাখুন। এটি আপনার মানসিক চামড়া শক্ত করবে।"
     },
     "criticalReflection": {
-      "en": "\"পরোয়া না করা\" বা \"Not caring\" যদি চরমে নিয়ে যাওয়া হয় তবে তা নার্সিসিজম বা সহানুভূতির অভাবের দিকে যেতে পারে। আমরা একটি সমাজে বাস করি, এবং কখনও কখনও প্রতিক্রিয়া বা সমালোচনা বৈধ (যেমন, যদি কারো কাজ অন্যকে আঘাত করে)। লক্ষ্য হলো নয়েজ বা কোলাহল ফিল্টার করা, বৈধ নৈতিক সমালোচনা নয়।",
-      "bn": "\"পরোয়া না করা\" বা \"Not caring\" যদি চরমে নিয়ে যাওয়া হয় তবে তা নার্সিসিজম বা সহানুভূতির অভাবের দিকে যেতে পারে। আমরা একটি সমাজে বাস করি, এবং কখনও কখনও প্রতিক্রিয়া বা সমালোচনা বৈধ (যেমন, যদি কারো কাজ অন্যকে আঘাত করে)। লক্ষ্য হলো নয়েজ বা কোলাহল ফিল্টার করা, বৈধ নৈতিক সমালোচনা নয়।"
+      "en": "Not caring taken to an extreme can lead to narcissism or a lack of empathy. We live in a society where some feedback is valid and necessary. The goal is filtering noise, not moral critique.",
+      "bn": "মানুষের কথায় কান না দেওয়ার প্রবণতা যদি চরমে পৌঁছায়, তবে তা দাম্ভিকতা বা সহানুভূতির অভাব তৈরি করতে পারে। আমাদের খেয়াল রাখা উচিত যাতে আমরা গঠনমূলক সমালোচনা এবং অপ্রাসঙ্গিক কোলাহলকে আলাদা করতে পারি।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "আপোষহীন অকৃত্রিমতা (Authenticity) এবং সৃজনশীল স্বাধীনতা।",
-        "bn": "আপোষহীন অকৃত্রিমতা (Authenticity) এবং সৃজনশীল স্বাধীনতা।"
+        "en": "Uncompromising authenticity and creative freedom.",
+        "bn": "সৃজনশীল স্বাধীনতা এবং একটি শক্তিশালী ব্যক্তিত্ব গড়ে উঠবে।"
       },
       "social": {
-        "en": "বৈচিত্র্যময় জীবনপথ সহ একটি আরও বৈচিত্র্যময় সমাজ।",
-        "bn": "বৈচিত্র্যময় জীবনপথ সহ একটি আরও বৈচিত্র্যময় সমাজ।"
+        "en": "A more diverse society that respects different life paths.",
+        "bn": "সমাজে বৈচিত্র্য বাড়বে এবং ভিন্নমতের প্রতি শ্রদ্ধাবোধ তৈরি হবে।"
       }
     }
   },
@@ -7100,92 +6923,92 @@ export const chapters: Chapter[] = [
     "id": 73,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Shared Happiness",
-      "bn": "Shared Happiness"
+      "bn": "আনন্দের ভাগীদার"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "There’s no enjoying the possession of anything valuable unless one has someone to share it with.",
-          "bn": "There’s no enjoying the possession of anything valuable unless one has someone to share it with."
+          "bn": "কোনো মূল্যবান অর্জনেই আনন্দ নেই, যদি না তা ভাগ করে নেওয়ার মতো কেউ থাকে।"
         },
         "author": {
           "en": "Seneca",
-          "bn": "Seneca"
+          "bn": "সেনেকা"
         }
       },
       {
         "quote": {
           "en": "No matter how cool or badass you are, it’s good to let people know you appreciate them.",
-          "bn": "No matter how cool or badass you are, it’s good to let people know you appreciate them."
+          "bn": "আপনি যতই কঠোর ব্যক্তিত্বের মানুষ হোন না কেন, অন্যদের জানানো উচিত যে আপনি তাদের গুরুত্ব দেন।"
         },
         "author": {
           "en": "Seneca",
-          "bn": "Seneca"
+          "bn": "সেনেকা"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "একাকী সাফল্যের শূন্যতা",
+          "en": "The Emptiness of Solitary Success",
           "bn": "একাকী সাফল্যের শূন্যতা"
         },
         "content": {
-          "en": "সেনেকার মতে, যদি কেউ একা পৃথিবীর সব সম্পদের মালিক হয় কিন্তু তা শেয়ার করার কেউ না থাকে, তবে সে অসুখী।",
-          "bn": "সেনেকার মতে, যদি কেউ একা পৃথিবীর সব সম্পদের মালিক হয় কিন্তু তা শেয়ার করার কেউ না থাকে, তবে সে অসুখী।"
+          "en": "According to Seneca, even if one possessed all the world's wealth alone, they would be unhappy without someone to share it with. Success is multiplied when shared.",
+          "bn": "সেনেকার মতে, পৃথিবীর সব সম্পদ একা ভোগ করার মধ্যে কোনো সুখ নেই। কোনো আনন্দ যখন আমরা অন্যের সাথে ভাগ করি, তখন তা বহুগুণ বেড়ে যায়।"
         }
       },
       {
         "title": {
-          "en": "সম্পর্কের যত্ন",
+          "en": "Nurturing Relationships",
           "bn": "সম্পর্কের যত্ন"
         },
         "content": {
-          "en": "ব্যস্ততার অজুহাতে প্রিয়জনদের অবহেলা করা উচিত নয়। সত্যিকারের বন্ধুরা সাফল্যের সময় যেমন পাশে থাকে, বিপদেও থাকে।",
-          "bn": "ব্যস্ততার অজুহাতে প্রিয়জনদের অবহেলা করা উচিত নয়। সত্যিকারের বন্ধুরা সাফল্যের সময় যেমন পাশে থাকে, বিপদেও থাকে।"
+          "en": "Do not neglect loved ones under the pretext of being busy. True friends are those who stand by you during both success and adversity.",
+          "bn": "ব্যস্ততার অযুহাতে প্রিয়জনদের অবহেলা করবেন না। সত্যিকারের বন্ধুরা কেবল সাফল্যের সময়েই নয়, বিপদের সময়েও ছায়ার মতো পাশে থাকে।"
         }
       },
       {
         "title": {
-          "en": "বন্ধু হওয়া",
+          "en": "Becoming a Friend",
           "bn": "বন্ধু হওয়া"
         },
         "content": {
-          "en": "ভালো বন্ধু পেতে চাইলে আগে নিজেকে ভালো বন্ধু হতে হবে। এটি একটি দ্বিমুখী রাস্তা।",
-          "bn": "ভালো বন্ধু পেতে চাইলে আগে নিজেকে ভালো বন্ধু হতে হবে। এটি একটি দ্বিমুখী রাস্তা।"
+          "en": "To have great friends, you must first be a great friend. It's a two-way street of mutual growth and support.",
+          "bn": "ভালো বন্ধু পেতে চাইলে আগে নিজেকে একজন ভালো বন্ধু হিসেবে গড়ে তুলুন। এটি পারস্পরিক যত্ন ও উন্নতির একটি দ্বিমুখী পথ।"
         }
       },
       {
         "title": {
-          "en": "কৃতজ্ঞতা প্রকাশ",
+          "en": "Expressing Gratitude",
           "bn": "কৃতজ্ঞতা প্রকাশ"
         },
         "content": {
-          "en": "প্রিয় মানুষদের জানিয়ে দিন তারা আপনার জীবনে কতটা গুরুত্বপূর্ণ। এটি সম্পর্ক মজবুত করে।",
-          "bn": "প্রিয় মানুষদের জানিয়ে দিন তারা আপনার জীবনে কতটা গুরুত্বপূর্ণ। এটি সম্পর্ক মজবুত করে।"
+          "en": "Let the target people know how much you value them. Expressing appreciation strengthens bonds and fosters lasting connections.",
+          "bn": "আপনার কাছের মানুষদের জানিয়ে দিন যে তারা আপনার কাছে কতটা গুরুত্বপূর্ণ। কৃতজ্ঞতা প্রকাশ কেবল সম্পর্ককে মজবুতই করে না, বরং মনে প্রশান্তি যোগায়।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আজ কোনো বিশেষ কারণ ছাড়াই আপনার ৩ জন প্রিয় বন্ধু বা আত্মীয়কে মেসেজ দিন। লিখুন: \"তোমাকে আমার জীবনে পেয়ে আমি খুশি।\" কোনো ফরোয়ার্ডেড মেসেজ নয়, নিজের ভাষায় লিখুন।",
-      "bn": "আজ কোনো বিশেষ কারণ ছাড়াই আপনার ৩ জন প্রিয় বন্ধু বা আত্মীয়কে মেসেজ দিন। লিখুন: \"তোমাকে আমার জীবনে পেয়ে আমি খুশি।\" কোনো ফরোয়ার্ডেড মেসেজ নয়, নিজের ভাষায় লিখুন।"
+      "en": "Message three close friends or relatives today without any specific reason. Say: 'I am happy to have you in my life.' Write it in your own words, avoid forwarded messages.",
+      "bn": "আজ কোনো বিশেষ অযুহাত ছাড়াই আপনার ৩ জন প্রিয় বন্ধু বা আত্মীয়কে একটি মেসেজ দিন। লিখুন: 'তোমাকে আমার জীবনে পেয়ে আমি নিজেকে ভাগ্যবান মনে করি।' নিজের ভাষায় আন্তরিকতার সাথে লিখুন।"
     },
     "criticalReflection": {
-      "en": "বইটি এখানে আত্মনির্ভরশীলতা থেকে পারস্পরিক নির্ভরতার দিকে সরে এসেছে। এটি স্বীকার করে যে স্টয়িসিজম বিচ্ছিন্নতা নয়। যাইহোক, আনন্দ ভাগ করে নেওয়ার জন্য \"যোগ্য\" মানুষ খুঁজে পাওয়া প্রাপ্তবয়স্ক জীবনে চ্যালেঞ্জিং। এই উপদেশটি ধরে নেয় যে একজনের ইতিমধ্যেই একটি সুস্থ সামাজিক বৃত্ত আছে, যা সবার জন্য সত্য নয়।",
-      "bn": "বইটি এখানে আত্মনির্ভরশীলতা থেকে পারস্পরিক নির্ভরতার দিকে সরে এসেছে। এটি স্বীকার করে যে স্টয়িসিজম বিচ্ছিন্নতা নয়। যাইহোক, আনন্দ ভাগ করে নেওয়ার জন্য \"যোগ্য\" মানুষ খুঁজে পাওয়া প্রাপ্তবয়স্ক জীবনে চ্যালেঞ্জিং। এই উপদেশটি ধরে নেয় যে একজনের ইতিমধ্যেই একটি সুস্থ সামাজিক বৃত্ত আছে, যা সবার জন্য সত্য নয়।"
+      "en": "The book shifts here from self-reliance to interdependence. While sharing joy is vital, finding 'worthy' people can be challenging. This advice assumes one already has a healthy social circle.",
+      "bn": "বইটি এখানে আত্মনির্ভরশীলতা থেকে পারস্পরিক সহমর্মিতার দিকে গুরুত্ব দিচ্ছে। তবে আনন্দ ভাগ করার মতো সঠিক মানুষ খুঁজে পাওয়া আজকের দিনে একটি বড় চ্যালেঞ্জ। এটি ধরে নেয় যে আপনার জীবনে ইতিমধ্যেই কিছু বিশ্বস্ত মানুষ আছে।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "একাকীত্ব হ্রাস এবং গভীর মানসিক বন্ধন।",
-        "bn": "একাকীত্ব হ্রাস এবং গভীর মানসিক বন্ধন।"
+        "en": "Reduced loneliness and deeper emotional bonds.",
+        "bn": "একাকীত্ব দূর হবে এবং প্রিয়জনদের সাথে গভীর মানসিক বন্ধন তৈরি হবে।"
       },
       "social": {
-        "en": "শক্তিশালী কমিউনিটি সম্পর্ক এবং সামাজিক পুঁজি (Social Capital)।",
-        "bn": "শক্তিশালী কমিউনিটি সম্পর্ক এবং সামাজিক পুঁজি (Social Capital)।"
+        "en": "Stronger community ties and increased social capital.",
+        "bn": "সমাজে পারস্পরিক শ্রদ্ধাবোধ ও শক্তিশালী সামাজিক যোগাযোগ গড়ে উঠবে।"
       }
     }
   },
@@ -7193,122 +7016,62 @@ export const chapters: Chapter[] = [
     "id": 74,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
-      "en": "The Clouds and the Sun (Intro)",
-      "bn": "The Clouds and the Sun (Intro)"
+      "en": "The Clouds and the Sun",
+      "bn": "মেঘ এবং সূর্য"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Even if some obstacle comes on the scene, its appearance is only to be compared to that of clouds which drift in front of the sun without ever defeating its light.",
-          "bn": "Even if some obstacle comes on the scene, its appearance is only to be compared to that of clouds which drift in front of the sun without ever defeating its light."
+          "bn": "যদি কোনো বাধা আপনার সামনে আসে, তবে জানবেন তা সূর্যের সামনে ভেসে আসা মেঘের মতো—যা ক্ষণিকের জন্য আলোকে ঢাকতে পারে ঠিকই, কিন্তু সূর্যকে জয় করতে পারে না।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "মেঘ বনাম সূর্য",
+          "en": "Clouds vs. The Sun",
           "bn": "মেঘ বনাম সূর্য"
         },
         "content": {
-          "en": "সমস্যা বা বাধা হলো মেঘের মতো, আর আপনার ভেতরের শক্তি হলো সূর্যের মতো। মেঘ সূর্যকে ঢাকতে পারে, কিন্তু নেভাতে পারে না।",
-          "bn": "সমস্যা বা বাধা হলো মেঘের মতো, আর আপনার ভেতরের শক্তি হলো সূর্যের মতো। মেঘ সূর্যকে ঢাকতে পারে, কিন্তু নেভাতে পারে না।"
+          "en": "Problems and obstacles are like clouds, while your inner strength and character are like the sun. Clouds may temporarily obscure the sun, but they can never extinguish its light.",
+          "bn": "আপনার জীবনের সমস্যা বা বাধাগুলো হলো ভাসমান মেঘের মতো, আর আপনার ভেতরের সাহস হলো সূর্যের মতো। মেঘ সাময়িকভাবে সূর্যকে ঢেকে দিতে পারে, কিন্তু তাকে চিরতরে মুছে দেওয়ার শক্তি মেঘের নেই।"
         }
       },
       {
         "title": {
-          "en": "ক্ষণস্থায়ীত্ব",
-          "bn": "ক্ষণস্থায়ীত্ব"
+          "en": "Transience of Obstacles",
+          "bn": "বাধার ক্ষণস্থায়ীত্ব"
         },
         "content": {
-          "en": "প্রতিটি বাধা সাময়িক। এটি আসবে এবং যাবে, কিন্তু আপনার মনের আলো বা সাহস স্থায়ী।",
-          "bn": "প্রতিটি বাধা সাময়িক। এটি আসবে এবং যাবে, কিন্তু আপনার মনের আলো বা সাহস স্থায়ী।"
-        }
-      },
-      {
-        "title": {
-          "en": "Chapter 75",
-          "bn": "Chapter 75"
-        },
-        "content": {
-          "en": "Letter 62: On Living Through Anxious Times",
-          "bn": "Letter 62: On Living Through Anxious Times"
-        }
-      },
-      {
-        "title": {
-          "en": "1. Chapter Title",
-          "bn": "1. Chapter Title"
-        },
-        "content": {
-          "en": "Crisis Management",
-          "bn": "Crisis Management"
-        }
-      },
-      {
-        "title": {
-          "en": "সতর্কতা",
-          "bn": "সতর্কতা"
-        },
-        "content": {
-          "en": "ইউক্রেন যুদ্ধ বা কোভিডের মতো সংকট আমাদের শেখায় যে পৃথিবী অনির্দেশ্য। তাই মানসিকভাবে সবসময় প্রস্তুত থাকতে হবে।",
-          "bn": "ইউক্রেন যুদ্ধ বা কোভিডের মতো সংকট আমাদের শেখায় যে পৃথিবী অনির্দেশ্য। তাই মানসিকভাবে সবসময় প্রস্তুত থাকতে হবে।"
-        }
-      },
-      {
-        "title": {
-          "en": "ইতিহাসের শিক্ষা",
-          "bn": "ইতিহাসের শিক্ষা"
-        },
-        "content": {
-          "en": "স্যাম জেলের (Sam Zell) পরিবারের পোল্যান্ড থেকে পালানোর উদাহরণ দিয়ে লেখক বলেছেন, বিপদ সংকেত চিনতে পারা এবং দ্রুত ব্যবস্থা নেওয়া জরুরি।",
-          "bn": "স্যাম জেলের (Sam Zell) পরিবারের পোল্যান্ড থেকে পালানোর উদাহরণ দিয়ে লেখক বলেছেন, বিপদ সংকেত চিনতে পারা এবং দ্রুত ব্যবস্থা নেওয়া জরুরি।"
-        }
-      },
-      {
-        "title": {
-          "en": "খবর বাছাই",
-          "bn": "খবর বাছাই"
-        },
-        "content": {
-          "en": "সংকটের সময় সব খবর না দেখে কেবল নির্ভরযোগ্য উৎস দেখা উচিত। অতিরিক্ত প্যানিক ছড়ায় এমন সোর্স (যেমন টুইটার/ফেসবুক) বর্জনীয়।",
-          "bn": "সংকটের সময় সব খবর না দেখে কেবল নির্ভরযোগ্য উৎস দেখা উচিত। অতিরিক্ত প্যানিক ছড়ায় এমন সোর্স (যেমন টুইটার/ফেসবুক) বর্জনীয়।"
-        }
-      },
-      {
-        "title": {
-          "en": "সাহস",
-          "bn": "সাহস"
-        },
-        "content": {
-          "en": "ভয় পেয়ে জমে না গিয়ে (Freeze), কাজ করা (Act) বা সিদ্ধান্ত নেওয়া উচিত।",
-          "bn": "ভয় পেয়ে জমে না গিয়ে (Freeze), কাজ করা (Act) বা সিদ্ধান্ত নেওয়া উচিত।"
+          "en": "Every obstacle is temporary. It will eventually drift away, but your resilience and clear mind remain constant. Don't mistake a passing storm for a permanent state.",
+          "bn": "প্রতিটি বাধা বা দুঃখজনক মুহূর্ত সাময়িক। এটি আসবে এবং চলেও যাবে, কিন্তু আপনার মনের সংকল্প স্থায়ী। একটি ক্ষণস্থায়ী ঝড়কে জীবনের চূড়ান্ত পরিণতি বলে ভুল করবেন না।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "",
-      "bn": ""
+      "en": "When you face a setback today, visualize it as a dark cloud. Instead of fighting the cloud, wait for it to pass while keeping your inner 'light' focused on what you can control.",
+      "bn": "আজ কোনো বাধার সম্মুখীন হলে সেটিকে একটি কালো মেঘ হিসেবে কল্পনা করুন। মেঘের সাথে যুদ্ধ না করে সেটি কেটে যাওয়ার অপেক্ষা করুন এবং আপনার নিয়ন্ত্রণের মধ্যে থাকা কাজগুলোতে মনোনিবেশ করুন।"
     },
     "criticalReflection": {
-      "en": "",
-      "bn": ""
+      "en": "The metaphor is comforting but can oversimplify the impact of prolonged crises. Some 'clouds' (like chronic health issues) don't just drift away; they require life-long adaptation, not just waiting.",
+      "bn": "এই উপমাটি শুনতে ভালো লাগলেও দীর্ঘস্থায়ী সংকটের ক্ষেত্রে এটি সবসময় কাজ নাও করতে পারে। কিছু 'মেঘ' (যেমন দীর্ঘস্থায়ী অসুস্থতা) কেবল অপেক্ষার মাধ্যমে কাটে না; বরং সেগুলোর সাথে জীবন যাপনের কৌশল রপ্ত করতে হয়।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "",
-        "bn": ""
+        "en": "Unshakable inner calm despite external turmoil.",
+        "bn": "বাইরের অস্থিরতা সত্ত্বেও মনের ভেতরে অটুট শান্তি বজায় থাকবে।"
       },
       "social": {
-        "en": "",
-        "bn": ""
+        "en": "A more resilient community that remains steady during hardships.",
+        "bn": "একটি ধৈর্যশীল সমাজ গড়ে উঠবে যা প্রতিকূল পরিস্থিতিতেও মাথা ঠান্ডা রাখতে পারে।"
       }
     }
   },
@@ -7316,82 +7079,82 @@ export const chapters: Chapter[] = [
     "id": 75,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Crisis Management",
-      "bn": "Crisis Management"
+      "bn": "সংকট ব্যবস্থাপনা"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Fortune falls heavily on those for whom she’s unexpected. The one always on the lookout easily endures.",
-          "bn": "Fortune falls heavily on those for whom she’s unexpected. The one always on the lookout easily endures."
+          "bn": "দুর্ভাগ্য তাদের ওপর সবচেয়ে বেশি ভারী হয়ে চেপে বসে যারা অপ্রস্তুত। যারা সবসময় সতর্ক থাকে, তারা যেকোনো ঝড় অনায়াসেই সইতে পারে।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "সতর্কতা",
+          "en": "Being Alert",
           "bn": "সতর্কতা"
         },
         "content": {
-          "en": "ইউক্রেন যুদ্ধ বা কোভিডের মতো সংকট আমাদের শেখায় যে পৃথিবী অনির্দেশ্য। তাই মানসিকভাবে সবসময় প্রস্তুত থাকতে হবে।",
-          "bn": "ইউক্রেন যুদ্ধ বা কোভিডের মতো সংকট আমাদের শেখায় যে পৃথিবী অনির্দেশ্য। তাই মানসিকভাবে সবসময় প্রস্তুত থাকতে হবে।"
+          "en": "Crises like the Ukraine war or COVID teach us that the world is unpredictable. Being mentally prepared for the unexpected is a core Stoic duty.",
+          "bn": "ইউক্রেন যুদ্ধ বা কোভিডের মতো আধুনিক সংকটগুলো আমাদের শেখায় যে পৃথিবী চরম অনির্দেশ্য। যেকোনো পরিস্থিতির জন্য মানসিকভাবে প্রস্তুত থাকাই একজন স্টয়িকের প্রধান কর্তব্য।"
         }
       },
       {
         "title": {
-          "en": "ইতিহাসের শিক্ষা",
+          "en": "Lessons from History",
           "bn": "ইতিহাসের শিক্ষা"
         },
         "content": {
-          "en": "স্যাম জেলের (Sam Zell) পরিবারের পোল্যান্ড থেকে পালানোর উদাহরণ দিয়ে লেখক বলেছেন, বিপদ সংকেত চিনতে পারা এবং দ্রুত ব্যবস্থা নেওয়া জরুরি।",
-          "bn": "স্যাম জেলের (Sam Zell) পরিবারের পোল্যান্ড থেকে পালানোর উদাহরণ দিয়ে লেখক বলেছেন, বিপদ সংকেত চিনতে পারা এবং দ্রুত ব্যবস্থা নেওয়া জরুরি।"
+          "en": "Using the example of Sam Zell's family escaping Poland, we learn the importance of recognizing warning signs early and taking decisive action.",
+          "bn": "স্যাম জেলের পরিবারের পোল্যান্ড থেকে রক্ষা পাওয়ার উদাহরণটি আমাদের শেখায় যে, বিপদের সংকেত আগেভাগেই চিনতে পারা এবং দ্রুত সিদ্ধান্ত নেওয়া কতটা জরুরি।"
         }
       },
       {
         "title": {
-          "en": "খবর বাছাই",
+          "en": "Filter Your Feed",
           "bn": "খবর বাছাই"
         },
         "content": {
-          "en": "সংকটের সময় সব খবর না দেখে কেবল নির্ভরযোগ্য উৎস দেখা উচিত। অতিরিক্ত প্যানিক ছড়ায় এমন সোর্স (যেমন টুইটার/ফেসবুক) বর্জনীয়।",
-          "bn": "সংকটের সময় সব খবর না দেখে কেবল নির্ভরযোগ্য উৎস দেখা উচিত। অতিরিক্ত প্যানিক ছড়ায় এমন সোর্স (যেমন টুইটার/ফেসবুক) বর্জনীয়।"
+          "en": "During a crisis, follow only reliable sources. Avoid platforms that thrive on panic (like uncontrolled social media feeds). Information is power, but noise is a toxin.",
+          "bn": "সংকটের সময় অযথা সব খবর না দেখে কেবল নির্ভরযোগ্য উৎস অনুসরণ করুন। অতিরিক্ত প্যানিক ছড়ায় এমন সোশ্যাল মিডিয়া ফিড বর্জন করা উচিত। সঠিক তথ্য শক্তি দেয়, কিন্তু গসিপ আতঙ্ক ছড়ায়।"
         }
       },
       {
         "title": {
-          "en": "সাহস",
-          "bn": "সাহস"
+          "en": "Courage in Action",
+          "bn": "কাজে সাহস"
         },
         "content": {
-          "en": "ভয় পেয়ে জমে না গিয়ে (Freeze), কাজ করা (Act) বা সিদ্ধান্ত নেওয়া উচিত।",
-          "bn": "ভয় পেয়ে জমে না গিয়ে (Freeze), কাজ করা (Act) বা সিদ্ধান্ত নেওয়া উচিত।"
+          "en": "Do not freeze in fear. Stoicism is about taking the best possible action under the circumstances. Decision-making is the best antidote to anxiety.",
+          "bn": "ভয় পেয়ে স্থবির হয়ে যাবেন না। সংকটে সময়মতো সিদ্ধান্ত নেওয়া এবং কাজ করাই হলো আসল স্টয়িসিজম। সুনির্দিষ্ট পরিকল্পনা দুশ্চিন্তা দূর করার সেরা উপায়।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "একটি \"Crisis Plan\" তৈরি করুন। যদি কাল বড় কোনো প্রাকৃতিক দুর্যোগ বা আর্থিক ধস নামে, আপনার প্রথম ৩টি পদক্ষেপ কী হবে? এটি লিখে রাখলে উদ্বেগ কমে এবং আত্মবিশ্বাস বাড়ে।",
-      "bn": "একটি \"Crisis Plan\" তৈরি করুন। যদি কাল বড় কোনো প্রাকৃতিক দুর্যোগ বা আর্থিক ধস নামে, আপনার প্রথম ৩টি পদক্ষেপ কী হবে? এটি লিখে রাখলে উদ্বেগ কমে এবং আত্মবিশ্বাস বাড়ে।"
+      "en": "Create a simple contingency plan for your biggest current worry. What is the one thing you can do right now to prepare? Do it. Then, turn off notifications for all news apps for 4 hours.",
+      "bn": "আপনার বর্তমান সবচেয়ে বড় দুশ্চিন্তার বিষয়ে একটি ছোট্ট পরিকল্পনা (Contingency Plan) করে ফেলুন। এখনই কোনো একটি প্রস্তুতিমূলক কাজ করে ফেলুন। এরপর আগামী ৪ ঘণ্টার জন্য সব নিউজ অ্যাপের নোটিফিকেশন বন্ধ রাখুন।"
     },
     "criticalReflection": {
-      "en": "\"সর্বদা সতর্ক থাকা\" হাইপার-ভিজিল্যান্স বা প্যারানিয়ার দিকে নিয়ে যেতে পারে। প্রস্তুতি চাবিকাঠি হলেও, ক্রমাগত বিপর্যয়ের আশঙ্কায় বেঁচে থাকা বর্তমানকে নষ্ট করে। প্রস্তুতি এবং প্যারানিয়ার মধ্যে ভারসাম্য বজায় রাখা সূক্ষ্ম।",
-      "bn": "\"সর্বদা সতর্ক থাকা\" হাইপার-ভিজিল্যান্স বা প্যারানিয়ার দিকে নিয়ে যেতে পারে। প্রস্তুতি চাবিকাঠি হলেও, ক্রমাগত বিপর্যয়ের আশঙ্কায় বেঁচে থাকা বর্তমানকে নষ্ট করে। প্রস্তুতি এবং প্যারানিয়ার মধ্যে ভারসাম্য বজায় রাখা সূক্ষ্ম।"
+      "en": "Continuous 'preparedness' can morph into hyper-vigilance or chronic anxiety. There is a fine line between being alert and being paranoid. One must also cultivate trust in life's natural flow.",
+      "bn": "সবসময় 'প্রস্তুত' থাকার মানসিকতা মাঝেমধ্যে হাইপার-অ্যাংজাইটি বা অতিরিক্ত উদ্বেগের কারণ হয়ে দাঁড়াতে পারে। সতর্ক থাকা এবং আতঙ্কিত হওয়ার মধ্যে একটি মিহি রেখা আছে, যা বজায় রাখা জরুরি।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "বিৃঙ্খলার মধ্যে প্রশান্তি; উন্নত জরুরি পরিকল্পনা।",
-        "bn": "বিৃঙ্খলার মধ্যে প্রশান্তি; উন্নত জরুরি পরিকল্পনা।"
+        "en": "Reduced panic and more decisive action.",
+        "bn": "আতঙ্কিত হওয়ার প্রবণতা কমবে এবং দ্রুত সঠিক সিদ্ধান্ত নেওয়া সম্ভব হবে।"
       },
       "social": {
-        "en": "প্যানিক বায়িং বা কেনাকাটা এবং সমষ্টিগত হিস্টিরিয়া হ্রাস।",
-        "bn": "প্যানিক বায়িং বা কেনাকাটা এবং সমষ্টিগত হিস্টিরিয়া হ্রাস।"
+        "en": "A stable society that doesn't collapse under collective anxiety.",
+        "bn": "একটি সুশৃঙ্খল সমাজ গড়ে উঠবে যা সামষ্টিক উদ্বেগের মুখেও ভেঙে পড়বে না।"
       }
     }
   },
@@ -7399,92 +7162,92 @@ export const chapters: Chapter[] = [
     "id": 76,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "The Math of Mortality",
-      "bn": "The Math of Mortality"
+      "bn": "মৃত্যুর অংক"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "We hardly ever regret the things we did. Instead, we regret the things we didn’t do.",
-          "bn": "We hardly ever regret the things we did. Instead, we regret the things we didn’t do."
+          "bn": "আমরা যা করেছি তা নিয়ে খুব কমই অনুশোচনা করি। বরং আমরা যা করিনি, তা নিয়েই আমাদের আক্ষেপ বেশি থাকে।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Just being alive is the biggest thing one can be grateful for.",
-          "bn": "Just being alive is the biggest thing one can be grateful for."
+          "bn": "কেবল বেঁচে থাকাটাই হলো কৃতজ্ঞ হওয়ার সবচেয়ে বড় কারণ।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "শেষ দেখা",
-          "bn": "শেষ দেখা"
+          "en": "The Final Encounter",
+          "bn": "শেষের হিসেব"
         },
         "content": {
-          "en": "লেখকের বন্ধু হিসাব করে দেখেছিল যে সে তার বাবা-মাকে আর মাত্র ২০ বার দেখতে পাবে। এই উপলব্ধি তাকে প্রতি মুহূর্তের কদর করতে শিখিয়েছে।",
-          "bn": "লেখকের বন্ধু হিসাব করে দেখেছিল যে সে তার বাবা-মাকে আর মাত্র ২০ বার দেখতে পাবে। এই উপলব্ধি তাকে প্রতি মুহূর্তের কদর করতে শিখিয়েছে।"
+          "en": "A friend's realization that they might only see their parents 20 more times reminds us of the urgency to cherish every moment. Time is finite.",
+          "bn": "লেখকের বন্ধুর উপলব্ধি যে তিনি তার বাবা-মাকে হয়তো আর মাত্র ২০ বার সরাসরি দেখতে পাবেন—এটি আমাদের প্রতি মুহূর্তের মূল্য বুঝতে সাহায্য করে। সময় সংক্ষিপ্ত।"
         }
       },
       {
         "title": {
-          "en": "তুচ্ছ অভিযোগ",
-          "bn": "তুচ্ছ অভিযোগ"
+          "en": "Trivial Conflicts",
+          "bn": "তুচ্ছ বিবাদ"
         },
         "content": {
-          "en": "মৃত্যুর কথা মনে রাখলে ছোটখাটো ঝগড়া বা অভিযোগ অর্থহীন মনে হয়।",
-          "bn": "মৃত্যুর কথা মনে রাখলে ছোটখাটো ঝগড়া বা অভিযোগ অর্থহীন মনে হয়।"
+          "en": "Remembering death makes minor arguments and pettiness seem meaningless. It shifts your focus to what truly matters.",
+          "bn": "মৃত্যুর কথা স্মরণে রাখলে ছোটখাটো মান-অভিমান বা ঝগড়া একেবারেই অর্থহীন মনে হয়। এটি আমাদের কেবল প্রকৃত গুরুত্বপূর্ণ বিষয়গুলোতে মনোনিবেশ করতে শেখায়।"
         }
       },
       {
         "title": {
-          "en": "বেঁচে থাকার আনন্দ",
+          "en": "Joy of Existence",
           "bn": "বেঁচে থাকার আনন্দ"
         },
         "content": {
-          "en": "কেবল বেঁচে থাকাটাই যে কত বড় উপহার, তা আমরা প্রায়ই ভুলে যাই।",
-          "bn": "কেবল বেঁচে থাকাটাই যে কত বড় উপহার, তা আমরা প্রায়ই ভুলে যাই।"
+          "en": "We often forget what a privilege it is to simply exist. Gratitude for local presence is the foundation of a happy life.",
+          "bn": "বেঁচে থাকাটাই যে কত বড় একটি সুযোগ, তা আমরা প্রায়ই ভুলে যাই। এই মুহূর্তে সুস্থভাবে বেঁচে থাকার জন্য কৃতজ্ঞ হওয়াই হলো সুখী জীবনের ভিত্তি।"
         }
       },
       {
         "title": {
-          "en": "রিগ্রেট মিনিমাইজেশন",
-          "bn": "রিগ্রেট মিনিমাইজেশন"
+          "en": "Regret Minimization",
+          "bn": "অনুশোচনা কমানো"
         },
         "content": {
-          "en": "শেষ বয়সে অনুশোচনা এড়াতে এখনই প্রিয়জনদের সময় দেওয়া উচিত।",
-          "bn": "শেষ বয়সে অনুশোচনা এড়াতে এখনই প্রিয়জনদের সময় দেওয়া উচিত।"
+          "en": "Spend time with loved ones now to avoid regret later. Priority management is relationship management.",
+          "bn": "শেষ বয়সে অনুশোচনা এড়াতে এখনই প্রিয়জনদের গুণগত সময় দিন। আপনার সময়ের সঠিক ব্যবহারই আপনার সম্পর্কের গভীরতা নির্ধারণ করে।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "\"Memento Mori\" (মৃত্যুকে স্মরণ কর) অনুশীলন করুন। ভাবুন, যদি আজকেই আপনার প্রিয়জনের সাথে শেষ দেখা হয়, তবে আপনি তার সাথে কেমন আচরণ করবেন? আজ বাড়ি ফিরে বা ফোনে ঠিক সেই আচরণটি করুন।",
-      "bn": "\"Memento Mori\" (মৃত্যুকে স্মরণ কর) অনুশীলন করুন। ভাবুন, যদি আজকেই আপনার প্রিয়জনের সাথে শেষ দেখা হয়, তবে আপনি তার সাথে কেমন আচরণ করবেন? আজ বাড়ি ফিরে বা ফোনে ঠিক সেই আচরণটি করুন।"
+      "en": "Practice 'Memento Mori' today. Imagine this is the last time you'll see a loved one. How would you treat them? Go and act that way right now.",
+      "bn": "\"Memento Mori\" (মৃত্যুকে স্মরণ করা) অনুশীলন করুন। ভাবুন, যদি আজকেই আপনার প্রিয় কোনো মানুষের সাথে শেষ দেখা হয়, তবে আপনি তার সাথে কেমন আচরণ করবেন? আজ সুযোগ পেলেই তার সাথে সেই আন্তরিকতা প্রকাশ করুন।"
     },
     "criticalReflection": {
-      "en": "পিতামাতার সাথে আর \"কতবার দেখা হবে\" তা গণনা করা একটি ভয়ঙ্কর কিন্তু কার্যকর বাস্তবতার মুখোমুখি হওয়া। এটি অগ্রাধিকার বা প্রায়োরিটি ঠিক করতে বাধ্য করে। তবে, এটি আগে থেকেই শোক বা \"Anticipatory Grief\" তৈরি করতে পারে, যা সাক্ষাতগুলোকে আনন্দদায়ক না করে ভারী করে তুলতে পারে।",
-      "bn": "পিতামাতার সাথে আর \"কতবার দেখা হবে\" তা গণনা করা একটি ভয়ঙ্কর কিন্তু কার্যকর বাস্তবতার মুখোমুখি হওয়া। এটি অগ্রাধিকার বা প্রায়োরিটি ঠিক করতে বাধ্য করে। তবে, এটি আগে থেকেই শোক বা \"Anticipatory Grief\" তৈরি করতে পারে, যা সাক্ষাতগুলোকে আনন্দদায়ক না করে ভারী করে তুলতে পারে।"
+      "en": "Calculating 'how many times left' is a jarring but effective reality check. It forces prioritization but can also trigger anticipatory grief if not balanced with joy.",
+      "bn": "প্রিয়জনদের সাথে আর 'কতবার দেখা হবে' তার হিসেব করাটা বেশ বেদনাদায়ক হলেও জীবনের কদর করতে শেখায়। এটি আপনাকে অগ্রাধিকার ঠিক করতে বাধ্য করে, তবে অতিরিক্ত চিন্তা করলে এটি অহেতুক শোকের জন্ম দিতে পারে।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "সম্পর্কে উপস্থিতি বৃদ্ধি; তুচ্ছ সংঘাত হ্রাস।",
-        "bn": "সম্পর্কে উপস্থিতি বৃদ্ধি; তুচ্ছ সংঘাত হ্রাস।"
+        "en": "Increased presence in relationships; reduced trivial conflict.",
+        "bn": "সম্পর্কে আন্তরিকতা বাড়বে এবং ছোটখাটো বিবাদ কমে যাবে।"
       },
       "social": {
-        "en": "প্রজন্মের মধ্যে শক্তিশালী বন্ধন।",
-        "bn": "প্রজন্মের মধ্যে শক্তিশালী বন্ধন।"
+        "en": "Stronger generational bonds and appreciation for elders.",
+        "bn": "পরিবারের বড়দের প্রতি সম্মান বাড়বে এবং বংশগত বন্ধন আরও মজবুত হবে।"
       }
     }
   },
@@ -7492,92 +7255,92 @@ export const chapters: Chapter[] = [
     "id": 77,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Embracing the Cycle",
-      "bn": "Embracing the Cycle"
+      "bn": "জীবনচক্রকে আলিঙ্গন করা"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "The world’s cycles never change — up and down, from age to age.",
-          "bn": "The world’s cycles never change — up and down, from age to age."
+          "bn": "পৃথিবীর পালাবদল কখনো থামে না—উত্থান আর পতন চিরকাল একই থাকে।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "When things are good, simply enjoy. When things are bad, go through it.",
-          "bn": "When things are good, simply enjoy. When things are bad, go through it."
+          "bn": "যখন সময় অনুকূলে থাকে, তখন তা উপভোগ করুন। যখন প্রতিকূল থাকে, তখন ধৈর্য ধরে পার হয়ে যান।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "জীবনের চক্র",
-          "bn": "জীবনের চক্র"
+          "en": "The Sine Wave of Life",
+          "bn": "জীবনের গতিপথ"
         },
         "content": {
-          "en": "জীবন সরলরেখা নয়, এটি একটি সাইন ওয়েভ (Sine Wave)—কখনও ওপরে, কখনও নিচে। খারাপ সময় চিরস্থায়ী নয়, ভালো সময়ও নয়।",
-          "bn": "জীবন সরলরেখা নয়, এটি একটি সাইন ওয়েভ (Sine Wave)—কখনও ওপরে, কখনও নিচে। খারাপ সময় চিরস্থায়ী নয়, ভালো সময়ও নয়।"
+          "en": "Life is not a straight line but a sine wave — sometimes up, sometimes down. Bad times aren't permanent, and neither are the good ones.",
+          "bn": "জীবন কোনো সরলরেখা নয়, বরং সমুদ্রের ঢেউয়ের মতো—কখনো ওপরে ওঠে, কখনো নিচে নামে। খারাপ সময় যেমন চিরস্থায়ী নয়, ভালো সময়ও তেমনি চিরকাল থাকে না।"
         }
       },
       {
         "title": {
-          "en": "অভিনেতার ভূমিকা",
-          "bn": "অভিনেতার ভূমিকা"
+          "en": "Playing Your Part",
+          "bn": "নিজের ভূমিকা পালন"
         },
         "content": {
-          "en": "আমরা জীবনের নাটকে কেবল অভিনেতা। চিত্রনাট্য (ভাগ্য) আমাদের হাতে নেই, কিন্তু অভিনয় (প্রতিক্রিয়া) আমাদের হাতে।",
-          "bn": "আমরা জীবনের নাটকে কেবল অভিনেতা। চিত্রনাট্য (ভাগ্য) আমাদের হাতে নেই, কিন্তু অভিনয় (প্রতিক্রিয়া) আমাদের হাতে।"
+          "en": "We are but actors in the play of life. The script (fate) may not be in our hands, but the performance (reaction) is.",
+          "bn": "আমরা এই জীবন-নাটকের কেবল অভিনেতা। আমাদের ভাগ্য বা চিত্রনাট্য হয়তো আমাদের হাতে নেই, কিন্তু আমাদের প্রতিক্রিয়া বা অভিনয় সম্পূর্ণ আমাদের নিয়ন্ত্রণে।"
         }
       },
       {
         "title": {
-          "en": "জোকারের উপমা",
+          "en": "The Joker Metaphor",
           "bn": "জোকারের উপমা"
         },
         "content": {
-          "en": "একই জোকার চরিত্রে বিভিন্ন অভিনেতা ভিন্নভাবে অভিনয় করেছেন। তেমনি আমাদের পরিস্থিতি এক হলেও আমাদের প্রতিক্রিয়া ভিন্ন হতে পারে।",
-          "bn": "একই জোকার চরিত্রে বিভিন্ন অভিনেতা ভিন্নভাবে অভিনয় করেছেন। তেমনি আমাদের পরিস্থিতি এক হলেও আমাদের প্রতিক্রিয়া ভিন্ন হতে পারে।"
+          "en": "The same Joker character has been played differently by various actors. Similarly, even if our situation is the same, our reactions can differ based on our character.",
+          "bn": "একই 'জোকার' চরিত্রে বিভিন্ন অভিনেতা ভিন্নভাবে অভিনয় করেছেন। তেমনি আমাদের পরিস্থিতি এক হলেও আমাদের প্রতিক্রিয়া বা ব্যক্তিত্ব ভিন্ন হতে পারে।"
         }
       },
       {
         "title": {
-          "en": "স্বাভাবিকতা",
+          "en": "Natural Flow",
           "bn": "স্বাভাবিকতা"
         },
         "content": {
-          "en": "উত্থান-পতনকে জীবনের স্বাভাবিক নিয়ম বা ঋতু পরিবর্তনের মতো মেনে নেওয়া।",
-          "bn": "উত্থান-পতনকে জীবনের স্বাভাবিক নিয়ম বা ঋতু পরিবর্তনের মতো মেনে নেওয়া।"
+          "en": "Accepting the highs and lows as a natural law of life, similar to the changing of seasons.",
+          "bn": "জীবনের উত্থান-পতনকে প্রকৃতির স্বাভাবিক নিয়ম বা ঋতু পরিবর্তনের মতোই সহজভাবে মেনে নেওয়া উচিত।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আপনার জীবনের বর্তমান অবস্থাকে একটি ঋতুর সাথে তুলনা করুন। যদি এখন \"শীতকাল\" (খারাপ সময়) চলে, তবে মনে রাখুন বসন্ত আসবেই। এই সময়ে কেবল টিকে থাকার (Survival) দিকে মনোযোগ দিন, বড় কিছু করার দরকার নেই।",
-      "bn": "আপনার জীবনের বর্তমান অবস্থাকে একটি ঋতুর সাথে তুলনা করুন। যদি এখন \"শীতকাল\" (খারাপ সময়) চলে, তবে মনে রাখুন বসন্ত আসবেই। এই সময়ে কেবল টিকে থাকার (Survival) দিকে মনোযোগ দিন, বড় কিছু করার দরকার নেই।"
+      "en": "Compare your current life stage to a season. If it's 'winter' (a hard time), remember that spring is inevitable. Focus on survival and small wins today.",
+      "bn": "আপনার জীবনের বর্তমান অবস্থাকে একটি ঋতুর সাথে তুলনা করুন। যদি এখন 'শীতকাল' (খারাপ সময়) চলে, তবে মনে রাখুন বসন্ত আসবেই। এই সময়ে কেবল টিকে থাকা এবং ছোটখাটো কাজগুলো শেষ করার দিকে মনোযোগ দিন।"
     },
     "criticalReflection": {
-      "en": "চক্র মেনে নেওয়া খারাপ সময়ে হতাশা কমাতে সাহায্য করে কিন্তু ভালো সময়ে অহংকারও নিয়ন্ত্রণ করে। এটি ইগোকে নিয়ন্ত্রণে রাখে। সমাজতাত্ত্বিকভাবে, চক্র স্বীকার করা সমাজগুলোকে আশা না হারিয়ে অর্থনৈতিক মন্দা বা মহামারীগুলির জন্য প্রস্তুত হতে সাহায্য করে।",
-      "bn": "চক্র মেনে নেওয়া খারাপ সময়ে হতাশা কমাতে সাহায্য করে কিন্তু ভালো সময়ে অহংকারও নিয়ন্ত্রণ করে। এটি ইগোকে নিয়ন্ত্রণে রাখে। সমাজতাত্ত্বিকভাবে, চক্র স্বীকার করা সমাজগুলোকে আশা না হারিয়ে অর্থনৈতিক মন্দা বা মহামারীগুলির জন্য প্রস্তুত হতে সাহায্য করে।"
+      "en": "Accepting the cycle reduces despair in bad times and controls arrogance in good ones. It keeps the ego in check and helps societies prepare for regressions without losing hope.",
+      "bn": "জীবনের এই রূপান্তর মেনে নেওয়া খারাপ সময়ে যেমন হতাশা কমায়, ভালো সময়েও তেমনি অহংকার নিয়ন্ত্রণ করে। এটি ইগোকে শান্ত রাখে এবং সংকটের মুহূর্তে সমাজকে আশাবাদী হতে সাহায্য করে।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "সংকটের সময় মানসিক স্থিতিশীলতা।",
-        "bn": "সংকটের সময় মানসিক স্থিতিশীলতা।"
+        "en": "Emotional stability during crises.",
+        "bn": "সংকটের সময় মানসিক স্থিতিশীলতা বজায় থাকবে।"
       },
       "social": {
-        "en": "ধৈর্য এবং দীর্ঘমেয়াদী চিন্তাভাবনার সংস্কৃতি।",
-        "bn": "ধৈর্য এবং দীর্ঘমেয়াদী চিন্তাভাবনার সংস্কৃতি।"
+        "en": "A culture of patience and long-term thinking.",
+        "bn": "সমাজে ধৈর্য এবং দীর্ঘমেয়াদী চিন্তাভাবনার সংস্কৃতি গড়ে উঠবে।"
       }
     }
   },
@@ -7585,92 +7348,92 @@ export const chapters: Chapter[] = [
     "id": 78,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Breaking the Spiral",
-      "bn": "Breaking the Spiral"
+      "bn": "নেতিবাচক চক্র ভাঙা"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "One little negative thing can set you on this whole downward spiral.",
-          "bn": "One little negative thing can set you on this whole downward spiral."
+          "bn": "একটি ছোট নেতিবাচক ঘটনা পুরো জীবনকে এক অন্ধকার গোলকধাঁধায় ফেলে দিতে পারে।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "When you work on something that’s important to you, you feel that your days have meaning.",
-          "bn": "When you work on something that’s important to you, you feel that your days have meaning."
+          "bn": "যখন আপনি নিজের কাছে গুরুত্বপূর্ণ কোনো কাজে যুক্ত থাকেন, তখন প্রতিটি দিন আপনার কাছে অর্থবহ হয়ে ওঠে।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "নেতিবাচক চক্র",
+          "en": "The Negative Loop",
           "bn": "নেতিবাচক চক্র"
         },
         "content": {
-          "en": "একটি ছোট খারাপ ঘটনা (যেমন অসুস্থতা) আমাদের রুটিন নষ্ট করে দেয় এবং সেখান থেকে হতাশার চক্র শুরু হয়।",
-          "bn": "একটি ছোট খারাপ ঘটনা (যেমন অসুস্থতা) আমাদের রুটিন নষ্ট করে দেয় এবং সেখান থেকে হতাশার চক্র শুরু হয়।"
+          "en": "A small bad event (like illness or a minor failure) can break our routine and start a downward spiral of depression and stagnation.",
+          "bn": "একটি ছোট খারাপ ঘটনা (যেমন অসুস্থতা বা সামান্য ব্যর্থতা) আমাদের রুটিন এলোমেলো করে দিতে পারে এবং সেখান থেকেই হতাশার এক নেতিবাচক চক্র শুরু হয়।"
         }
       },
       {
         "title": {
-          "en": "উদ্দেশ্য খুঁজে পাওয়া",
+          "en": "Finding Purpose",
           "bn": "উদ্দেশ্য খুঁজে পাওয়া"
         },
         "content": {
-          "en": "হতাশা কাটানোর সেরা উপায় হলো নতুন কোনো অর্থবহ লক্ষ্য ঠিক করা।",
-          "bn": "হতাশা কাটানোর সেরা উপায় হলো নতুন কোনো অর্থবহ লক্ষ্য ঠিক করা।"
+          "en": "The best way to break this spiral is to set a new, meaningful goal. Small victories create momentum.",
+          "bn": "এই নেতিবাচক চক্র ভাঙার সেরা উপায় হলো নতুন কোনো অর্থবহ লক্ষ্য স্থির করা। ছোট ছোট জয় আপনার হারানো মনোবল ফিরিয়ে আনে।"
         }
       },
       {
         "title": {
-          "en": "অন্যের উপকার",
+          "en": "Helping Others",
           "bn": "অন্যের উপকার"
         },
         "content": {
-          "en": "নিজের দুঃখ নিয়ে না ভেবে অন্যের জন্য কিছু করলে দ্রুত মোটিভেশন ফিরে আসে।",
-          "bn": "নিজের দুঃখ নিয়ে না ভেবে অন্যের জন্য কিছু করলে দ্রুত মোটিভেশন ফিরে আসে।"
+          "en": "Focusing on helping others instead of brooding over your own pain brings back motivation quickly. Altruism is a mental reset.",
+          "bn": "নিজের দুঃখ নিয়ে না ভেবে অন্যের জন্য কিছু করলে খুব দ্রুত মোটিভেশন বা প্রেরণা ফিরে আসে। পরোপকার মনের সমস্ত কালিমা মুছে দিয়ে নতুন প্রাণের সঞ্চার করে।"
         }
       },
       {
         "title": {
-          "en": "তাৎক্ষণিক অ্যাকশন",
-          "bn": "তাৎক্ষণিক অ্যাকশন"
+          "en": "Immediate Action",
+          "bn": "তাৎক্ষণিক কাজ"
         },
         "content": {
-          "en": "বড় পরিবর্তনের জন্য অপেক্ষা না করে ছোট কোনো কাজ শুরু করা।",
-          "bn": "বড় পরিবর্তনের জন্য অপেক্ষা না করে ছোট কোনো কাজ শুরু করা।"
+          "en": "Don't wait for massive changes. Start with one small, productive task right now to reclaim your day.",
+          "bn": "বড় কোনো পরিবর্তনের জন্য অপেক্ষা না করে এখনই কোনো একটি ছোট কিন্তু ফলদায়ক কাজ শুরু করুন। প্রতিটি ছোট কাজ আপনাকে বড় সাফল্যের দিকে এগিয়ে নেবে।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "যদি নিজেকে \"আটকে থাকা\" (Stuck) মনে হয়, তবে আজই এমন একটি কাজ করুন যা অন্যের উপকারে আসে। হতে পারে ঘরের কাজ করে দেওয়া বা কলিগকে সাহায্য করা। নিজের ফোকাস \"আমি\" থেকে সরিয়ে \"আমরা\"-তে নিন।",
-      "bn": "যদি নিজেকে \"আটকে থাকা\" (Stuck) মনে হয়, তবে আজই এমন একটি কাজ করুন যা অন্যের উপকারে আসে। হতে পারে ঘরের কাজ করে দেওয়া বা কলিগকে সাহায্য করা। নিজের ফোকাস \"আমি\" থেকে সরিয়ে \"আমরা\"-তে নিন।"
+      "en": "If you feel 'stuck', do something today that benefits someone else. It could be a chore for a housemate or helping a colleague. Shift your focus from 'me' to 'we'.",
+      "bn": "যদি মনে হয় আপনি থমকে গেছেন, তবে আজই অন্যের উপকারে আসে এমন কোনো কাজ করুন। হতে পারে ঘরের কাজে প্রিয়জনকে সাহায্য করা বা সহকর্মীর কোনো জটিল কাজ সহজ করে দেওয়া। নিজের ফোকাস 'আমি' থেকে সরিয়ে 'আমরা'-তে নিয়ে আসুন।"
     },
     "criticalReflection": {
-      "en": "\"অন্যদের ওপর ফোকাস করা\" একটি ক্লিনিক্যালি প্রমাণিত অ্যান্টিডিপ্রেসেন্ট পদ্ধতি (পরার্থপরতা বা Altruism)। এটি চিন্তামগ্ন মস্তিষ্ককে অভ্যন্তরীণ দুঃখ থেকে বাহ্যিক উপযোগিতার দিকে সরিয়ে দেয়। এটি মানসিক স্বাস্থ্যের জন্য একটি সাধারণ কিন্তু গভীর বায়ো-হ্যাক।",
-      "bn": "\"অন্যদের ওপর ফোকাস করা\" একটি ক্লিনিক্যালি প্রমাণিত অ্যান্টিডিপ্রেসেন্ট পদ্ধতি (পরার্থপরতা বা Altruism)। এটি চিন্তামগ্ন মস্তিষ্ককে অভ্যন্তরীণ দুঃখ থেকে বাহ্যিক উপযোগিতার দিকে সরিয়ে দেয়। এটি মানসিক স্বাস্থ্যের জন্য একটি সাধারণ কিন্তু গভীর বায়ো-হ্যাক।"
+      "en": "Shifting focus to others is a clinically proven antidepressant method. It redirects the mind from internal rumination to external utility. It's a simple yet profound mental health hack.",
+      "bn": "অন্যদের ওপর মনোনিবেশ করা একটি প্রমাণিত বৈজ্ঞানিক পদ্ধতি যা মনকে বিষণ্ণতা থেকে দূরে রাখে। এটি মস্তিষ্ককে নিজের ভেতরের দুঃখ থেকে মুক্ত করে বাইরের দুনিয়ার হিতকর কাজে ব্যস্ত রাখে।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "বিষণ্নতা বা ক্রিয়েটিভ ব্লক থেকে দ্রুত পুনরুদ্ধার।",
-        "bn": "বিষণ্নতা বা ক্রিয়েটিভ ব্লক থেকে দ্রুত পুনরুদ্ধার।"
+        "en": "Quick recovery from depression or creative blocks.",
+        "bn": "বিষণ্ণতা বা চিন্তার স্থবিরতা থেকে দ্রুত মুক্তি পাওয়া সম্ভব হবে।"
       },
       "social": {
-        "en": "স্বেচ্ছাসেবী মনোভাব এবং সামাজিক সহায়তা বৃদ্ধি।",
-        "bn": "স্বেচ্ছাসেবী মনোভাব এবং সামাজিক সহায়তা বৃদ্ধি।"
+        "en": "Increased volunteerism and community support.",
+        "bn": "সমাজে স্বেচ্ছাসেবামূলক মানসিকতা এবং একে অপরের বিপদে এগিয়ে আসার প্রবণতা বাড়বে।"
       }
     }
   },
@@ -7781,92 +7544,92 @@ export const chapters: Chapter[] = [
     "id": 80,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Taking Charge",
-      "bn": "Taking Charge"
+      "bn": "দায়িত্ব নেওয়া"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Make the best use of what is in your power, and take the rest as it happens.",
-          "bn": "Make the best use of what is in your power, and take the rest as it happens."
+          "bn": "আপনার ক্ষমতার মধ্যে যা আছে তার সর্বোত্তম ব্যবহার করুন এবং বাকিটা যেভাবে ঘটে সেভাবেই গ্রহণ করুন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Let us commit to making the best of any situation.",
-          "bn": "Let us commit to making the best of any situation."
+          "bn": "যেকোনো পরিস্থিতির মুখোমুখি হয়ে নিজের সর্বোচ্চটা দেওয়ার শপথ নিন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "খবরের প্রভাব",
+          "en": "Impact of News",
           "bn": "খবরের প্রভাব"
         },
         "content": {
-          "en": "প্রতিদিন নেতিবাচক খবর দেখলে মনে হয় পৃথিবী ধ্বংস হয়ে যাচ্ছে, যা আমাদের নিষ্ক্রিয় করে দেয়।",
-          "bn": "প্রতিদিন নেতিবাচক খবর দেখলে মনে হয় পৃথিবী ধ্বংস হয়ে যাচ্ছে, যা আমাদের নিষ্ক্রিয় করে দেয়।"
+          "en": "Watching negative news daily makes it feel like the world is ending, which paralyzes us. Focus on local action over global anxiety.",
+          "bn": "প্রতিদিন নেতিবাচক খবর দেখলে মনে হয় পৃথিবী ধ্বংস হয়ে যাচ্ছে, যা আমাদের কর্মস্পৃহা নষ্ট করে দেয়। বিশ্বব্যাপী অস্থিরতা নিয়ে দুশ্চিন্তা না করে নিজের কাজের দিকে মন দিন।"
         }
       },
       {
         "title": {
-          "en": "ইতিহাসের শিক্ষা",
+          "en": "Lessons from History",
           "bn": "ইতিহাসের শিক্ষা"
         },
         "content": {
-          "en": "২০০৮-এর মন্দার সময়ও অনেকে ভেবেছিল সব শেষ, কিন্তু অর্থনীতি ঘুরে দাঁড়িয়েছে। তাই প্যানিক না হয়ে নিজের কাজ করা উচিত।",
-          "bn": "২০০৮-এর মন্দার সময়ও অনেকে ভেবেছিল সব শেষ, কিন্তু অর্থনীতি ঘুরে দাঁড়িয়েছে। তাই প্যানিক না হয়ে নিজের কাজ করা উচিত।"
+          "en": "During the 2008 recession, many thought it was the end, but the economy recovered. History shows that cycles of crisis are followed by periods of growth.",
+          "bn": "২০০৮ সালের মহা-মন্দার সময়ও অনেকে ভেবেছিল সব শেষ, কিন্তু অর্থনীতি আবার ঘুরে দাঁড়িয়েছে। ইতিহাস বলে—সংকটের প্রতিটি চক্রের পরেই নতুন অগ্রগতির পথ খোলে।"
         }
       },
       {
         "title": {
-          "en": "দায়িত্ব গ্রহণ",
+          "en": "Taking Responsibility",
           "bn": "দায়িত্ব গ্রহণ"
         },
         "content": {
-          "en": "বাইরের পরিস্থিতির দোষ না দিয়ে নিজের অবস্থার দায়িত্ব নিজেকেই নিতে হবে।",
-          "bn": "বাইরের পরিস্থিতির দোষ না দিয়ে নিজের অবস্থার দায়িত্ব নিজেকেই নিতে হবে।"
+          "en": "Instead of blaming external situations, take responsibility for your own state. You cannot control the wind, but you can adjust your sails.",
+          "bn": "বাইরের পরিস্থিতির ওপর দোষারোপ না করে নিজের অবস্থার উন্নতি করার দায়িত্ব নিজেই নিন। আপনি হয়তো বাতাস নিয়ন্ত্রণ করতে পারবেন না, কিন্তু পাল ঘুরিয়ে গন্তব্যে পৌঁছানোর সাধ্য আপনার আছে।"
         }
       },
       {
         "title": {
-          "en": "প্রতিক্রিয়া নিয়ন্ত্রণ",
+          "en": "Controlling Reaction",
           "bn": "প্রতিক্রিয়া নিয়ন্ত্রণ"
         },
         "content": {
-          "en": "অর্থনীতি বা রাজনীতি আমাদের হাতে নেই, কিন্তু আমাদের স্কিল এবং সঞ্চয় আমাদের হাতে।",
-          "bn": "অর্থনীতি বা রাজনীতি আমাদের হাতে নেই, কিন্তু আমাদের স্কিল এবং সঞ্চয় আমাদের হাতে।"
+          "en": "Economy or politics may not be in our hands, but our skills and savings are. Focus on your circle of influence.",
+          "bn": "দেশের অর্থনীতি বা রাজনীতি হয়তো আপনার হাতে নেই, কিন্তু আপনার দক্ষতা বৃদ্ধি এবং সঞ্চয় পরিচালনা আপনার নিয়ন্ত্রণেই আছে।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আগামী ৩ দিন কোনো নিউজ চ্যানেল বা নিউজ পোর্টাল দেখবেন না। সেই সময়টুকু নিজের স্কিল ডেভেলপমেন্টে ব্যয় করুন। দেখুন উদ্বেগ কমে কি না এবং প্রোডাক্টিভিটি বাড়ে কি না।",
-      "bn": "আগামী ৩ দিন কোনো নিউজ চ্যানেল বা নিউজ পোর্টাল দেখবেন না। সেই সময়টুকু নিজের স্কিল ডেভেলপমেন্টে ব্যয় করুন। দেখুন উদ্বেগ কমে কি না এবং প্রোডাক্টিভিটি বাড়ে কি না।"
+      "en": "Don't watch news for the next 3 days. Spend that time on skill development or planning. Notice if your anxiety decreases and productivity increases.",
+      "bn": "আগামী ৩ দিন কোনো সংবাদ বা নিউজ পোর্টাল দেখবেন না। সেই সময়টুকু নিজের দক্ষতা বাড়াতে বা নতুন পরিকল্পনায় ব্যয় করুন। দেখুন আপনার দুশ্চিন্তা কমছে কি না এবং কাজে গতি আসছে কি না।"
     },
     "criticalReflection": {
-      "en": "খবর এড়িয়ে চলা বা ইগনোর করা একজন অবগত ভোটার হওয়ার পথে বাধা হতে পারে। ব্যক্তিগত শক্তি অত্যাবশ্যক, কিন্তু সমষ্টিগত শক্তি (ভোটদান, সক্রিয়তা) বাহ্যিক পরিস্থিতিকে রূপ দেয়। একজন নাগরিক হিসাবে কাজ করার জন্য যথেষ্ট তথ্য জানা উচিত, কিন্তু ব্যক্তি হিসাবে পক্ষাঘাতগ্রস্ত বা প্যারালাইজড হওয়ার মতো অতিরিক্ত তথ্য নয়।",
-      "bn": "খবর এড়িয়ে চলা বা ইগনোর করা একজন অবগত ভোটার হওয়ার পথে বাধা হতে পারে। ব্যক্তিগত শক্তি অত্যাবশ্যক, কিন্তু সমষ্টিগত শক্তি (ভোটদান, সক্রিয়তা) বাহ্যিক পরিস্থিতিকে রূপ দেয়। একজন নাগরিক হিসাবে কাজ করার জন্য যথেষ্ট তথ্য জানা উচিত, কিন্তু ব্যক্তি হিসাবে পক্ষাঘাতগ্রস্ত বা প্যারালাইজড হওয়ার মতো অতিরিক্ত তথ্য নয়।"
+      "en": "Avoiding news can be a hurdle to being an informed citizen. However, we need enough information to act as a citizen, but not so much that we become paralyzed as an individual.",
+      "bn": "খবর এড়িয়ে চলা অনেক সময় নাগরিক সচেতনতায় বাধা হতে পারে। তবে মনে রাখবেন—নাগরিক হিসেবে কাজ করার জন্য যতটুকু তথ্য প্রয়োজন, ততটুকুই গ্রহণ করুন; অতিরিক্ত খবর জানলে আপনি মানসিকভাবে শ্রান্ত হয়ে পড়তে পারেন।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "প্রোডাক্টিভ মানসিকতা এবং উদ্বেগ হ্রাস।",
-        "bn": "প্রোডাক্টিভ মানসিকতা এবং উদ্বেগ হ্রাস।"
+        "en": "Productive mindset and reduced anxiety.",
+        "bn": "কাজে উদ্যম ফিরে আসবে এবং অহেতুক উদ্বেগ কমে যাবে।"
       },
       "social": {
-        "en": "অভিযোগের পরিবর্তে সমাধানের দিকে মনোযোগী একটি সমাজ।",
-        "bn": "অভিযোগের পরিবর্তে সমাধানের দিকে মনোযোগী একটি সমাজ।"
+        "en": "A society focused on solutions rather than complaints.",
+        "bn": "অভিযোগ করার পরিবর্তে সমাধানের দিকে মনোযোগী একটি সমাজ গড়ে উঠবে।"
       }
     }
   },
@@ -7874,92 +7637,92 @@ export const chapters: Chapter[] = [
     "id": 81,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "The Inner Ally",
-      "bn": "The Inner Ally"
+      "bn": "ভেতরের বন্ধু"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "What progress, you ask, have I made? I have begun to be a friend to myself.",
-          "bn": "What progress, you ask, have I made? I have begun to be a friend to myself."
+          "bn": "আপনি জানতে চেয়েছেন আমি কতটা উন্নতি করেছি? আমি এখন নিজেরই একজন সত্যিকারের বন্ধু হতে শিখেছি।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "He who is a friend to himself is a friend to all mankind.",
-          "bn": "He who is a friend to himself is a friend to all mankind."
+          "bn": "যে নিজের বন্ধু হতে পারে, সে সকল মানুষেরই বন্ধু হতে সক্ষম।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "আত্ম-সমালোচনা",
+          "en": "Self-Criticism",
           "bn": "আত্ম-সমালোচনা"
         },
         "content": {
-          "en": "আমরা বন্ধুদের ভুলের প্রতি যতটা সদয়, নিজের ভুলের প্রতি ততটাই কঠোর। এই বৈষম্য দূর করতে হবে।",
-          "bn": "আমরা বন্ধুদের ভুলের প্রতি যতটা সদয়, নিজের ভুলের প্রতি ততটাই কঠোর। এই বৈষম্য দূর করতে হবে।"
+          "en": "We are often kind to our friends' mistakes but brutal with our own. This double standard must be eliminated to achieve progress.",
+          "bn": "আমরা বন্ধুদের ভুলের প্রতি যতটুকু সদয় হই, নিজের ভুলের প্রতি ততটাই নির্মম থাকি। জীবনকে সুন্দর করতে এই বৈষম্য দূর করা একান্ত প্রয়োজন।"
         }
       },
       {
         "title": {
-          "en": "বন্ধুর মতো আচরণ",
-          "bn": "বন্ধুর মতো আচরণ"
+          "en": "Treating Yourself as a Friend",
+          "bn": "সংহতি ও বন্ধুপ্রতিম আচরণ"
         },
         "content": {
-          "en": "নিজেকে একজন বেস্ট ফ্রেন্ডের মতো ট্রিট করুন। ভুল করলে বকা না দিয়ে উৎসাহ দিন।",
-          "bn": "নিজেকে একজন বেস্ট ফ্রেন্ডের মতো ট্রিট করুন। ভুল করলে বকা না দিয়ে উৎসাহ দিন।"
+          "en": "Treat yourself with the same compassion you'd offer a best friend. Encourage yourself during failures instead of resorting to shame.",
+          "bn": "নিজেকে একজন সেরা বন্ধুর মতোই সমাদর করুন। ব্যর্থতায় বারবার নিজেকে ছোট না করে বরং নতুন উদ্যমে শুরু করার প্রেরণা দিন।"
         }
       },
       {
         "title": {
-          "en": "সম্পর্কের উন্নতি",
+          "en": "Improving Relationships",
           "bn": "সম্পর্কের উন্নতি"
         },
         "content": {
-          "en": "যে নিজের সাথে ভালো ব্যবহার করে, সে অন্যের সাথেও ভালো ব্যবহার করতে পারে।",
-          "bn": "যে নিজের সাথে ভালো ব্যবহার করে, সে অন্যের সাথেও ভালো ব্যবহার করতে পারে।"
+          "en": "One who is at peace with themselves can interact more healthily with others. Self-love is the foundation of social harmony.",
+          "bn": "যে ব্যক্তি নিজের ভেতরে শান্তিতে থাকে, সে অন্যের সাথেও সুন্দর আচরণ করতে পারে। নিজেকে ভালোবাসা মানেই হলো সুন্দর সমাজ গড়ার প্রথম ধাপ।"
         }
       },
       {
         "title": {
-          "en": "পড়ে যাওয়া",
-          "bn": "পড়ে যাওয়া"
+          "en": "Getting Up After a Fall",
+          "bn": "পড়ে যাওয়া এবং ফিরে আসা"
         },
         "content": {
-          "en": "পড়ে যাওয়া বা ব্যর্থ হওয়া স্বাভাবিক। নিজেকে উঠে দাঁড়াতে সাহায্য করাই বন্ধুর কাজ।",
-          "bn": "পড়ে যাওয়া বা ব্যর্থ হওয়া স্বাভাবিক। নিজেকে উঠে দাঁড়াতে সাহায্য করাই বন্ধুর কাজ।"
+          "en": "Falling or failing is natural. A true friend's job is to help you stand up, not kick you while you're down. Be that friend to yourself.",
+          "bn": "হোঁচট খাওয়া বা ব্যর্থ হওয়া জীবনের স্বাভাবিক নিয়ম। বন্ধুর কাজ হলো আপনাকে পড়ে থাকতে না দেওয়া বরং হাত ধরে উঠে দাঁড়াতে সাহায্য করা। নিজের জন্য সেই কাজটি নিজেই করুন।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "যখনই নিজের ওপর রাগ হবে, চোখ বন্ধ করে ভাবুন আপনার সবচেয়ে প্রিয় বন্ধু এই ভুলটি করেছে। আপনি তাকে কী বলতেন? ঠিক সেই কথাগুলোই নিজেকে বলুন।",
-      "bn": "যখনই নিজের ওপর রাগ হবে, চোখ বন্ধ করে ভাবুন আপনার সবচেয়ে প্রিয় বন্ধু এই ভুলটি করেছে। আপনি তাকে কী বলতেন? ঠিক সেই কথাগুলোই নিজেকে বলুন।"
+      "en": "When you feel angry at yourself today, close your eyes and imagine your best friend made this mistake. What would you say to them? Say those exact words to yourself.",
+      "bn": "আজ যখনই নিজের ওপর বিরক্তি বা রাগ হবে, চোখ বন্ধ করে ভাবুন আপনার সবচেয়ে প্রিয় বন্ধু এই একই ভুলটি করেছে। আপনি তাকে সান্ত্বনা দেওয়ার জন্য কী বলতেন? ঠিক সেই কথাগুলোই এখন নিজেকে বলুন।"
     },
     "criticalReflection": {
-      "en": "নিজেকে বন্ধু ভাবা আত্ম-ঘৃণার প্রতিষেধক। এটি মানসিক স্বাস্থ্যের জন্য মৌলিক। এটি ছাড়া, বাহ্যিক ভ্যালিডেশন একটি মাদকের মতো হয়ে ওঠে। দীর্ঘমেয়াদী সুখের জন্য এটি তর্কসাপেক্ষে সবচেয়ে গুরুত্বপূর্ণ শিক্ষা।",
-      "bn": "নিজেকে বন্ধু ভাবা আত্ম-ঘৃণার প্রতিষেধক। এটি মানসিক স্বাস্থ্যের জন্য মৌলিক। এটি ছাড়া, বাহ্যিক ভ্যালিডেশন একটি মাদকের মতো হয়ে ওঠে। দীর্ঘমেয়াদী সুখের জন্য এটি তর্কসাপেক্ষে সবচেয়ে গুরুত্বপূর্ণ শিক্ষা।"
+      "en": "Treating yourself as a friend is the antidote to self-loathing. Without it, external validation becomes a drug. This is arguably the most important lesson for long-term happiness.",
+      "bn": "নিজেকে বন্ধু ভাবা মানেই হলো আত্ম-গ্লানি থেকে মুক্তি। এটি ছাড়া সমাজের প্রশংসা অনেকটা নেশার মতো হয়ে দাঁড়ায়। দীর্ঘমেয়াদী সুখের জন্য এটিই হতে পারে জীবনের শ্রেষ্ঠ শিক্ষা।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "উচ্চ ইমোশনাল ইন্টেলিজেন্স এবং আত্মপ্রেম।",
-        "bn": "উচ্চ ইমোশনাল ইন্টেলিজেন্স এবং আত্মপ্রেম।"
+        "en": "High emotional intelligence and self-love.",
+        "bn": "আপনার ইমোশনাল ইন্টেলিজেন্স বাড়বে এবং নিজের প্রতি শ্রদ্ধা ও ভালোবাসা জন্মাবে।"
       },
       "social": {
-        "en": "আরও সহানুভূতিশীল এবং কম বিচারপ্রবণ মিথস্ক্রিয়া।",
-        "bn": "আরও সহানুভূতিশীল এবং কম বিচারপ্রবণ মিথস্ক্রিয়া।"
+        "en": "More empathetic and less judgmental interactions.",
+        "bn": "অন্যদের প্রতি আপনার সহানুভূতি বাড়বে এবং আপনি কম বিচারপ্রবণ হবেন।"
       }
     }
   },
@@ -7967,92 +7730,92 @@ export const chapters: Chapter[] = [
     "id": 82,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Economic Stoicism",
-      "bn": "Economic Stoicism"
+      "bn": "অর্থনৈতিক স্টয়িসিজম"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "Do not seek to have events happen as you want them but instead want them to happen and your life will go well.",
-          "bn": "Do not seek to have events happen as you want them but instead want them to happen and your life will go well."
+          "bn": "ঘটনাগুলো আপনার মনের মতো হবে—এমন আশা করবেন না। বরং যা ঘটছে তাকেই হাসিমুখে মেনে নিন, দেখবেন জীবন অনেক সহজ হয়ে গেছে।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "The good thing about the economy is that unlike a company or a person, it never dies.",
-          "bn": "The good thing about the economy is that unlike a company or a person, it never dies."
+          "bn": "অর্থনীতির সবচেয়ে ভালো দিক হলো কোনো প্রতিষ্ঠান বা মানুষের মতো এর কক্ষনো মৃত্যু হয় না।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "চক্রাকার অর্থনীতি",
+          "en": "Cyclical Economy",
           "bn": "চক্রাকার অর্থনীতি"
         },
         "content": {
-          "en": "মন্দা অর্থনীতির একটি স্বাভাবিক অংশ, কোনো বিপর্যয় নয়। এটি ঋতু পরিবর্তনের মতো।",
-          "bn": "মন্দা অর্থনীতির একটি স্বাভাবিক অংশ, কোনো বিপর্যয় নয়। এটি ঋতু পরিবর্তনের মতো।"
+          "en": "Recession is a natural part of the economy, not a disaster. It is similar to the changing of seasons.",
+          "bn": "অর্থনৈতিক মন্দা কোনো বিপর্যয় নয়, বরং এটি অর্থনীতির একটি স্বাভাবিক অংশ। এটি ঠিক ঋতু পরিবর্তনের মতোই ধ্রুব সত্য।"
         }
       },
       {
         "title": {
-          "en": "দীর্ঘমেয়াদী দৃষ্টিভঙ্গি",
+          "en": "Long-term Perspective",
           "bn": "দীর্ঘমেয়াদী দৃষ্টিভঙ্গি"
         },
         "content": {
-          "en": "শর্ট-টার্ম বা স্বল্পমেয়াদী পতনে ভয় না পেয়ে ইতিহাসের দিকে তাকালে দেখা যায়, অর্থনীতি সবসময় ঘুরে দাঁড়ায় (S&P 500 উদাহরণ)।",
-          "bn": "শর্ট-টার্ম বা স্বল্পমেয়াদী পতনে ভয় না পেয়ে ইতিহাসের দিকে তাকালে দেখা যায়, অর্থনীতি সবসময় ঘুরে দাঁড়ায় (S&P 500 উদাহরণ)।"
+          "en": "Do not panic during short-term falls. Looking at history, the economy always recovers and grows in the long run.",
+          "bn": "সাময়িক লোকসানে ঘাবড়ে যাবেন না। ইতিহাসের দিকে তাকালে দেখা যায়, অর্থনীতি সবসময়ই সাময়িক পতন কাটিয়ে বড় সাফল্যের দিকে এগিয়ে যায়।"
         }
       },
       {
         "title": {
-          "en": "আবেগ নিয়ন্ত্রণ",
+          "en": "Emotional Control",
           "bn": "আবেগ নিয়ন্ত্রণ"
         },
         "content": {
-          "en": "মিডিয়া বা মানুষের কথায় প্যানিক না হয়ে যুক্তির মাধ্যমে বিনিয়োগ বা ক্যারিয়ারের সিদ্ধান্ত নেওয়া উচিত।",
-          "bn": "মিডিয়া বা মানুষের কথায় প্যানিক না হয়ে যুক্তির মাধ্যমে বিনিয়োগ বা ক্যারিয়ারের সিদ্ধান্ত নেওয়া উচিত।"
+          "en": "Make investment or career decisions based on logic, not on media panic or public opinion.",
+          "bn": "মিডিয়া বা মানুষের কথায় আতঙ্কিত না হয়ে নিজের যুক্তি ও বিচক্ষণতা দিয়ে ক্যারিয়ার বা বিনিয়োগের সিদ্ধান্ত নিন।"
         }
       },
       {
         "title": {
-          "en": "টিকে থাকার মানসিকতা",
+          "en": "Survival Mindset",
           "bn": "টিকে থাকার মানসিকতা"
         },
         "content": {
-          "en": "মন্দার সময় যারা মাথা ঠান্ডা রেখে টিকে থাকে, সুসময়ে তারাই সবচেয়ে বেশি লাভবান হয়।",
+          "en": "Those who remain calm and survive during a recession are the ones who benefit the most when the economy rebounds.",
           "bn": "মন্দার সময় যারা মাথা ঠান্ডা রেখে টিকে থাকে, সুসময়ে তারাই সবচেয়ে বেশি লাভবান হয়।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আপনার বিনিয়োগ বা সঞ্চয়ের দিকে তাকান। প্যানিক হয়ে সব বিক্রি বা খরচ না করে দীর্ঘমেয়াদী প্ল্যানে অটল থাকুন। মন্দাকে \"Sale\" বা সুযোগ হিসেবে দেখার চেষ্টা করুন।",
-      "bn": "আপনার বিনিয়োগ বা সঞ্চয়ের দিকে তাকান। প্যানিক হয়ে সব বিক্রি বা খরচ না করে দীর্ঘমেয়াদী প্ল্যানে অটল থাকুন। মন্দাকে \"Sale\" বা সুযোগ হিসেবে দেখার চেষ্টা করুন।"
+      "en": "Look at your savings or investments. Instead of panic-selling, stick to your long-term plan. View a recession as an opportunity or a 'sale'.",
+      "bn": "আপনার সঞ্চয় বা বিনিয়োগের দিকে নতুন করে তাকান। আতঙ্কিত হয়ে সব শেষ না করে নিজের দীর্ঘমেয়াদী পরিকল্পনায় অটল থাকুন। মন্দাকে ভয়ের বদলে একটি সুবর্ণ সুযোগ হিসেবে দেখার চেষ্টা করুন।"
     },
     "criticalReflection": {
-      "en": "মন্দার মধ্যে শান্ত থাকা তাদের জন্যই সহজ যাদের সঞ্চয় আছে। যাদের চাকরি/বাড়ি হারাতে হচ্ছে, তাদের জন্য \"শান্ত থাকা\"র উপদেশ অনেকটা উপহাসের মতো শোনাতে পারে। তবে, প্যানিক কেবল দারিদ্র্যকে আরও খারাপ করে। যুক্তিসঙ্গত পদক্ষেপ (খরচ কমানো, আপস্কিলিং) হলো একমাত্র মুক্তির উপায়, শ্রেণী নির্বিশেষে।",
-      "bn": "মন্দার মধ্যে শান্ত থাকা তাদের জন্যই সহজ যাদের সঞ্চয় আছে। যাদের চাকরি/বাড়ি হারাতে হচ্ছে, তাদের জন্য \"শান্ত থাকা\"র উপদেশ অনেকটা উপহাসের মতো শোনাতে পারে। তবে, প্যানিক কেবল দারিদ্র্যকে আরও খারাপ করে। যুক্তিসঙ্গত পদক্ষেপ (খরচ কমানো, আপস্কিলিং) হলো একমাত্র মুক্তির উপায়, শ্রেণী নির্বিশেষে।"
+      "en": "Staying calm during a recession is easier for those with savings. For those losing jobs, advice to 'stay calm' can sound like mockery. However, panic only worsens poverty. Rational action is the only way out.",
+      "bn": "মন্দার সময় শান্ত থাকা তাদের জন্যই সহজ যাদের হাতে সঞ্চয় আছে। কিন্তু যারা কাজ হারিয়েছেন, তাদের শান্ত থাকার উপদেশ দেওয়া অনেকটা উপহাসের মতো হতে পারে। তবুও মনে রাখবেন—আতঙ্ক মানুষের অভাবকে আরও বাড়িয়ে দেয়। বুদ্ধিমত্তার সাথে নেওয়া পদক্ষেপই হতে পারে মুক্তির একমাত্র পথ।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "আর্থিক স্থিতিস্থাপকতা এবং সময়ের সাথে সম্পদ সঞ্চয়।",
-        "bn": "আর্থিক স্থিতিস্থাপকতা এবং সময়ের সাথে সম্পদ সঞ্চয়।"
+        "en": "Financial resilience and wealth accumulation over time.",
+        "bn": "আপনার আর্থিক স্থিতিশীলতা বাড়বে এবং ধীরে ধীরে সম্পদ বৃদ্ধি পাবে।"
       },
       "social": {
-        "en": "ভয়ের কারণে সৃষ্ট বাজারের অস্থিতিশীলতা হ্রাস।",
-        "bn": "ভয়ের কারণে সৃষ্ট বাজারের অস্থিতিশীলতা হ্রাস।"
+        "en": "Reduced market volatility caused by fear.",
+        "bn": "মানুষের অহেতুক ভয়ের কারণে সৃষ্ট বাজারের অস্থিরতা কমে আসবে।"
       }
     }
   },
@@ -8060,95 +7823,95 @@ export const chapters: Chapter[] = [
     "id": 83,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Making Peace with Mortality (The Conclusion)",
-      "bn": "Making Peace with Mortality (The Conclusion)"
+      "bn": "মৃত্যুর সাথে মিতালি (উপসংহার)"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "You don’t want to be a slave to anything. You want to be free. So be free — of everything.",
-          "bn": "You don’t want to be a slave to anything. You want to be free. So be free — of everything."
+          "bn": "আপনি কোনো কিছুর দাস হতে চান না, আপনি চান মুক্তি। তাই সকল মোহ থেকে মুক্তি লাভ করুন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "When we’re sick, we should respect the signals our body sends us. When we age, we should be proud instead of trying to hide.",
-          "bn": "When we’re sick, we should respect the signals our body sends us. When we age, we should be proud instead of trying to hide."
+          "bn": "অসুস্থতায় শরীর আমাদের যে সংকেত দেয় তাকে সম্মান করা উচিত। বয়সের ছাপ লুকিয়ে না রেখে বরং অভিজ্ঞতার জন্য গর্বিত হোন।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "শরীরের দাসত্ব",
+          "en": "Slavery to the Body",
           "bn": "শরীরের দাসত্ব"
         },
         "content": {
-          "en": "আমরা শরীরের যত্ন নেব, কিন্তু শরীরের দাস হব না। বার্ধক্য বা অসুস্থতাকে ভয় না পেয়ে জীবনের অংশ হিসেবে মেনে নেব।",
-          "bn": "আমরা শরীরের যত্ন নেব, কিন্তু শরীরের দাস হব না। বার্ধক্য বা অসুস্থতাকে ভয় না পেয়ে জীবনের অংশ হিসেবে মেনে নেব।"
+          "en": "We take care of the body but do not become its slave. Accept aging or illness as natural parts of life.",
+          "bn": "আমরা শরীরের যত্ন নেব ঠিকই, কিন্তু এর দাস হব না। বার্ধক্য বা অসুস্থতাকে জীবনের অবিচ্ছেদ্য অংশ হিসেবে মেনে নেওয়াই শ্রেয়।"
         }
       },
       {
         "title": {
-          "en": "খাবিবের শিক্ষা",
+          "en": "Khabib's Lesson",
           "bn": "খাবিবের শিক্ষা"
         },
         "content": {
-          "en": "ফাইটার খাবিবের বাবার মৃত্যুর পর তার অবসরের সিদ্ধান্ত প্রমাণ করে যে জীবনের নশ্বরতা মেনে নেওয়াই প্রকৃত শক্তি।",
-          "bn": "ফাইটার খাবিবের বাবার মৃত্যুর পর তার অবসরের সিদ্ধান্ত প্রমাণ করে যে জীবনের নশ্বরতা মেনে নেওয়াই প্রকৃত শক্তি।"
+          "en": "Fighter Khabib's retirement after his father's death proves that accepting life's mortality is the ultimate strength.",
+          "bn": "খ্যাতানামা ফাইটার খাবিবের বাবার মৃত্যুর পর তার অবসরের সিদ্ধান্ত প্রমাণ করে যে জীবনের নশ্বরতা মেনে নেওয়াই হলো আসল বীরত্ব।"
         }
       },
       {
         "title": {
-          "en": "বার্ধক্যকে আলিঙ্গন",
-          "bn": "বার্ধক্যকে আলিঙ্গন"
+          "en": "Embracing Aging",
+          "bn": "বার্ধক্যকে আলিঙ্গন করা"
         },
         "content": {
-          "en": "বয়স লুকানোর চেষ্টা না করে অভিজ্ঞতার জন্য গর্বিত হওয়া উচিত।",
-          "bn": "বয়স লুকানোর চেষ্টা না করে অভিজ্ঞতার জন্য গর্বিত হওয়া উচিত।"
+          "en": "Instead of trying to hide your age, be proud of the wisdom and experience you've gained over time.",
+          "bn": "নিজের বয়স লুকানোর চেষ্টা না করে বরং জীবনের অর্জিত অভিজ্ঞতা ও প্রজ্ঞার জন্য গর্ব বোধ করুন।"
         }
       },
       {
         "title": {
-          "en": "চূড়ান্ত মুক্তি",
+          "en": "Ultimate Liberation",
           "bn": "চূড়ান্ত মুক্তি"
         },
         "content": {
-          "en": "শরীর, সম্পদ বা পরিস্থিতি—কোনো কিছুর ওপর আসক্তি না রাখাই হলো চূড়ান্ত স্টয়িক মুক্তি বা Freedom।",
-          "bn": "শরীর, সম্পদ বা পরিস্থিতি—কোনো কিছুর ওপর আসক্তি না রাখাই হলো চূড়ান্ত স্টয়িক মুক্তি বা Freedom।"
+          "en": "True Stoic freedom is having no excessive attachment to the body, wealth, or situation. detachment is liberation.",
+          "bn": "শরীর, সম্পদ বা পরিস্থিতির ওপর কোনো অতি আসক্তি না রাখাই হলো প্রকৃত স্টয়িক মুক্তি বা স্বাধীনতা।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "আয়নায় নিজের বয়সের ছাপ বা শরীরের কোনো দাগ দেখে মন খারাপ করবেন না। ভাবুন, \"এটি আমার বেঁচে থাকার প্রমাণ।\" শরীর খারাপ হলে জোর না করে বিশ্রাম নিন। নশ্বরতাকে ভয় না পেয়ে আজকেই সেরা ব্যবহার করুন।",
-      "bn": "আয়নায় নিজের বয়সের ছাপ বা শরীরের কোনো দাগ দেখে মন খারাপ করবেন না। ভাবুন, \"এটি আমার বেঁচে থাকার প্রমাণ।\" শরীর খারাপ হলে জোর না করে বিশ্রাম নিন। নশ্বরতাকে ভয় না পেয়ে আজকেই সেরা ব্যবহার করুন।"
+      "en": "Do not feel sad seeing signs of age or marks on your body. Think, 'This is proof I have lived.' Focus on using today to its fullest instead of fearing mortality.",
+      "bn": "আয়নায় নিজের বয়সের ছাপ বা শরীরের কোনো খুঁত দেখে মন খারাপ করবেন না। বরং ভাবুন—এটিই আমার বেঁচে থাকার স্মৃতি। মৃত্যুকে ভয় না পেয়ে আজকের দিনটিকে সুন্দরভাবে কাজে লাগান।"
     },
     "criticalReflection": {
-      "en": "বইটি একটি বিষাদগ্রস্ত কিন্তু মুক্তিময় নোটে শেষ হয়েছে। শারীরিক ক্ষয় মেনে নেওয়া স্টয়িকের জন্য চূড়ান্ত পরীক্ষা। এটি চিরন্তন যৌবন এবং বায়ো-হ্যাকিংয়ের আধুনিক আবেশকে চ্যালেঞ্জ করে এবং প্রস্তাব করে যে মর্যাদা অস্বীকারে নয়, গ্রহণের মধ্যে নিহিত।",
-      "bn": "বইটি একটি বিষাদগ্রস্ত কিন্তু মুক্তিময় নোটে শেষ হয়েছে। শারীরিক ক্ষয় মেনে নেওয়া স্টয়িকের জন্য চূড়ান্ত পরীক্ষা। এটি চিরন্তন যৌবন এবং বায়ো-হ্যাকিংয়ের আধুনিক আবেশকে চ্যালেঞ্জ করে এবং প্রস্তাব করে যে মর্যাদা অস্বীকারে নয়, গ্রহণের মধ্যে নিহিত।"
+      "en": "The book ends on a somber yet liberating note. Accepting physical decay is the ultimate Stoic test. It challenges the obsession with eternal youth and Bio-hacking.",
+      "bn": "বইটি এক বিষাদময় কিন্তু প্রশান্তির মধ্য দিয়ে শেষ হয়েছে। শারীরিক ক্ষয় মেনে নেওয়া প্রতিটি মানুষের জন্য বড় পরীক্ষা। এটি চিরযৌবনের আধুনিক মোহকে চ্যালেঞ্জ করে এবং শেখায় যে জীবনের সার্থকতা কেবল গ্রহণে, অস্বীকারে নয়।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "মার্জিত বার্ধক্য এবং স্বাস্থ্য উদ্বেগ হ্রাস।",
-        "bn": "মার্জিত বার্ধক্য এবং স্বাস্থ্য উদ্বেগ হ্রাস।"
+        "en": "Graceful aging and reduced health anxiety.",
+        "bn": "আপনি মর্যাদার সাথে বার্ধক্যকে বরণ করতে পারবেন এবং অকাল মৃত্যুভয় দূর হবে।"
       },
       "social": {
-        "en": "একটি সমাজ যা প্রবীণদের এবং জীবনের স্বাভাবিক চক্রকে সম্মান করে।",
-        "bn": "একটি সমাজ যা প্রবীণদের এবং জীবনের স্বাভাবিক চক্রকে সম্মান করে।"
+        "en": "A society that respects the elderly and the natural cycle of life.",
+        "bn": "সমাজে প্রবীণদের প্রতি সম্মান বাড়বে এবং জীবনের স্বাভাবিক নিয়মকে মানুষ শ্রদ্ধার সাথে গ্রহণ করবে।"
       }
     }
-  }
+  },
 ];
 
 export const getChapterById = (id: number) => chapters.find(c => c.id === id);
