@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import type { Chapter } from '../data/chapters';
+import { useLanguage } from '../context/LanguageContext';
 
 interface ChapterModalProps {
     chapter: Chapter;
@@ -16,6 +17,7 @@ const TAB_ORDER: Array<'insights' | 'practice' | 'reflection' | 'quotes'> = [
 ];
 
 export function ChapterModal({ chapter, onClose, onPrevChapter, onNextChapter, hasPrevChapter, hasNextChapter }: ChapterModalProps) {
+    const { isBengali } = useLanguage();
     const [activeTab, setActiveTab] = useState<'insights' | 'quotes' | 'practice' | 'reflection'>('insights');
     const [tabTransition, setTabTransition] = useState<'none' | 'slide-left' | 'slide-right'>('none');
 
@@ -167,14 +169,16 @@ export function ChapterModal({ chapter, onClose, onPrevChapter, onNextChapter, h
 
     return (
         <div className="chapter-modal-overlay" onClick={onClose}>
-            <div className="chapter-modal" onClick={e => e.stopPropagation()}>
+            <div className="chapter-modal card-glass" onClick={e => e.stopPropagation()}>
                 <header className="modal-header">
                     <div className="chapter-title-group">
-                        <div className="modal-chapter-badge">Chapter {chapter.id}</div>
+                        <div className="modal-chapter-badge">{isBengali ? 'অধ্যায়' : 'Chapter'} {chapter.id}</div>
                         {chapter.sectionTitle && (
-                            <span className="section-label">{chapter.sectionTitle}</span>
+                            <span className="section-label">{isBengali ? chapter.sectionTitle.bn : chapter.sectionTitle.en}</span>
                         )}
-                        <h2 className="chapter-title">{chapter.chapterTitle}</h2>
+                        <h2 className={`chapter-title ${isBengali ? 'bengali-text' : ''}`}>
+                            {isBengali ? chapter.chapterTitle.bn : chapter.chapterTitle.en}
+                        </h2>
                     </div>
                     <button className="close-btn" onClick={onClose} aria-label="Close modal">
                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -200,46 +204,48 @@ export function ChapterModal({ chapter, onClose, onPrevChapter, onNextChapter, h
                                 />
                             </div>
                             <span className="pull-indicator__text">
-                                {pullDirection === 'up' ? '↑ Next Chapter' : '↓ Previous Chapter'}
+                                {pullDirection === 'up'
+                                    ? (isBengali ? '↑ পরবর্তী অধ্যায়' : '↑ Next Chapter')
+                                    : (isBengali ? '↓ আগের অধ্যায়' : '↓ Previous Chapter')}
                             </span>
                         </div>
                     )}
                     {/* Tab Navigation */}
                     <nav className="content-tabs">
                         <button
-                            className={`tab-btn ${activeTab === 'insights' ? 'active' : ''}`}
+                            className={`tab-btn ${activeTab === 'insights' ? 'active' : ''} ${isBengali ? 'bengali-text' : ''}`}
                             onClick={() => setActiveTab('insights')}
                         >
-                            মূল অন্তর্দৃষ্টি
+                            {isBengali ? 'মূল অন্তর্দৃষ্টি' : 'Core Insights'}
                         </button>
                         <button
-                            className={`tab-btn ${activeTab === 'practice' ? 'active' : ''}`}
+                            className={`tab-btn ${activeTab === 'practice' ? 'active' : ''} ${isBengali ? 'bengali-text' : ''}`}
                             onClick={() => setActiveTab('practice')}
                         >
-                            অনুশীলন
+                            {isBengali ? 'অনুশীলন' : 'Practice'}
                         </button>
                         <button
-                            className={`tab-btn ${activeTab === 'reflection' ? 'active' : ''}`}
+                            className={`tab-btn ${activeTab === 'reflection' ? 'active' : ''} ${isBengali ? 'bengali-text' : ''}`}
                             onClick={() => setActiveTab('reflection')}
                         >
-                            পর্যালোচনা
+                            {isBengali ? 'পর্যালোচনা' : 'Reflection'}
                         </button>
                         <button
-                            className={`tab-btn ${activeTab === 'quotes' ? 'active' : ''}`}
+                            className={`tab-btn ${activeTab === 'quotes' ? 'active' : ''} ${isBengali ? 'bengali-text' : ''}`}
                             onClick={() => setActiveTab('quotes')}
                         >
-                            Golden Quotes
+                            {isBengali ? 'সুবর্ণ উদ্ধৃতি' : 'Golden Quotes'}
                         </button>
                     </nav>
 
                     {/* Tab Content */}
-                    <div className={`tab-content tab-content--${tabTransition}`}>
+                    <div className={`tab-content tab-content--${tabTransition} ${isBengali ? 'bengali-text' : ''}`}>
                         {activeTab === 'insights' && (
-                            <div className="insights-grid bengali-text">
+                            <div className="insights-grid">
                                 {chapter.coreInsights.map((insight, idx) => (
                                     <div key={idx} className="insight-card">
-                                        <h4 className="insight-title">{insight.title}</h4>
-                                        <p className="insight-content">{insight.content}</p>
+                                        <h4 className="insight-title">{isBengali ? insight.title.bn : insight.title.en}</h4>
+                                        <p className="insight-content">{isBengali ? insight.content.bn : insight.content.en}</p>
                                     </div>
                                 ))}
                             </div>
@@ -249,39 +255,39 @@ export function ChapterModal({ chapter, onClose, onPrevChapter, onNextChapter, h
                             <div className="golden-quotes-section">
                                 {chapter.goldenQuotes.map((quoteObj, idx) => (
                                     <blockquote key={idx} className="quote">
-                                        <p className="quote-text">{quoteObj.quote}</p>
-                                        <footer className="quote-author">— {quoteObj.author}</footer>
+                                        <p className="quote-text">{isBengali ? quoteObj.quote.bn : quoteObj.quote.en}</p>
+                                        <footer className="quote-author">— {isBengali ? quoteObj.author.bn : quoteObj.author.en}</footer>
                                     </blockquote>
                                 ))}
                             </div>
                         )}
 
                         {activeTab === 'practice' && (
-                            <div className="practice-section bengali-text">
+                            <div className="practice-section">
                                 <div className="practice-header">
                                     <span className="practice-icon">🎯</span>
-                                    <h3>অনুশীলন</h3>
+                                    <h3>{isBengali ? 'অনুশীলন' : 'Practice'}</h3>
                                 </div>
-                                <p className="practice-content">{chapter.practicalApplication}</p>
+                                <p className="practice-content">{isBengali ? chapter.practicalApplication.bn : chapter.practicalApplication.en}</p>
                             </div>
                         )}
 
                         {activeTab === 'reflection' && (
-                            <div className="reflection-section bengali-text">
+                            <div className="reflection-section">
                                 <div className="critical-reflection">
-                                    <h4>সমালোচনামূলক বিশ্লেষণ</h4>
-                                    <p>{chapter.criticalReflection}</p>
+                                    <h4>{isBengali ? 'সমালোচনামূলক বিশ্লেষণ' : 'Critical Analysis'}</h4>
+                                    <p>{isBengali ? chapter.criticalReflection.bn : chapter.criticalReflection.en}</p>
                                 </div>
                                 <div className="outcomes-grid">
                                     <div className="outcome-card individual">
                                         <span className="outcome-icon">👤</span>
-                                        <h5>ব্যক্তিগত</h5>
-                                        <p>{chapter.expectedOutcomes.individual}</p>
+                                        <h5>{isBengali ? 'ব্যক্তিগত' : 'Individual'}</h5>
+                                        <p>{isBengali ? chapter.expectedOutcomes.individual.bn : chapter.expectedOutcomes.individual.en}</p>
                                     </div>
                                     <div className="outcome-card social">
                                         <span className="outcome-icon">👥</span>
-                                        <h5>সামাজিক</h5>
-                                        <p>{chapter.expectedOutcomes.social}</p>
+                                        <h5>{isBengali ? 'সামাজিক' : 'Social'}</h5>
+                                        <p>{isBengali ? chapter.expectedOutcomes.social.bn : chapter.expectedOutcomes.social.en}</p>
                                     </div>
                                 </div>
                             </div>

@@ -1,12 +1,14 @@
 import { useState, useEffect, useRef } from 'react';
 import { searchChapters } from '../data/search';
 import type { SearchResult } from '../data/search';
+import { useLanguage } from '../context/LanguageContext';
 
 interface SearchProps {
     onResultSelect?: (chapterId: number) => void;
 }
 
 export function Search({ onResultSelect }: SearchProps) {
+    const { isBengali } = useLanguage();
     const [query, setQuery] = useState('');
     const [results, setResults] = useState<SearchResult[]>([]);
     const [isExpanded, setIsExpanded] = useState(false);
@@ -101,7 +103,7 @@ export function Search({ onResultSelect }: SearchProps) {
                     ref={inputRef}
                     type="text"
                     className="search-input"
-                    placeholder="Search... (English or বাংলায়)"
+                    placeholder={isBengali ? "অনুসন্ধান করুন..." : "Search..."}
                     value={query}
                     onChange={(e) => setQuery(e.target.value)}
                     onFocus={() => query.length >= 2 && setShowResults(true)}
@@ -133,19 +135,19 @@ export function Search({ onResultSelect }: SearchProps) {
                                 {result.chapter.id}
                             </span>
                             <div className="result-content">
-                                <span className="result-title">
-                                    {result.chapter.chapterTitle}
+                                <span className={`result-title ${isBengali ? 'bengali-text' : ''}`}>
+                                    {isBengali ? result.chapter.chapterTitle.bn : result.chapter.chapterTitle.en}
                                 </span>
-                                <span className="result-preview">
-                                    {result.chapter.coreInsights[0]?.title}
+                                <span className={`result-preview ${isBengali ? 'bengali-text' : ''}`}>
+                                    {isBengali ? result.chapter.coreInsights[0]?.title.bn : result.chapter.coreInsights[0]?.title.en}
                                 </span>
                             </div>
                             <div className="result-badges">
                                 {result.matchedFields.includes('quotes') && (
                                     <span className="badge badge-gold">Quote</span>
                                 )}
-                                {result.matchedFields.includes('bengali') && (
-                                    <span className="badge badge-emerald">বাংলা</span>
+                                {result.matchedFields.includes('insights') && (
+                                    <span className="badge badge-emerald">Insight</span>
                                 )}
                             </div>
                         </button>
@@ -156,7 +158,7 @@ export function Search({ onResultSelect }: SearchProps) {
             {showResults && query.length >= 2 && results.length === 0 && (
                 <div className="search-results">
                     <div className="search-no-results">
-                        No chapters found for "{query}"
+                        {isBengali ? `"${query}" এর জন্য কোনো ফলাফল পাওয়া যায়নি` : `No chapters found for "${query}"`}
                     </div>
                 </div>
             )}

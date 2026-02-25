@@ -1,5 +1,6 @@
 import type { ReactNode } from 'react';
 import { Search } from './Search';
+import { useLanguage } from '../context/LanguageContext';
 
 interface LayoutProps {
     children: ReactNode;
@@ -7,6 +8,8 @@ interface LayoutProps {
 }
 
 export function Layout({ children, onSearch }: LayoutProps) {
+    const { language, toggleLanguage } = useLanguage();
+
     return (
         <div className="app-layout">
             {/* Header */}
@@ -14,22 +17,26 @@ export function Layout({ children, onSearch }: LayoutProps) {
                 <div className="header-content">
                     <div className="logo-section">
                         <div className="logo-icon">
-                            <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
-                                <circle cx="16" cy="16" r="14" stroke="currentColor" strokeWidth="2" />
-                                <path
-                                    d="M16 8v8l6 3"
-                                    stroke="currentColor"
-                                    strokeWidth="2"
-                                    strokeLinecap="round"
-                                />
-                            </svg>
+                            <img src="/logo.png" alt="Stoic Guide Logo" className="logo-img" />
                         </div>
                         <div className="logo-text">
                             <h1>Stoic Guide</h1>
                         </div>
                     </div>
 
-                    <Search onResultSelect={onSearch} />
+                    <div className="header-actions">
+                        <button
+                            className="lang-toggle"
+                            onClick={toggleLanguage}
+                            title={language === 'en' ? 'Switch to Bengali' : 'Switch to English'}
+                            aria-label="Toggle language"
+                        >
+                            <span className={`lang-option ${language === 'en' ? 'active' : ''}`}>EN</span>
+                            <span className="lang-divider">/</span>
+                            <span className={`lang-option ${language === 'bn' ? 'active' : ''}`}>বাং</span>
+                        </button>
+                        <Search onResultSelect={onSearch} />
+                    </div>
                 </div>
             </header>
 
@@ -42,12 +49,21 @@ export function Layout({ children, onSearch }: LayoutProps) {
             {/* Footer */}
             <footer className="app-footer">
                 <div className="footer-content">
-                    <p>
+                    <p className="copyright-text">
+                        © {new Date().getFullYear()} All Rights Reserved by <a href="https://orbitsaas.cloud" target="_blank" rel="noopener noreferrer" className="brand-link">OrbitSaaS</a>
+                    </p>
+                    <p className="footer-subtext">
                         Based on <em>"Focus on What Matters"</em> by Darius Foroux
                     </p>
-                    <p className="bengali-text">
-                        ৮৩টি অধ্যায় • স্টয়িক দর্শন • বাংলায় সারসংক্ষেপ
-                    </p>
+                    {language === 'bn' ? (
+                        <p className="bengali-text footer-subtext">
+                            ৮৩টি অধ্যায় • স্টয়িক দর্শন • বাংলায় সারসংক্ষেপ
+                        </p>
+                    ) : (
+                        <p className="footer-subtext">
+                            83 Chapters • Stoic Philosophy • Summarized in English
+                        </p>
+                    )}
                 </div>
             </footer>
         </div>

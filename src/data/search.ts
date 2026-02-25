@@ -39,18 +39,18 @@ export function buildSearchIndex(): Index {
             lunr.stemmer
         );
 
-        // Index all chapters
+        // Index all chapters combining both EN and BN texts
         chapters.forEach((chapter) => {
             this.add({
                 id: chapter.id,
-                chapterTitle: chapter.chapterTitle,
-                goldenQuotes: chapter.goldenQuotes.map(q => q.quote + ' ' + q.author).join(' '),
-                criticalReflection: chapter.criticalReflection,
-                expectedOutcomesIndividual: chapter.expectedOutcomes.individual,
-                expectedOutcomesSocial: chapter.expectedOutcomes.social,
-                coreInsightsTitles: chapter.coreInsights.map(i => i.title).join(' '),
-                coreInsightsContent: chapter.coreInsights.map(i => i.content).join(' '),
-                practicalApplication: chapter.practicalApplication
+                chapterTitle: `${chapter.chapterTitle.en} ${chapter.chapterTitle.bn}`,
+                goldenQuotes: chapter.goldenQuotes.map(q => `${q.quote.en} ${q.quote.bn} ${q.author.en} ${q.author.bn}`).join(' '),
+                criticalReflection: `${chapter.criticalReflection.en} ${chapter.criticalReflection.bn}`,
+                expectedOutcomesIndividual: `${chapter.expectedOutcomes.individual.en} ${chapter.expectedOutcomes.individual.bn}`,
+                expectedOutcomesSocial: `${chapter.expectedOutcomes.social.en} ${chapter.expectedOutcomes.social.bn}`,
+                coreInsightsTitles: chapter.coreInsights.map(i => `${i.title.en} ${i.title.bn}`).join(' '),
+                coreInsightsContent: chapter.coreInsights.map(i => `${i.content.en} ${i.content.bn}`).join(' '),
+                practicalApplication: `${chapter.practicalApplication.en} ${chapter.practicalApplication.bn}`
             });
         });
     });
@@ -76,18 +76,28 @@ export function searchChapters(query: string): SearchResult[] {
             const matchedFields: string[] = [];
             const queryLower = query.toLowerCase();
 
-            if (chapter.chapterTitle.toLowerCase().includes(queryLower)) {
+            const titleMatch = chapter.chapterTitle.en.toLowerCase().includes(queryLower) || chapter.chapterTitle.bn.toLowerCase().includes(queryLower);
+            if (titleMatch) {
                 matchedFields.push('title');
             }
-            if (chapter.goldenQuotes.some(q => q.quote.toLowerCase().includes(queryLower) || q.author.toLowerCase().includes(queryLower))) {
+            const quotesMatch = chapter.goldenQuotes.some(q =>
+                q.quote.en.toLowerCase().includes(queryLower) ||
+                q.quote.bn.toLowerCase().includes(queryLower) ||
+                q.author.en.toLowerCase().includes(queryLower) ||
+                q.author.bn.toLowerCase().includes(queryLower)
+            );
+            if (quotesMatch) {
                 matchedFields.push('quotes');
             }
-            if (chapter.coreInsights.some(i =>
-                i.title.includes(query) || i.content.includes(query)
-            )) {
-                matchedFields.push('bengali');
+            const insightsMatch = chapter.coreInsights.some(i =>
+                i.title.en.toLowerCase().includes(queryLower) || i.title.bn.toLowerCase().includes(queryLower) ||
+                i.content.en.toLowerCase().includes(queryLower) || i.content.bn.toLowerCase().includes(queryLower)
+            );
+            if (insightsMatch) {
+                matchedFields.push('insights');
             }
-            if (chapter.practicalApplication.includes(query)) {
+            const practiceMatch = chapter.practicalApplication.en.toLowerCase().includes(queryLower) || chapter.practicalApplication.bn.toLowerCase().includes(queryLower);
+            if (practiceMatch) {
                 matchedFields.push('practice');
             }
 
@@ -102,10 +112,10 @@ export function searchChapters(query: string): SearchResult[] {
         return chapters
             .filter(ch => {
                 const searchText = [
-                    ch.chapterTitle,
-                    ...ch.goldenQuotes.map(q => q.quote + ' ' + q.author),
-                    ...ch.coreInsights.map(i => i.title + ' ' + i.content),
-                    ch.practicalApplication
+                    ch.chapterTitle.en, ch.chapterTitle.bn,
+                    ...ch.goldenQuotes.map(q => `${q.quote.en} ${q.quote.bn} ${q.author.en} ${q.author.bn}`),
+                    ...ch.coreInsights.map(i => `${i.title.en} ${i.title.bn} ${i.content.en} ${i.content.bn}`),
+                    ch.practicalApplication.en, ch.practicalApplication.bn
                 ].join(' ').toLowerCase();
                 return searchText.includes(query.toLowerCase());
             })
