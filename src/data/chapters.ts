@@ -7441,102 +7441,102 @@ export const chapters: Chapter[] = [
     "id": 79,
     "sectionTitle": {
       "en": "The Outer World",
-      "bn": "The Outer World"
+      "bn": "বহির্জগৎ"
     },
     "chapterTitle": {
       "en": "Relentless Consistency",
-      "bn": "Relentless Consistency"
+      "bn": "অবিরাম ধারাবাহিকতা"
     },
     "goldenQuotes": [
       {
         "quote": {
           "en": "The way you treat small problems becomes how you treat big ones.",
-          "bn": "The way you treat small problems becomes how you treat big ones."
+          "bn": "ছোট সমস্যাগুলোকে আপনি যেভাবে মোকাবেলা করবেন, বড় সমস্যাগুলোর ক্ষেত্রেও আপনার আচরণ ঠিক তেমনই হবে।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "If you know you’re doing the right thing, don’t let anyone stop you.",
-          "bn": "If you know you’re doing the right thing, don’t let anyone stop you."
+          "bn": "আপনি যদি জানেন আপনি সঠিক কাজটি করছেন, তবে কাউকে আপনার পথ রোধ করতে দেবেন না।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       },
       {
         "quote": {
           "en": "Never miss.",
-          "bn": "Never miss."
+          "bn": "কখনো হাল ছাড়বেন না বা বাদ দেবেন না।"
         },
         "author": {
           "en": "Stoic Wisdom",
-          "bn": "Stoic Wisdom"
+          "bn": "স্টয়িক দর্শন"
         }
       }
     ],
     "coreInsights": [
       {
         "title": {
-          "en": "ছোট সমস্যার গুরুত্ব",
+          "en": "Importance of Small Problems",
           "bn": "ছোট সমস্যার গুরুত্ব"
         },
         "content": {
-          "en": "ছোট সমস্যাকে অবহেলা করলে তা বড় সমস্যার মোকাবেলায় আমাদের দুর্বল করে দেয়। কার রেন্টাল কোম্পানির উদাহরণ দিয়ে লেখক দৃঢ়তার কথা বলেছেন।",
-          "bn": "ছোট সমস্যাকে অবহেলা করলে তা বড় সমস্যার মোকাবেলায় আমাদের দুর্বল করে দেয়। কার রেন্টাল কোম্পানির উদাহরণ দিয়ে লেখক দৃঢ়তার কথা বলেছেন।"
+          "en": "Ignoring small problems weakens us when facing massive ones. High standards in trivial things build the character needed for life's biggest challenges.",
+          "bn": "ছোট সমস্যাগুলোকে অবহেলা করলে তা বড় সমস্যা মোকাবেলালায় আমাদের মানসিকভাবে দুর্বল করে দেয়। তুচ্ছ বিষয়গুলোতে উচ্চ আদর্শ বজায় রাখাই আপনার চরিত্রকে কঠিন সংগ্রামের জন্য প্রস্তুত করে।"
         }
       },
       {
         "title": {
-          "en": "নেভার মিস",
-          "bn": "নেভার মিস"
+          "en": "Never Miss",
+          "bn": "অবিরাম চেষ্টা"
         },
         "content": {
-          "en": "জিমে যাওয়া হোক বা লেখালেখি—\"Never Miss\" বা একদিনও বাদ না দেওয়ার মানসিকতা অজেয় করে তোলে।",
-          "bn": "জিমে যাওয়া হোক বা লেখালেখি—\"Never Miss\" বা একদিনও বাদ না দেওয়ার মানসিকতা অজেয় করে তোলে।"
+          "en": "Whether it's exercising or writing, the 'Never Miss' mindset makes you unstoppable. Consistency is the primary marker of an elite character.",
+          "bn": "জিমে যাওয়া হোক বা লেখালেখি—'Never Miss' বা একদিনও বাদ না দেওয়ার মানসিকতা আপনাকে অজেয় করে তোলে। অবিরাম ধারাবাহিকতাই একজন আদর্শ মানুষের প্রধান পরিচয়।"
         }
       },
       {
         "title": {
-          "en": "দ্বৈত সত্তা",
+          "en": "The Dual Persona",
           "bn": "দ্বৈত সত্তা"
         },
         "content": {
-          "en": "মায়ের উপদেশ—ঘরের ভেতরে দয়ালু এবং বাইরে অনমনীয় বা 'Unstoppable' হওয়া।",
-          "bn": "মায়ের উপদেশ—ঘরের ভেতরে দয়ালু এবং বাইরে অনমনীয় বা 'Unstoppable' হওয়া।"
+          "en": "Be kind and gentle inside the house, but be firm and unstoppable in the outer world. Balance of empathy and resolve is key.",
+          "bn": "ঘরের চার দেয়ালের ভেতরে দয়ালু ও সদয় হোন, কিন্তু বাইরের পৃথিবীতে নিজের লক্ষ্যে থাকুন অনড় ও অদম্য। সহানুভূতি এবং সংকল্পের ভারসাম্যই হলো সফলতার মূল চাবিকাঠি।"
         }
       },
       {
         "title": {
-          "en": "বিরোধিতা মোকাবেলা",
-          "bn": "বিরোধিতা মোকাবেলা"
+          "en": "Overcoming Opposition",
+          "bn": "বাধা জয় করা"
         },
         "content": {
-          "en": "সঠিক পথে থাকলে পৃথিবীর কারো কথায় থামা উচিত নয়।",
-          "bn": "সঠিক পথে থাকলে পৃথিবীর কারো কথায় থামা উচিত নয়।"
+          "en": "If you are on the right path, do not stop for anyone's criticism. Your results will eventually silence the skeptics.",
+          "bn": "আপনি যদি সঠিক পথে থাকেন, তবে খামাখা কারো নেতিবাচক কথায় থেমে যাবেন না। আপনার সাফল্যই একদিন আপনার সমালোচকদের মুখ বন্ধ করে দেবে।"
         }
       }
     ],
     "practicalApplication": {
-      "en": "\"Seinfeld Strategy\" বা ক্যালেন্ডার চেইন মেথড ব্যবহার করুন। কোনো একটি অভ্যাসের জন্য ক্যালেন্ডারে রোজ দাগ দিন। চেইন ভাঙবেন না। ছোট ছোট জয়ে নিজেকে অভ্যস্ত করুন।",
-      "bn": "\"Seinfeld Strategy\" বা ক্যালেন্ডার চেইন মেথড ব্যবহার করুন। কোনো একটি অভ্যাসের জন্য ক্যালেন্ডারে রোজ দাগ দিন। চেইন ভাঙবেন না। ছোট ছোট জয়ে নিজেকে অভ্যস্ত করুন।"
+      "en": "Use the 'Seinfeld Strategy' or calendar chain method. Mark every day you stick to a habit. Don't break the chain. Habituate yourself with small wins.",
+      "bn": "'Seinfeld Strategy' বা ক্যালেন্ডার চেইন মেথড ব্যবহার করুন। কোনো একটি ভালো অভ্যাস পালনের জন্য ক্যালেন্ডারে রোজ দাগ দিন। এই চেইন বা ধারাবাহিকতা কখনো ভাঙবেন না। ছোট ছোট জয়ে নিজেকে অভ্যস্ত করুন।"
     },
     "criticalReflection": {
-      "en": "\"Never miss\" বা \"কখনও মিস না করা\" উচ্চ শৃঙ্খলা তৈরি করে তবে এটি অবসেসিভ-কম্পালসিভ আচরণ বা বার্নআউটের ঝুঁকি তৈরি করে। জীবনে অনেক কিছু ঘটে (অসুস্থতা, জরুরি অবস্থা)। একটি আরও সহানুভূতিশীল নিয়ম হলো \"Never miss twice\" (জেমস ক্লিয়ার), যা গতি বা মোমেন্টাম না হারিয়েও মানুষের ভুলের সুযোগ রাখে।",
-      "bn": "\"Never miss\" বা \"কখনও মিস না করা\" উচ্চ শৃঙ্খলা তৈরি করে তবে এটি অবসেসিভ-কম্পালসিভ আচরণ বা বার্নআউটের ঝুঁকি তৈরি করে। জীবনে অনেক কিছু ঘটে (অসুস্থতা, জরুরি অবস্থা)। একটি আরও সহানুভূতিশীল নিয়ম হলো \"Never miss twice\" (জেমস ক্লিয়ার), যা গতি বা মোমেন্টাম না হারিয়েও মানুষের ভুলের সুযোগ রাখে।"
+      "en": "'Never miss' creates elite discipline but carries risks of obsessive behavior or burnout. Life happens (illness, emergencies). A more compassionate rule is 'Never miss twice'.",
+      "bn": "'একবারও বাদ না দেওয়া'র মানসিকতা অবিশ্বাস্য শৃঙ্খলা তৈরি করে ঠিকই, তবে এটি মাঝেমধ্যে মানসিক চাপের কারণ হতে পারে। তাই একটি মার্জিত নিয়ম হলো—ভুলবশত একদিন বাদ গেলেও, টানা দুদিন যেন কখনো মিস না হয়।"
     },
     "expectedOutcomes": {
       "individual": {
-        "en": "এলিট স্তরের শৃঙ্খলা এবং গ্রিট (Grit)।",
-        "bn": "এলিট স্তরের শৃঙ্খলা এবং গ্রিট (Grit)।"
+        "en": "Elite discipline and unshakable grit.",
+        "bn": "আপনার মধ্যে অনন্য শৃঙ্খলা এবং অদম্য ধৈর্য গড়ে উঠবে।"
       },
       "social": {
-        "en": "উচ্চ-সাফল্য অর্জনকারী ব্যক্তিরা যারা সীমানা ছাড়িয়ে যান।",
-        "bn": "উচ্চ-সাফল্য অর্জনকারী ব্যক্তিরা যারা সীমানা ছাড়িয়ে যান।"
+        "en": "A society of high-achievers who push past boundaries.",
+        "bn": "এমন একটি সমাজ তৈরি হবে যেখানে মানুষ সীমাবদ্ধতা কাটিয়ে এগিয়ে যেতে শিখবে।"
       }
     }
   },
