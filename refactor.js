@@ -23,7 +23,7 @@ content = content.replace(
 }
 
 export interface Chapter {
-  id: number;
+  id: numbe r;
   sectionTitle: TranslatedString;
   chapterTitle: TranslatedString;
   goldenQuotes: { quote: TranslatedString; author: TranslatedString }[];
